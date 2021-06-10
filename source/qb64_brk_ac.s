@@ -1,0 +1,5230 @@
+0000000000b95370 g     O .bss	0000000000000008              __glewCullParameterdvEXT
+0000000000b96098 g     O .bss	0000000000000008              __glewDeleteVertexShaderEXT
+0000000000b8ed40 g     O .bss	0000000000000008              __LONG_HELP_W
+00000000009cd01e g     F .text	000000000000014d              FT_Stream_OpenLZW
+0000000000b93828 g     O .bss	0000000000000008              __glewBindFragDataLocation
+0000000000961540 g     F .text	000000000000041a              FT_Raccess_Get_DataOffsets
+0000000000906d76 g     F .text	0000000000000048              func_fix_double(double)
+0000000000b94af8 g     O .bss	0000000000000008              __glewVertexAttribLFormat
+0000000000b93268 g     O .bss	0000000000000008              __glewMultiTexCoord3d
+00000000010cfc94 g     O .bss	0000000000000004              qbg_scaling_y
+0000000000000000       F *UND*	0000000000000000              freeaddrinfo@GLIBC_2.2.5
+0000000000b97653 g     O .bss	0000000000000001              __GLEW_EXT_stencil_wrap
+0000000000000000       F *UND*	0000000000000000              glLoadIdentity
+0000000000b90a80 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_MOX
+0000000000b95980 g     O .bss	0000000000000008              __glewTextureImage1DEXT
+0000000000929ad6 g     F .text	000000000000001d              func__console()
+0000000000b938d8 g     O .bss	0000000000000008              __glewTexParameterIuiv
+0000000000b975c0 g     O .bss	0000000000000001              __GLEW_ARB_shader_precision
+0000000000b8f4c0 g     O .bss	0000000000000008              __LONG_ASSERTS
+0000000000b94a40 g     O .bss	0000000000000008              __glewGetActiveUniformsiv
+0000000000b95d08 g     O .bss	0000000000000008              __glewVertexAttribI4usvEXT
+0000000000a78dec g     O .data	0000000000000004              nfimg
+0000000000b97660 g     O .bss	0000000000000001              __GLEW_EXT_texture_env_add
+0000000000b9770d g     O .bss	0000000000000001              __GLEW_SGIX_pixel_texture_bits
+0000000000b90858 g     O .bss	0000000000000008              __LONG_UDTREFID
+0000000000b964f0 g     O .bss	0000000000000008              __glewMapParameterfvNV
+0000000000b95190 g     O .bss	0000000000000008              __glewVertexStream1fvATI
+00000000005719e8 g     F .text	00000000000004b8              FUNC_REMOVEFILEEXTENSION(qbs*)
+0000000000b8f178 g     O .bss	0000000000000008              __ARRAY_STRING_MENUDESC
+00000000009388e3 g     F .text	00000000000000f3              af_face_globals_new
+0000000000000000       F *UND*	0000000000000000              glCullFace
+00000000009d21b0 g     F .text	000000000000022d              glutMainLoop
+0000000000907596 g     F .text	00000000000000a9              func_hex_float(long double)
+0000000000997df4 g     F .text	0000000000000328              tt_cmap13_validate
+0000000000b97478 g     O .bss	0000000000000008              __glewReplacementCodeuiTexCoord2fColor4fNormal3fVertex3fvSUN
+0000000000b94e40 g     O .bss	0000000000000008              __glewTexCoordP1uiv
+00000000009d3510 g     F .text	000000000000008b              glutAddMenuEntry
+0000000000906dbe g     F .text	0000000000000032              func_fix_float(long double)
+0000000000b95c68 g     O .bss	0000000000000008              __glewUniform4uivEXT
+0000000000000000       F *UND*	0000000000000000              glEnd
+0000000000b97534 g     O .bss	0000000000000001              __GLEW_VERSION_4_0
+00000000009c3449 g     F .text	0000000000000280              T42_GlyphSlot_Load
+0000000000b8f350 g     O .bss	0000000000000008              __INTEGER_USERDEFINECOUNT
+0000000000b95598 g     O .bss	0000000000000008              __glewGetNamedProgramLocalParameterIuivEXT
+0000000000b8f738 g     O .bss	0000000000000008              __ULONG_IDENUMBERSCOLOR
+0000000000b964c0 g     O .bss	0000000000000008              __glewGetMapAttribParameterfvNV
+0000000000b8fd98 g     O .bss	0000000000000008              __ARRAY_STRING_DEFINEAZ
+0000000000979642 g     F .text	00000000000000ae              pcf_cmap_char_index
+0000000000b95698 g     O .bss	0000000000000008              __glewMatrixPopEXT
+0000000000000000       F *UND*	0000000000000000              std::ostream::write(char const*, long)@GLIBCXX_3.4
+0000000000b94e20 g     O .bss	0000000000000008              __glewNormalP3uiv
+000000000099883c g     F .text	000000000000008a              tt_cmap14_init
+0000000000b95ab8 g     O .bss	0000000000000008              __glewFragmentColorMaterialEXT
+0000000000b95670 g     O .bss	0000000000000008              __glewMatrixMultTransposedEXT
+0000000000b8ed08 g     O .bss	0000000000000008              __LONG_HELP_WX1
+0000000000902ec8 g     F .text	0000000000000083              byte_element(unsigned long, int)
+00000000009c3016 g     F .text	000000000000008b              T42_Size_Init
+0000000000938d14 g     F .text	0000000000000153              af_axis_hints_new_segment
+0000000000b943d0 g     O .bss	0000000000000008              __glewGetnMapivARB
+0000000000a7de10 g     O .bss	0000000000000001              close_program
+0000000000b93a10 g     O .bss	0000000000000008              __glewBlendEquationSeparatei
+0000000000962d55 g     F .text	0000000000000071              FT_Stream_GetUShort
+0000000000b9760a g     O .bss	0000000000000001              __GLEW_ATI_shader_texture_lod
+0000000000b93a90 g     O .bss	0000000000000008              __glewMultiDrawElementsIndirectAMD
+000000000091cfd7 g     F .text	00000000000000b0              sub_files(qbs*, int)
+0000000000b95320 g     O .bss	0000000000000008              __glewGetConvolutionParameterivEXT
+0000000000993714 g     F .text	0000000000000083              tt_face_load_post
+0000000000b961d8 g     O .bss	0000000000000008              __glewStringMarkerGREMEDY
+0000000000b938b0 g     O .bss	0000000000000008              __glewGetUniformuiv
+0000000000b964a8 g     O .bss	0000000000000008              __glewDepthRangedNV
+0000000000b96318 g     O .bss	0000000000000008              __glewReadBufferRegion
+0000000000a72440 g     O .data.rel.ro	0000000000000040              t1_builder_funcs
+0000000000b97621 g     O .bss	0000000000000001              __GLEW_EXT_compiled_vertex_array
+0000000000b94758 g     O .bss	0000000000000008              __glewUniform2fARB
+0000000000b936d8 g     O .bss	0000000000000008              __glewVertexAttrib1fv
+0000000000b95048 g     O .bss	0000000000000008              __glewGenFragmentShadersATI
+0000000000b8ffb8 g     O .bss	0000000000000008              __STRING_CE
+0000000000a78f28 g     O .data	0000000000000004              MACVK_ANSI_Comma
+0000000000961235 g     F .text	00000000000002c4              FT_Raccess_Get_HeaderInfo
+0000000000b97018 g     O .bss	0000000000000008              __glewDepthRangefOES
+0000000000b8f090 g     O .bss	0000000000000008              __INTEGER_IDEFINDWHOLEWORD
+0000000000b93468 g     O .bss	0000000000000008              __glewBeginQuery
+00000000008e5c50 g     F .text	0000000000000061              func_varptr_helper(unsigned char, unsigned short)
+00000000006afdcc g     F .text	0000000000000179              SUB_SETDEPENDENCY(int*)
+00000000009ded80 g     F .text	000000000000006c              glutIgnoreKeyRepeat
+000000000095cfac g     F .text	00000000000001e2              FT_CMap_Done
+0000000000b962e8 g     O .bss	0000000000000008              __glewPopDebugGroup
+0000000000b94dd8 g     O .bss	0000000000000008              __glewMultiTexCoordP1ui
+0000000000b96248 g     O .bss	0000000000000008              __glewSecondaryColorPointerListIBM
+0000000000a71b40 g     O .data.rel.ro	0000000000000040              ftc_cmap_cache_class
+0000000000b97208 g     O .bss	0000000000000008              __glewGetTexFilterFuncSGIS
+0000000000b973d8 g     O .bss	0000000000000008              __glewReplacementCodeusvSUN
+0000000000b90198 g     O .bss	0000000000000008              __LONG_I10
+0000000000b94998 g     O .bss	0000000000000008              __glewDeleteTransformFeedbacks
+0000000000b975dc g     O .bss	0000000000000001              __GLEW_ARB_texture_float
+0000000000976a87 g     F .text	00000000000000d4              FT_Has_PS_Glyph_Names
+00000000009383c4 g     F .text	00000000000000e1              af_sort_pos
+0000000000a78e00 g     O .data	0000000000000004              screen_last_size
+0000000000b97790 g     O .bss	0000000000000008              __glewXGetSelectedEvent
+0000000000b950f0 g     O .bss	0000000000000008              __glewVariantArrayObjectATI
+0000000000b97380 g     O .bss	0000000000000008              __glewGlobalAlphaFactorsSUN
+0000000000b8f5c0 g     O .bss	0000000000000008              __STRING_LASTBINARYGENERATED
+0000000000b94fe8 g     O .bss	0000000000000008              __glewTexBumpParameterfvATI
+0000000000b94240 g     O .bss	0000000000000008              __glewMultiTexCoord1sARB
+0000000000a7de00 g     O .bss	0000000000000004              dbgline
+0000000000b8fc98 g     O .bss	0000000000000008              __LONG_CURRENTID
+0000000000b97078 g     O .bss	0000000000000008              __glewFrustumx
+00000000009d3990 g     F .text	0000000000000042              glutSetMenuData
+0000000000b976aa g     O .bss	0000000000000001              __GLEW_NV_geometry_program4
+0000000000b976cd g     O .bss	0000000000000001              __GLEW_NV_texture_shader
+0000000000955f8b g     F .text	000000000000004a              cff_cmap_encoding_init
+0000000000b975b6 g     O .bss	0000000000000001              __GLEW_ARB_seamless_cube_map
+0000000000b90428 g     O .bss	0000000000000008              __LONG_E2
+0000000000b942a8 g     O .bss	0000000000000008              __glewMultiTexCoord3fvARB
+0000000000000000       F *UND*	0000000000000000              malloc@GLIBC_2.2.5
+0000000000a78b6c g     O .data	0000000000000004              mem_lock_freed_max
+0000000000b955c0 g     O .bss	0000000000000008              __glewGetNamedRenderbufferParameterivEXT
+0000000000b94798 g     O .bss	0000000000000008              __glewUniform4fARB
+0000000000b93b78 g     O .bss	0000000000000008              __glewGenQueriesANGLE
+0000000000b976f3 g     O .bss	0000000000000001              __GLEW_SGIS_multisample
+0000000000b93f70 g     O .bss	0000000000000008              __glewGetProgramBinary
+0000000000989778 g     F .text	0000000000000037              psh_globals_funcs_init
+0000000000b94620 g     O .bss	0000000000000008              __glewProgramUniformMatrix3dv
+00000000009152bd g     F .text	0000000000000044              sub__display()
+00000000010dcdcc g     O .bss	0000000000000004              unsupported_port_accessed
+0000000000893045 g     F .text	0000000000000bea              SUB_HELP_PREVIEW()
+0000000000b97128 g     O .bss	0000000000000008              __glewTranslatex
+0000000000b8ff00 g     O .bss	0000000000000008              __ARRAY_LONG_WARNINGLINES
+0000000000b95f48 g     O .bss	0000000000000008              __glewAreTexturesResidentEXT
+0000000000a78fe4 g     O .data	0000000000000004              MACVK_F7
+0000000000b94590 g     O .bss	0000000000000008              __glewProgramUniform3i
+000000000098cb10 g     F .text	000000000000043a              ps_hints_apply
+0000000000b8f1a8 g     O .bss	0000000000000008              __INTEGER_OPTIONSMENUID
+0000000000a78ea8 g     O .data	0000000000000004              MACVK_ANSI_V
+0000000000b965b0 g     O .bss	0000000000000008              __glewProgramEnvParametersI4ivNV
+00000000009d2f20 g     F .text	00000000000000dd              fgDeactivateMenu
+000000000093b6ea g     F .text	00000000000000cb              af_latin_metrics_check_digits
+00000000008cbee6 g     F .text	00000000000073f7              glewIsSupported
+0000000000b8f698 g     O .bss	0000000000000008              __LONG_IDEMODE
+00000000010dd4a0 g     O .bss	0000000000000004              pu_ndig
+0000000000b936b8 g     O .bss	0000000000000008              __glewValidateProgram
+0000000000b93798 g     O .bss	0000000000000008              __glewVertexAttrib4dv
+0000000000b967a8 g     O .bss	0000000000000008              __glewTexCoord2hvNV
+0000000000b9761b g     O .bss	0000000000000001              __GLEW_EXT_blend_logic_op
+0000000000b94060 g     O .bss	0000000000000008              __glewConvolutionParameteriv
+0000000000410bda g     F .text	000000000000000c              func__errorline()
+0000000000b9765e g     O .bss	0000000000000001              __GLEW_EXT_texture_edge_clamp
+0000000000b97587 g     O .bss	0000000000000001              __GLEW_ARB_draw_elements_base_vertex
+00000000008a430b  w    F .text	0000000000000012              func__green32(unsigned int)
+0000000000b8efe8 g     O .bss	0000000000000008              __LONG_IDECOMPILEDLINE
+0000000000b977d8 g     O .bss	0000000000000008              __glewXDeleteAssociatedContextAMD
+0000000000b97f30 g     O .bss	0000000000000008              fontheight
+0000000000b951f8 g     O .bss	0000000000000008              __glewVertexStream3dATI
+0000000000903346 g     F .text	0000000000000491              sub_get(int, long, void*, int)
+000000000090a0bc g     F .text	0000000000000007              snd_init()
+0000000000000000       F *UND*	0000000000000000              XCheckTypedWindowEvent
+000000000091948e g     F .text	00000000000000bd              setupx11clipboard()
+00000000008022c7 g     F .text	000000000000054b              FUNC_IDEZGETROOT()
+0000000000b90118 g     O .bss	0000000000000008              __LONG_PARAMS
+0000000000b93360 g     O .bss	0000000000000008              __glewSecondaryColor3b
+000000000099d71c g     F .text	0000000000000028              sfnt_get_interface
+0000000000b97968 g     O .bss	0000000000000008              __glewXWaitForSbcOML
+0000000000b948a8 g     O .bss	0000000000000008              __glewPatchParameteri
+0000000000b93718 g     O .bss	0000000000000008              __glewVertexAttrib2sv
+00000000008e7825 g     F .text	000000000000004c              qbs_str(unsigned int)
+0000000000b945f0 g     O .bss	0000000000000008              __glewProgramUniformMatrix2dv
+0000000000b95218 g     O .bss	0000000000000008              __glewVertexStream3iATI
+0000000000b96790 g     O .bss	0000000000000008              __glewTexCoord1hNV
+0000000000b90570 g     O .bss	0000000000000008              __LONG_RETVAL
+000000000093937a g     F .text	000000000000002f              af_glyph_hints_rescale
+0000000000b94e38 g     O .bss	0000000000000008              __glewTexCoordP1ui
+0000000000965aff g     F .text	00000000000007c1              FT_Bitmap_Convert
+0000000000b97d50 g     O .bss	0000000000000008              window_title
+0000000000bb2688 g     O .bss	0000000000000008              seg
+00000000010dd09c g     O .bss	0000000000000004              shell_call_in_progress
+00000000009691a8 g     F .text	00000000000000b3              ftc_inode_weight
+00000000008e74d9 g     F .text	0000000000000118              qbs_inkey()
+000000000095decf g     F .text	00000000000000f0              FT_Get_CMap_Language_ID
+0000000000b963f0 g     O .bss	0000000000000008              __glewEndConditionalRenderNVX
+00000000008e3a3d g     F .text	0000000000000018              get_error_erl()
+0000000000b8fde0 g     O .bss	0000000000000008              __INTEGER64_I2
+00000000009d9df0 g     F .text	00000000000000b9              glutEnterGameMode
+0000000000b93900 g     O .bss	0000000000000008              __glewUniform2uiv
+000000000096c118 g     F .text	0000000000000032              ft_outline_glyph_bbox
+000000000099cbec g     F .text	00000000000002ff              sfnt_done_face
+0000000000b957d8 g     O .bss	0000000000000008              __glewNamedFramebufferTextureEXT
+0000000000b94fc8 g     O .bss	0000000000000008              __glewDrawRangeElementArrayATI
+0000000000b8fb48 g     O .bss	0000000000000008              __LONG_ISSTRING
+0000000000ba7f68 g     O .bss	0000000000000004              bindkey
+0000000000b8feb8 g     O .bss	0000000000000008              __LONG_DIMMETHOD
+0000000000b953b0 g     O .bss	0000000000000008              __glewClientAttribDefaultEXT
+0000000000b8ee48 g     O .bss	0000000000000008              __BYTE_IDECONTEXTHELPSF
+0000000000b9763f g     O .bss	0000000000000001              __GLEW_EXT_packed_depth_stencil
+0000000000b976f7 g     O .bss	0000000000000001              __GLEW_SGIS_texture4D
+0000000000969723 g     F .text	00000000000001a9              FTC_SNode_New
+000000000099d849 g     F .text	0000000000000013              tt_face_free_charmap_stub
+0000000000958028 g     F .text	0000000000000042              ft_validator_init
+0000000000b97aba g     O .bss	0000000000000001              __GLXEW_NV_swap_group
+000000000091c7c9 g     F .text	00000000000001f8              gfs_read(int, long, unsigned char*, long)
+0000000000b93648 g     O .bss	0000000000000008              __glewUniform2i
+00000000008e67f9 g     F .text	00000000000000f7              sub_rset(qbs*, qbs*)
+00000000010cfb70 g     O .bss	0000000000000004              qbs_malloc_next
+0000000000000000       F *UND*	0000000000000000              std::istream::seekg(long, std::_Ios_Seekdir)@GLIBCXX_3.4
+0000000000b97aaf g     O .bss	0000000000000001              __GLXEW_INTEL_swap_event
+0000000000000000       F *UND*	0000000000000000              glDeleteTextures
+0000000000b934b8 g     O .bss	0000000000000008              __glewGetBufferPointerv
+00000000009296d5 g     F .text	00000000000001ff              func_strig(int, int, int)
+0000000000b97448 g     O .bss	0000000000000008              __glewReplacementCodeuiColor4fNormal3fVertex3fvSUN
+0000000000b8f248 g     O .bss	0000000000000008              __STRING_MENUBAR
+0000000000a78f30 g     O .data	0000000000000004              MACVK_ANSI_N
+00000000009a0719 g     F .text	00000000000003b3              tt_face_find_bdf_prop
+0000000000b95d80 g     O .bss	0000000000000008              __glewTextureLightEXT
+0000000000bb260c g     O .bss	0000000000000004              frame
+0000000000a72c60 g     O .data.rel.ro	0000000000000068              tt_cmap2_class_rec
+0000000000b95468 g     O .bss	0000000000000008              __glewDisableClientStateIndexedEXT
+0000000000a7dba0 g     O .bss	0000000000000008              stderr@GLIBC_2.2.5
+0000000000b97400 g     O .bss	0000000000000008              __glewColor4ubVertex2fSUN
+0000000000b94f30 g     O .bss	0000000000000008              __glewViewportIndexedfv
+0000000000964208 g     F .text	0000000000000069              FT_Vector_Unit
+0000000000411151 g     F .text	00000000000001b2              createDeviceEvent(device_struct*)
+00000000009d75a0 g     F .text	0000000000000088              glutLeaveFullScreen
+000000000091f00b g     F .text	0000000000000222              key_assign(int, qbs*)
+00000000009d7140 g     F .text	0000000000000096              glutIconifyWindow
+0000000000b95e88 g     O .bss	0000000000000008              __glewSecondaryColor3ubvEXT
+000000000095685c g     F .text	000000000000016c              FT_MulDiv
+00000000009d5a90 g     F .text	000000000000008c              fgEnumSubWindows
+000000000095b945 g     F .text	0000000000000023              FT_Reference_Face
+0000000000a78e90 g     O .data	0000000000000004              MACVK_ANSI_F
+0000000000b8ed28 g     O .bss	0000000000000008              __LONG_HELP_WW
+0000000000b906e0 g     O .bss	0000000000000008              __STRING_VAROFFS
+0000000000b97597 g     O .bss	0000000000000001              __GLEW_ARB_gpu_shader5
+0000000000b94480 g     O .bss	0000000000000008              __glewSamplerParameterIiv
+0000000000b972a0 g     O .bss	0000000000000008              __glewFragmentMaterialfSGIX
+0000000000b956f8 g     O .bss	0000000000000008              __glewMultiTexEnviEXT
+0000000000b8ec30 g     O .bss	0000000000000008              __STRING_CURRENTINIFILENAME
+00000000008d7d4e g     F .text	00000000000000d9              convert_text_to_utf16(int, void*, int)
+0000000000b8ff18 g     O .bss	0000000000000008              __LONG_PTRSZ
+0000000000b93538 g     O .bss	0000000000000008              __glewDeleteShader
+0000000000b95b20 g     O .bss	0000000000000008              __glewGetFragmentLightfvEXT
+0000000000b96e88 g     O .bss	0000000000000008              __glewVertexAttrib1sNV
+0000000000b96ef0 g     O .bss	0000000000000008              __glewVertexAttrib3svNV
+0000000000b96ca0 g     O .bss	0000000000000008              __glewFlushVertexArrayRangeNV
+0000000000b96910 g     O .bss	0000000000000008              __glewGetPathCoordsNV
+0000000000b8f7a8 g     O .bss	0000000000000008              __BYTE_SHOWLINENUMBERSSEPARATOR
+000000000095753d g     F .text	0000000000000094              FT_GlyphLoader_Rewind
+00000000009576d3 g     F .text	0000000000000048              FT_GlyphLoader_Done
+00000000008a3f96  w    F .text	000000000000001b              std::fabs(float)
+0000000000000000       F *UND*	0000000000000000              glTexParameteri
+00000000009d3e10 g     F .text	0000000000000041              fgSpaceballClose
+0000000000b93818 g     O .bss	0000000000000008              __glewBeginConditionalRender
+0000000000b931a8 g     O .bss	0000000000000008              __glewCompressedTexSubImage1D
+0000000000956f70 g     F .text	000000000000018b              FT_Matrix_Multiply_Scaled
+0000000000b97ad0 g     O .bss	0000000000000001              __GLXEW_SUN_video_resize
+0000000000a70680 g     O .data.rel.ro	0000000000000040              af_latin_script_class
+0000000000b941c8 g     O .bss	0000000000000008              __glewBindImageTextures
+000000000092b66a g     F .text	0000000000000076              GLUT_IDLEFUNC()
+0000000000b940a0 g     O .bss	0000000000000008              __glewGetConvolutionFilter
+0000000000000000       F *UND*	0000000000000000              glMatrixMode
+0000000000b94fd0 g     O .bss	0000000000000008              __glewElementPointerATI
+0000000000b8ebe8 g     O .bss	0000000000000008              __STRING_CHR_TAB
+00000000009ce7b0 g     F .text	00000000000000db              glutVisibilityFunc
+00000000006d8775 g     F .text	0000000000001348              FUNC_N2S(qbs*)
+00000000010cfce8 g     O .bss	0000000000000008              qbg_visual_page_offset
+000000000095b14f g     F .text	0000000000000680              FT_Open_Face
+0000000000b8f850 g     O .bss	0000000000000008              __LONG_CHECKCHAR
+0000000000b8f8f0 g     O .bss	0000000000000008              __ARRAY_UDT_LABELS
+0000000000b95be0 g     O .bss	0000000000000008              __glewFramebufferTextureEXT
+0000000000b97940 g     O .bss	0000000000000008              __glewXSendPbufferToVideoNV
+0000000000982679 g     F .text	00000000000001d3              t1_builder_init
+0000000000b933b0 g     O .bss	0000000000000008              __glewSecondaryColor3ub
+0000000000b953e0 g     O .bss	0000000000000008              __glewCompressedMultiTexSubImage3DEXT
+00000000006ac0d6 g     F .text	0000000000001c98              FUNC_SYMBOL2FULLTYPENAME(qbs*)
+0000000000b90a60 g     O .bss	0000000000000008              _FUNC_IDE2_BYTE_QUICKNAVHOVER
+00000000008e667e g     F .text	0000000000000090              string2bit(qbs*, unsigned int)
+00000000008d485d g     F .text	0000000000000024              lock_mutex(MUTEX*)
+0000000000b90930 g     O .bss	0000000000000008              __STRING_HEADER
+0000000000a79068 g     O .data	0000000000000004              displayorder_glrender
+0000000000b95fc0 g     O .bss	0000000000000008              __glewTransformFeedbackVaryingsEXT
+00000000006dd3ba g     F .text	0000000000000ce1              FUNC_HASHFINDCONT(int*, int*)
+00000000008d498e g     F .text	000000000000037e              list_add(list*)
+0000000000b937e0 g     O .bss	0000000000000008              __glewVertexAttribPointer
+000000000098284c g     F .text	0000000000000065              t1_builder_done
+0000000000b97f60 g     O .bss	0000000000010000              keyhit
+000000000094cd49 g     F .text	00000000000000f7              cff_index_get_name
+0000000000ba7fa4 g     O .bss	0000000000000004              lprint_locked
+0000000000b95f50 g     O .bss	0000000000000008              __glewBindTextureEXT
+000000000099380f g     F .text	0000000000000212              tt_face_load_gasp
+000000000090bda9 g     F .text	0000000000000086              func__mousemovementx(int, int)
+0000000000b973a0 g     O .bss	0000000000000008              __glewReadVideoPixelsSUN
+0000000000b8fc18 g     O .bss	0000000000000008              __LONG_UOFFSETTYPE
+0000000000b955a0 g     O .bss	0000000000000008              __glewGetNamedProgramLocalParameterdvEXT
+0000000000b8efb8 g     O .bss	0000000000000008              __LONG_IDEN
+0000000000a78880 g       .data	0000000000000000              __data_start
+0000000000b964f8 g     O .bss	0000000000000008              __glewMapParameterivNV
+0000000000b8f750 g     O .bss	0000000000000008              __INTEGER_IDE_LEFTPOSITION
+0000000000b8eb40 g     O .bss	0000000000000008              g_tmp_udt_GL_IDSTRUCT
+0000000000b8f680 g     O .bss	0000000000000008              __STRING_IDERETURN
+000000000096032c g     F .text	000000000000007d              FT_Outline_Translate
+000000000095dde1 g     F .text	00000000000000ee              FT_Sfnt_Table_Info
+0000000000b96f50 g     O .bss	0000000000000008              __glewVertexAttribs1svNV
+0000000000000000       F *UND*	0000000000000000              glXChooseFBConfig
+0000000000b8ee88 g     O .bss	0000000000000008              __LONG_MX
+0000000000b95da0 g     O .bss	0000000000000008              __glewSampleMaskEXT
+0000000000b94810 g     O .bss	0000000000000008              __glewGetSubroutineUniformLocation
+00000000008a3fd0  w    F .text	0000000000000063              std::floor(float)
+0000000000000000       F *UND*	0000000000000000              XOpenDisplay
+0000000000b96af8 g     O .bss	0000000000000008              __glewGetCombinerOutputParameterivNV
+0000000000b93578 g     O .bss	0000000000000008              __glewGetAttribLocation
+0000000000b95ec0 g     O .bss	0000000000000008              __glewCreateShaderProgramEXT
+00000000009810d9 g     F .text	00000000000002cf              ps_parser_skip_PS_token
+0000000000b8ec38 g     O .bss	0000000000000008              __ULONG_CURRENTINIFILELOF
+0000000000b93fa8 g     O .bss	0000000000000008              __glewUniform2dv
+0000000000b97583 g     O .bss	0000000000000001              __GLEW_ARB_depth_clamp
+0000000000b8f980 g     O .bss	0000000000000008              __ARRAY_LONG_INCLINENUMBER
+0000000000b8f2c0 g     O .bss	0000000000000008              __LONG_IDECUSTOMFONT
+0000000000000000       F *UND*	0000000000000000              shutdown@GLIBC_2.2.5
+0000000000b8fc28 g     O .bss	0000000000000008              __LONG_GOSUBID
+0000000000b8ebc0 g     O .bss	0000000000000008              __STRING1_SP3
+000000000091cb05 g     F .text	0000000000000084              gfs_unlock(int, long, long)
+00000000010dcdd4 g     O .bss	0000000000000004              H3C8_palette_register_index
+0000000000b90a28 g     O .bss	0000000000000008              _FUNC_IDE2_BYTE_WHOLEWORD__ASCII_CHR_046__SELECT
+00000000009a9479 g     F .text	0000000000000030              Write_CVT
+0000000000b9757f g     O .bss	0000000000000001              __GLEW_ARB_copy_buffer
+0000000000000000       F *UND*	0000000000000000              glGenTextures
+0000000000b90580 g     O .bss	0000000000000008              __STRING_L3
+0000000000b90308 g     O .bss	0000000000000008              __LONG_V1
+0000000000b97727 g     O .bss	0000000000000001              __GLEW_SUN_vertex
+0000000000b96fa8 g     O .bss	0000000000000008              __glewBeginVideoCaptureNV
+0000000000939c72 g     F .text	00000000000000cf              af_glyph_hints_save
+0000000000b975cd g     O .bss	0000000000000001              __GLEW_ARB_sync
+00000000009d3650 g     F .text	00000000000000b2              glutChangeToMenuEntry
+0000000000b93168 g     O .bss	0000000000000008              __glewDrawRangeElements
+0000000000917e1a g     F .text	0000000000000081              tcp_out(void*, void*, long)
+0000000000b94cd0 g     O .bss	0000000000000008              __glewVertexAttrib2svARB
+0000000000b909c8 g     O .bss	0000000000000008              __STRING_B
+0000000000b8eae0 g     O .bss	0000000000000004              g_tmp_uint32
+0000000000968254 g     F .text	00000000000000f7              FTC_Cache_NewNode
+00000000006dbeed g     F .text	0000000000000a1e              FUNC_HASHFIND(qbs*, int*, int*, int*)
+0000000000b8fe68 g     O .bss	0000000000000008              __LONG_DUMMY
+0000000000b96688 g     O .bss	0000000000000008              __glewUniform1i64vNV
+0000000000b946b8 g     O .bss	0000000000000008              __glewCreateProgramObjectARB
+0000000000b934f0 g     O .bss	0000000000000008              __glewMapBuffer
+0000000000b8de80 g     O .bss	0000000000000004              next_return_point
+0000000000a752e0 g     O .data.rel.ro	0000000000000020              fgFontTimesRoman10
+0000000000676ecd g     F .text	000000000000013a              FUNC_STR2U64(unsigned long*)
+0000000000b95ee8 g     O .bss	0000000000000008              __glewTexSubImage1DEXT
+0000000000b93b60 g     O .bss	0000000000000008              __glewBeginQueryANGLE
+0000000000b948f0 g     O .bss	0000000000000008              __glewCompressedTexSubImage3DARB
+000000000079d105 g     F .text	00000000000002a3              SUB_IDECHANGED(int*)
+00000000008cbe5a g     F .text	0000000000000032              glewGetErrorString
+0000000000b969d0 g     O .bss	0000000000000008              __glewPathParameteriNV
+0000000000b96898 g     O .bss	0000000000000008              __glewGetOcclusionQueryuivNV
+0000000001109bc0 g       .bss	0000000000000000              _end
+0000000000000000       F *UND*	0000000000000000              XSetWMProperties
+00000000009761c1 g     F .text	0000000000000089              FT_Set_Var_Design_Coordinates
+0000000000a7de14 g     O .bss	0000000000000004              tab_fileno
+00000000010dc164 g     O .bss	0000000000000004              lineclip_x1
+00000000009d97d0 g     F .text	00000000000001bc              glutStrokeString
+00000000008e41ac g     F .text	00000000000001f1              qbs_free(qbs*)
+00000000009390bb g     F .text	000000000000000b              af_glyph_hints_dump_points
+00000000006bfa7f g     F .text	000000000000ce1b              FUNC_EVALUATENUMBERS(int*, long*)
+0000000000b94488 g     O .bss	0000000000000008              __glewSamplerParameterIuiv
+0000000000b96588 g     O .bss	0000000000000008              __glewProgramVertexLimitNV
+00000000008e2bc1 g     F .text	00000000000001b1              _dieeetomsbin(double*, double*)
+0000000000838f31 g     F .text	000000000000fdc5              FUNC_IDERGBMIXER(int*)
+0000000000b96690 g     O .bss	0000000000000008              __glewUniform1ui64NV
+0000000000b93fb8 g     O .bss	0000000000000008              __glewUniform3dv
+00000000008d6ce3 g     F .text	00000000000000a3              free_mem_lock(mem_lock*)
+0000000000a72fe0 g     O .data.rel.ro	0000000000000068              tt_cmap14_class_rec
+0000000000b932d8 g     O .bss	0000000000000008              __glewMultiTexCoord4s
+0000000000b946b0 g     O .bss	0000000000000008              __glewCompileShaderARB
+0000000000b96198 g     O .bss	0000000000000008              __glewVariantuivEXT
+0000000000b976d1 g     O .bss	0000000000000001              __GLEW_NV_transform_feedback2
+0000000000b94530 g     O .bss	0000000000000008              __glewProgramUniform2d
+0000000000ba8938 g     O .bss	0000000000000008              fimg
+0000000000b941d8 g     O .bss	0000000000000008              __glewBindTextures
+0000000000b8ee30 g     O .bss	0000000000000008              __BYTE_ALTSPECIAL
+0000000000b8fe10 g     O .bss	0000000000000008              __BYTE_FILEDROPENABLED
+0000000000b8f990 g     O .bss	0000000000000008              __STRING_FIX046
+0000000000b97a96 g     O .bss	0000000000000001              __GLXEW_AMD_gpu_association
+000000000088dd9d g     F .text	00000000000005bd              FUNC_BACK2BACKNAME(qbs*)
+0000000000978f85 g     F .text	0000000000000646              pcf_load_font
+000000000098d01d g     F .text	0000000000000014              pshinter_get_globals_funcs
+00000000008d4881 g     F .text	0000000000000024              unlock_mutex(MUTEX*)
+0000000000b94bc0 g     O .bss	0000000000000008              __glewDisableVertexAttribArrayARB
+00000000009ce0c0  w    F .text	0000000000000012              FTC_CacheRec_* cplusplus_typeof<FTC_CacheRec_>(FTC_CacheRec_*, void*)
+0000000000b90ad0 g     O .bss	0000000000000008              _SUB_GETINPUT_STRING_ASCVALUE
+0000000000b93778 g     O .bss	0000000000000008              __glewVertexAttrib4Nuiv
+0000000000b975de g     O .bss	0000000000000001              __GLEW_ARB_texture_mirror_clamp_to_edge
+0000000000b96860 g     O .bss	0000000000000008              __glewVertexWeighthNV
+0000000000948c82 g     F .text	000000000000002b              bdf_cmap_done
+0000000000b8fbe8 g     O .bss	0000000000000008              __LONG_INTEGER64TYPE
+000000000094ef43 g     F .text	00000000000000a6              cff_size_done
+0000000000b96828 g     O .bss	0000000000000008              __glewVertexAttrib3hvNV
+0000000000b97f1c g     O .bss	0000000000000004              screen_hide
+0000000000993004 g     F .text	000000000000002a              tt_face_load_bhed
+0000000000b8f558 g     O .bss	0000000000000008              __ARRAY_STRING_RESOLVESTATICFUNCTION_NAME
+0000000000b90258 g     O .bss	0000000000000008              __LONG_FIRSTDELIMITER
+0000000000a78b78 g     O .data	0000000000000004              autodisplay
+0000000000b93ef8 g     O .bss	0000000000000008              __glewFramebufferTexture3D
+000000000092ac51 g     F .text	0000000000000026              func_rad2deg(double)
+00000000009b35e4 g     F .text	000000000000047b              TT_Set_Var_Design
+0000000000b97d74 g     O .bss	0000000000000004              fullscreen_width
+0000000000b97890 g     O .bss	0000000000000008              __glewXSwapIntervalMESA
+0000000000b94118 g     O .bss	0000000000000008              __glewMultiDrawArraysIndirectCountARB
+0000000000948cad g     F .text	00000000000000bd              bdf_cmap_char_index
+0000000000b95b78 g     O .bss	0000000000000008              __glewDeleteRenderbuffersEXT
+0000000000b97ac1 g     O .bss	0000000000000001              __GLXEW_SGIS_color_range
+0000000000b93c58 g     O .bss	0000000000000008              __glewTextureRangeAPPLE
+0000000000b95578 g     O .bss	0000000000000008              __glewGetNamedBufferPointervEXT
+0000000000b8ee58 g     O .bss	0000000000000008              __ARRAY_STRING_IDERECENTLINK
+0000000000b96308 g     O .bss	0000000000000008              __glewDrawBufferRegion
+000000000092b1db g     F .text	0000000000000078              func_sec(double)
+0000000000b954a8 g     O .bss	0000000000000008              __glewFlushMappedNamedBufferRangeEXT
+000000000094a49a g     F .text	0000000000000094              cff_glyph_load
+00000000008f8607 g     F .text	00000000000006ae              qbg_sub_window(float, float, float, float, int)
+0000000000b96088 g     O .bss	0000000000000008              __glewBindTextureUnitParameterEXT
+0000000000b94f58 g     O .bss	0000000000000008              __glewWindowPos2iARB
+00000000008e3f11 g     F .text	000000000000006d              sub_defseg(int, int)
+0000000000b938c0 g     O .bss	0000000000000008              __glewGetVertexAttribIuiv
+0000000000b94390 g     O .bss	0000000000000008              __glewProvokingVertex
+0000000000b8fd90 g     O .bss	0000000000000008              __ARRAY_STRING_DEFINEEXTAZ
+0000000000681f2f g     F .text	0000000000002ebb              FUNC_VALIDLABEL(qbs*)
+0000000000b8f938 g     O .bss	0000000000000008              __LONG_ONTIMERID
+00000000009853ea g     F .text	0000000000000044              t1_cmap_unicode_char_next
+0000000000b94c70 g     O .bss	0000000000000008              __glewProgramStringARB
+0000000000b8eff8 g     O .bss	0000000000000008              __LONG_IDESX
+0000000000b97d28 g     O .bss	0000000000000004              environment_2d__screen_x1
+0000000000b93458 g     O .bss	0000000000000008              __glewWindowPos3s
+00000000010cfcd0 g     O .bss	0000000000000004              qbg_active_page
+0000000000000000       F *UND*	0000000000000000              glXQueryVersion
+00000000009dc030 g     F .text	0000000000000327              glutSolidTorus
+0000000000b94270 g     O .bss	0000000000000008              __glewMultiTexCoord2iARB
+0000000000b96dd0 g     O .bss	0000000000000008              __glewGetProgramParameterdvNV
+00000000010dcf49 g     O .bss	0000000000000001              n_hex
+0000000000b947e0 g     O .bss	0000000000000008              __glewShaderStorageBlockBinding
+00000000009dee60 g     F .text	0000000000000075              glutForceJoystickFunc
+0000000000b904c8 g     O .bss	0000000000000008              __LONG_NEXP
+0000000000000000       F *UND*	0000000000000000              strcmp@GLIBC_2.2.5
+0000000000b95be8 g     O .bss	0000000000000008              __glewFramebufferTextureFaceEXT
+0000000000b96460 g     O .bss	0000000000000008              __glewUniformHandleui64NV
+0000000000b972b0 g     O .bss	0000000000000008              __glewFragmentMaterialiSGIX
+0000000000b9767f g     O .bss	0000000000000001              __GLEW_IBM_rasterpos_clip
+00000000006dab99 g     F .text	0000000000001354              SUB_HASHADD(qbs*, int*, int*)
+0000000000b95e08 g     O .bss	0000000000000008              __glewPointParameterfvEXT
+0000000000b93d88 g     O .bss	0000000000000008              __glewVertexAttribL1ui64vARB
+0000000000b93d58 g     O .bss	0000000000000008              __glewMakeTextureHandleResidentARB
+0000000000b96520 g     O .bss	0000000000000008              __glewFinishFenceNV
+0000000000b954b0 g     O .bss	0000000000000008              __glewFramebufferDrawBufferEXT
+00000000008a40d6  w    F .text	000000000000001b              func_abs(float)
+0000000000b8ec60 g     O .bss	0000000000000008              __STRING_INILASTSECTION
+00000000008e5f0f g     F .text	0000000000000067              func_mkdmbf(double)
+0000000000964fcb g     F .text	0000000000000036              FT_Bitmap_New
+0000000000000000       F *UND*	0000000000000000              ioctl@GLIBC_2.2.5
+00000000004128ff g     F .text	0000000000000482              events()
+0000000000000000       F *UND*	0000000000000000              glXGetVisualFromFBConfig
+0000000000b97ace g     O .bss	0000000000000001              __GLXEW_SGI_video_sync
+0000000000980ae3 g     F .text	0000000000000101              ps_table_done
+0000000000b93190 g     O .bss	0000000000000008              __glewCompressedTexImage1D
+0000000000b96c78 g     O .bss	0000000000000008              __glewVDPAURegisterOutputSurfaceNV
+0000000000b97609 g     O .bss	0000000000000001              __GLEW_ATI_separate_stencil
+0000000000a7de08 g     O .bss	0000000000000008              dblock
+0000000000b8f6a8 g     O .bss	0000000000000008              __STRING_IDEMESSAGE
+0000000000000000       F *UND*	0000000000000000              glPushAttrib
+00000000009d0fd0 g     F .text	000000000000003f              glutJoystickNotWorking
+0000000000b8ef48 g     O .bss	0000000000000008              __ARRAY_STRING_IDECP
+00000000009a823d g     F .text	000000000000005b              TT_Set_CodeRange
+0000000000962941 g     F .text	00000000000000dc              FT_Stream_TryRead
+0000000000b8faf0 g     O .bss	0000000000000008              __ARRAY_LONG_UDTETYPESIZE
+00000000010cfc38 g     O .bss	0000000000000004              qbg_cursor_y
+0000000000b90750 g     O .bss	0000000000000008              __LONG_ENDPOINT
+0000000000b90a58 g     O .bss	0000000000000008              _FUNC_IDE2_BYTE_IDECOMPILATIONREQUESTED
+0000000000a78f68 g     O .data	0000000000000004              MACVK_ANSI_Keypad2
+0000000000b94e08 g     O .bss	0000000000000008              __glewMultiTexCoordP4ui
+0000000000b97ab6 g     O .bss	0000000000000001              __GLXEW_NV_copy_image
+00000000009ce030  w    F .text	0000000000000012              FT_CharMapRec_** cplusplus_typeof<FT_CharMapRec_*>(FT_CharMapRec_**, void*)
+0000000000b967d0 g     O .bss	0000000000000008              __glewVertex2hNV
+0000000000985232 g     F .text	0000000000000089              t1_cmap_custom_char_next
+0000000000b8f660 g     O .bss	0000000000000008              __LONG_REGINTERNALVARIABLE
+0000000000b8f020 g     O .bss	0000000000000008              __LONG_IDESELECTX1
+0000000000b96150 g     O .bss	0000000000000008              __glewShaderOp3EXT
+000000000097f117 g     F .text	00000000000000cb              pfr_get_kerning
+00000000008fe7d2 g     F .text	00000000000001b4              func_timer(double, int)
+00000000009ce174  w    F .text	0000000000000012              PCF_PropertyRec_* cplusplus_typeof<PCF_PropertyRec_>(PCF_PropertyRec_*, void*)
+0000000000b961c0 g     O .bss	0000000000000008              __glewVertexWeightfvEXT
+0000000000b95f10 g     O .bss	0000000000000008              __glewTexBufferEXT
+00000000008f8df9 g     F .text	0000000000000775              qbg_sub_view(int, int, int, int, int, int, int)
+0000000000b8fc30 g     O .bss	0000000000000008              __INTEGER_REDIMOPTION
+0000000000b97a68 g     O .bss	0000000000000008              __glewXGetVideoSyncSGI
+00000000009cef10 g     F .text	0000000000000047              glutDialsFunc
+0000000000b937d8 g     O .bss	0000000000000008              __glewVertexAttrib4usv
+0000000000b96a38 g     O .bss	0000000000000008              __glewTransformPathNV
+0000000000b9758e g     O .bss	0000000000000001              __GLEW_ARB_fragment_layer_viewport
+0000000000b906a8 g     O .bss	0000000000000008              __LONG_ISINTEGER64
+0000000000b948d0 g     O .bss	0000000000000008              __glewCompressedTexImage2DARB
+00000000007c7be4 g     F .text	0000000000000467              FUNC_IDESAVENOW()
+0000000000b97655 g     O .bss	0000000000000001              __GLEW_EXT_texture
+0000000000887cee g     F .text	00000000000004f5              SUB_CLEANSUBNAME(qbs*)
+0000000000b94670 g     O .bss	0000000000000008              __glewProgramUniformMatrix4x3dv
+0000000000b900f0 g     O .bss	0000000000000008              __LONG_PREDEFINING
+0000000000b8f148 g     O .bss	0000000000000008              __STRING_VERSIONSTRINGSTATUS
+0000000000b8fcf8 g     O .bss	0000000000000008              __INTEGER_ADDMETASTATIC
+0000000000968538 g     F .text	00000000000000f7              ftc_cmap_node_new
+00000000009606fc g     F .text	00000000000000c4              FT_Vector_Transform
+0000000000b95aa0 g     O .bss	0000000000000008              __glewFogCoorddvEXT
+0000000000b8f690 g     O .bss	0000000000000008              __LONG_IDECOMPILED
+00000000009ce25e  w    F .text	0000000000000012              PSH_GlobalsRec_* cplusplus_typeof<PSH_GlobalsRec_>(PSH_GlobalsRec_*, void*)
+00000000010cfc40 g     O .bss	0000000000000004              qbg_character_width
+0000000000b939d8 g     O .bss	0000000000000008              __glewDrawElementsInstanced
+0000000000b97d90 g     O .bss	0000000000000004              ScreenResize
+0000000000b97a00 g     O .bss	0000000000000008              __glewXSelectEventSGIX
+0000000000a71f60 g     O .data.rel.ro	0000000000000078              ft_smooth_lcdv_renderer_class
+0000000000b8ffd8 g     O .bss	0000000000000008              __STRING_THIRDELEMENT
+000000000096669b g     F .text	000000000000001b              FTC_MruList_Done
+0000000000b942d8 g     O .bss	0000000000000008              __glewMultiTexCoord4dvARB
+00000000005dc7ff g     F .text	000000000001256c              FUNC_FIXOPERATIONORDER(qbs*)
+0000000000b95658 g     O .bss	0000000000000008              __glewMatrixLoadTransposefEXT
+0000000000b8ecc8 g     O .bss	0000000000000008              __LONG_HELP_SELECT
+0000000000b8f220 g     O .bss	0000000000000008              __INTEGER_KEYWORDHIGHLIGHT
+0000000000b97725 g     O .bss	0000000000000001              __GLEW_SUN_slice_accum
+0000000000b8fc38 g     O .bss	0000000000000008              __INTEGER_DIMOPTION
+0000000000b96118 g     O .bss	0000000000000008              __glewGetVariantPointervEXT
+0000000000000000       F *UND*	0000000000000000              std::basic_ofstream<char, std::char_traits<char> >::close()@GLIBCXX_3.4
+0000000000b97818 g     O .bss	0000000000000008              __glewXDrawableAttribATI
+0000000000b8fea0 g     O .bss	0000000000000008              __LONG_RESIZE_SCALE
+00000000009d1350 g     F .text	0000000000000057              glutJoystickGetCenter
+000000000091d9fd g     F .text	00000000000001e5              field_get(int, long, int)
+0000000000b94ff0 g     O .bss	0000000000000008              __glewTexBumpParameterivATI
+0000000000b94900 g     O .bss	0000000000000008              __glewGetMultisamplefv
+0000000000b93b28 g     O .bss	0000000000000008              __glewTessellationFactorAMD
+0000000000b97532 g     O .bss	0000000000000001              __GLEW_VERSION_3_2
+0000000000b973a8 g     O .bss	0000000000000008              __glewReplacementCodePointerSUN
+0000000000b97707 g     O .bss	0000000000000001              __GLEW_SGIX_fragment_specular_lighting
+0000000000b8f168 g     O .bss	0000000000000008              __LONG_IDEAUTORUN
+0000000000b95c48 g     O .bss	0000000000000008              __glewUniform2uivEXT
+0000000000b975d1 g     O .bss	0000000000000001              __GLEW_ARB_texture_buffer_object_rgb32
+0000000000b90028 g     O .bss	0000000000000008              __LONG_HASHRESFLAGS
+0000000000b97e70 g     O .bss	0000000000000008              hardware_img_handles
+0000000000b93c00 g     O .bss	0000000000000008              __glewGenFencesAPPLE
+0000000000b93208 g     O .bss	0000000000000008              __glewMultiTexCoord1i
+0000000000b8fd70 g     O .bss	0000000000000008              __LONG_TYPNAME2TYPSIZE
+0000000000b95910 g     O .bss	0000000000000008              __glewProgramUniform4ivEXT
+00000000007a710c g     F .text	000000000000047b              SUB_IDEDRAWPAR(void*)
+00000000009635d9 g     F .text	000000000000015f              FT_Stream_ReadULongLE
+0000000000b8fc48 g     O .bss	0000000000000008              __INTEGER_QBERRORHAPPENED
+0000000000b961e8 g     O .bss	0000000000000008              __glewGetImageTransformParameterivHP
+0000000000b95650 g     O .bss	0000000000000008              __glewMatrixLoadTransposedEXT
+0000000000b8ee10 g     O .bss	0000000000000008              __STRING_HELP_SEARCH_STR
+0000000000b97d14 g     O .bss	0000000000000004              framebufferobjects_supported
+00000000009c39b2 g     F .text	0000000000000064              t42_parser_done
+00000000008e31bf g     F .text	00000000000002e4              fix_error()
+0000000000000000       F *UND*	0000000000000000              XNextEvent
+000000000091d0e0 g     F .text	0000000000000043              func__keydown(int)
+00000000008532e7 g     F .text	000000000000402f              FUNC_IDERECENTBOX()
+0000000000000000       F *UND*	0000000000000000              fprintf@GLIBC_2.2.5
+0000000000b8ed50 g     O .bss	0000000000000008              __LONG_HELP_TXT_LEN
+0000000000b93f20 g     O .bss	0000000000000008              __glewGetFramebufferAttachmentParameteriv
+0000000000000000       F *UND*	0000000000000000              glDrawBuffer
+0000000000b97aa6 g     O .bss	0000000000000001              __GLXEW_EXT_fbconfig_packed_float
+0000000000b8f428 g     O .bss	0000000000000008              __STRING_QB64PREFIX
+00000000008e3f7e g     F .text	0000000000000046              func_peek(int)
+00000000007fe240 g     F .text	0000000000000fe8              FUNC_IDEVBAR(int*, int*, int*, int*, int*)
+0000000000000000       F *UND*	0000000000000000              glFlush
+000000000098250f g     F .text	0000000000000045              ps_parser_to_fixed_array
+0000000000b975f2 g     O .bss	0000000000000001              __GLEW_ARB_vertex_array_bgra
+0000000000000000       F *UND*	0000000000000000              XGetErrorText
+0000000000000000       F *UND*	0000000000000000              read@GLIBC_2.2.5
+0000000000986361 g     F .text	00000000000003b1              afm_parser_parse
+0000000000000000       F *UND*	0000000000000000              _setjmp@GLIBC_2.2.5
+0000000000b96840 g     O .bss	0000000000000008              __glewVertexAttribs1hvNV
+0000000000b95f38 g     O .bss	0000000000000008              __glewTexParameterIivEXT
+0000000000b933e8 g     O .bss	0000000000000008              __glewWindowPos2d
+000000000092a8fc g     F .text	0000000000000269              sub__memcopy(void*, long, long, void*, long)
+0000000000677007 g     F .text	000000000000013a              FUNC_STR2I64(long*)
+0000000000b8ed68 g     O .bss	0000000000000008              __STRING_HELP_LINK_SEP
+0000000000b938f8 g     O .bss	0000000000000008              __glewUniform2ui
+0000000000b976d0 g     O .bss	0000000000000001              __GLEW_NV_transform_feedback
+000000000096814c g     F .text	000000000000001b              FTC_Cache_Done
+0000000000a7dbc4 g     O .bss	0000000000000004              timer_event_id
+00000000006eb3b0 g     F .text	0000000000000860              SUB_FREE_UDT_VARSTRINGS(qbs*, int*, int*, int*)
+0000000000b8ec10 g     O .bss	0000000000000008              __ARRAY_STRING_GL_DEFINES
+0000000000b93180 g     O .bss	0000000000000008              __glewActiveTexture
+0000000000b94010 g     O .bss	0000000000000008              __glewUniformMatrix4x3dv
+0000000000b9752f g     O .bss	0000000000000001              __GLEW_VERSION_2_1
+0000000000b94640 g     O .bss	0000000000000008              __glewProgramUniformMatrix3x4dv
+0000000000b8eb30 g     O .bss	0000000000000008              pass_str
+0000000000964f8b g     F .text	0000000000000040              FT_Free
+0000000000b946c8 g     O .bss	0000000000000008              __glewDeleteObjectARB
+0000000000b939c0 g     O .bss	0000000000000008              __glewVertexAttribI4usv
+0000000000b905e8 g     O .bss	0000000000000008              __STRING_LS
+0000000000b8f4f0 g     O .bss	0000000000000008              __ARRAY_INTEGER_ENTRYLEV
+0000000000a788ac g     O .data	0000000000000004              device_max
+0000000000b96268 g     O .bss	0000000000000008              __glewSyncTextureINTEL
+000000000066e963 g     F .text	000000000000843a              SUB_SETREFER(qbs*, int*, qbs*, int*)
+0000000000b96c40 g     O .bss	0000000000000008              __glewPauseTransformFeedbackNV
+0000000000b90460 g     O .bss	0000000000000008              __LONG_EQUPOS
+0000000000b95cc8 g     O .bss	0000000000000008              __glewVertexAttribI3uivEXT
+0000000000b96cc8 g     O .bss	0000000000000008              __glewVertexAttribL1i64vNV
+0000000000b976de g     O .bss	0000000000000001              __GLEW_OES_byte_coordinates
+0000000000b938f0 g     O .bss	0000000000000008              __glewUniform1uiv
+0000000000b95710 g     O .bss	0000000000000008              __glewMultiTexGendvEXT
+0000000000b8fa48 g     O .bss	0000000000000008              __ARRAY_STRING_CONSTNAMESYMBOL
+0000000000914f2f g     F .text	00000000000000ed              sub_run(qbs*)
+0000000000968702 g     F .text	000000000000002c              FTC_CMapCache_New
+0000000000b969f8 g     O .bss	0000000000000008              __glewPathSubCommandsNV
+0000000000b97654 g     O .bss	0000000000000001              __GLEW_EXT_subtexture
+00000000009cddf0  w    F .text	0000000000000012              AF_PointRec_** cplusplus_typeof<AF_PointRec_*>(AF_PointRec_**, void*)
+0000000000b94030 g     O .bss	0000000000000008              __glewColorTableParameteriv
+00000000008d4600 g     F .text	000000000000009a              setbits(unsigned int, unsigned char*, long, long)
+0000000000b975b9 g     O .bss	0000000000000001              __GLEW_ARB_shader_atomic_counters
+0000000000b96380 g     O .bss	0000000000000008              __glewWindowPos3fvMESA
+0000000000b96740 g     O .bss	0000000000000008              __glewMultiTexCoord2hNV
+0000000000b95798 g     O .bss	0000000000000008              __glewMultiTexSubImage3DEXT
+0000000000b8ef70 g     O .bss	0000000000000008              __STRING_LISTOFCUSTOMKEYWORDS
+0000000000970901 g     F .text	000000000000009b              FT_Stroker_BeginSubPath
+0000000000a78ffc g     O .data	0000000000000004              MACVK_F16
+000000000091deac g     F .text	000000000000000b              func__screeny()
+0000000000b94710 g     O .bss	0000000000000008              __glewGetUniformLocationARB
+00000000009d0350 g     F .text	0000000000000008              glutInitErrorFunc
+0000000000b95540 g     O .bss	0000000000000008              __glewGetMultiTexLevelParameterfvEXT
+0000000000956beb g     F .text	0000000000000115              FT_DivFix
+0000000000b97a60 g     O .bss	0000000000000008              __glewXSwapIntervalSGI
+0000000000b8fd80 g     O .bss	0000000000000008              __ARRAY_INTEGER64_BITMASK
+0000000000b901c0 g     O .bss	0000000000000008              __STRING_X
+0000000000b90758 g     O .bss	0000000000000008              __LONG_TEXTLENGTH
+000000000057fecf g     F .text	0000000000000f30              SUB_ASSIGN(qbs*, int*)
+0000000000b949f0 g     O .bss	0000000000000008              __glewDrawTransformFeedbackStreamInstanced
+0000000000b953c8 g     O .bss	0000000000000008              __glewCompressedMultiTexImage3DEXT
+00000000009ce09c  w    F .text	0000000000000012              FTC_MruNodeRec_* cplusplus_typeof<FTC_MruNodeRec_>(FTC_MruNodeRec_*, void*)
+0000000000b95a88 g     O .bss	0000000000000008              __glewDrawRangeElementsEXT
+000000000094ca60 g     F .text	00000000000002ab              cff_index_access_element
+0000000000b97118 g     O .bss	0000000000000008              __glewTexEnvxv
+00000000009577f9 g     F .text	00000000000000cb              FT_GlyphLoader_CreateExtra
+00000000009d9c20 g     F .text	00000000000001c5              glutGameModeString
+0000000000b94168 g     O .bss	0000000000000008              __glewInvalidateSubFramebuffer
+0000000000b94470 g     O .bss	0000000000000008              __glewGetSamplerParameteriv
+000000000059e925 g     F .text	0000000000002215              FUNC_UDTREFERENCE(qbs*, qbs*, int*)
+00000000010dc178 g     O .bss	0000000000000004              img_printchr
+0000000000b9768d g     O .bss	0000000000000001              __GLEW_MESA_resize_buffers
+0000000000b8f8f8 g     O .bss	0000000000000008              __UDT_EMPTY_LABEL
+0000000000a75380 g     O .data.rel.ro	0000000000000020              fgFontFixed8x13
+0000000000b8f900 g     O .bss	0000000000000008              __STRING_POSSIBLESUBNAMELABELS
+0000000000951e34 g     F .text	000000000000318b              cff_decoder_parse_charstrings
+0000000000902597 g     F .text	00000000000000a1              func_file_input_uint64(int)
+00000000009760b5 g     F .text	0000000000000083              FT_Get_MM_Var
+00000000010dcf70 g     O .bss	0000000000000004              sleep_break
+0000000000b95238 g     O .bss	0000000000000008              __glewVertexStream4dATI
+0000000000b93300 g     O .bss	0000000000000008              __glewBlendFuncSeparate
+00000000008d5a8e g     F .text	0000000000000a81              FontRenderTextUTF32(int, unsigned int*, int, int, unsigned char**, int*, int*, int*, int*)
+0000000000b948d8 g     O .bss	0000000000000008              __glewCompressedTexImage3DARB
+0000000000b8fe90 g     O .bss	0000000000000008              __LONG_LASTUNRESOLVED
+0000000000964be3 g     F .text	000000000000008e              FT_List_Up
+0000000000000000       F *UND*	0000000000000000              getpid@GLIBC_2.2.5
+0000000000b97708 g     O .bss	0000000000000001              __GLEW_SGIX_framezoom
+0000000000b94978 g     O .bss	0000000000000008              __glewGetQueryObjecti64v
+0000000000b94ba8 g     O .bss	0000000000000008              __glewUnmapBufferARB
+00000000009d0340 g     F .text	0000000000000007              glutInitContextProfile
+0000000000962e37 g     F .text	000000000000008c              FT_Stream_GetUOffset
+0000000000b97aad g     O .bss	0000000000000001              __GLXEW_EXT_visual_info
+0000000000000000       F *UND*	0000000000000000              glNormal3dv
+00000000007ff303 g     F .text	0000000000000f7e              FUNC_IDEZCHANGEPATH(qbs*, qbs*)
+0000000000000000       F *UND*	0000000000000000              XResizeWindow
+0000000000b97610 g     O .bss	0000000000000001              __GLEW_ATI_vertex_array_object
+00000000009850a6 g     F .text	0000000000000064              t1_cmap_std_char_next
+0000000000a78f58 g     O .data	0000000000000004              MACVK_ANSI_KeypadMinus
+0000000000b94c20 g     O .bss	0000000000000008              __glewGetVertexAttribivARB
+000000000095d6eb g     F .text	000000000000007a              FT_Face_GetVariantsOfChar
+0000000000911bb3 g     F .text	0000000000000185              matchcol(int, int, int, int)
+0000000000000000       F *UND*	0000000000000000              pthread_mutex_lock@GLIBC_2.2.5
+000000000091ebd2 g     F .text	0000000000000439              key_list()
+0000000000b96c88 g     O .bss	0000000000000008              __glewVDPAUSurfaceAccessNV
+0000000000b97d94 g     O .bss	0000000000000004              sub_gl_called
+0000000000b979e0 g     O .bss	0000000000000008              __glewXCreateGLXPbufferSGIX
+0000000000b908c0 g     O .bss	0000000000000008              __STRING_LAYOUTCOMMENT_BACKUP
+0000000000000000       F *UND*	0000000000000000              chdir@GLIBC_2.2.5
+0000000000b8ef28 g     O .bss	0000000000000008              __LONG_KALTRELEASE
+0000000000b94f08 g     O .bss	0000000000000008              __glewScissorArrayv
+00000000009d8dc0 g     F .text	0000000000000005              fghGetProcAddress
+0000000000bb2808 g     O .bss	0000000000000004              full_screen
+0000000000b97d24 g     O .bss	0000000000000004              environment__window_height
+0000000000b97050 g     O .bss	0000000000000008              __glewColor4x
+0000000000b96af0 g     O .bss	0000000000000008              __glewGetCombinerOutputParameterfvNV
+0000000000985bac g     F .text	0000000000000073              afm_parser_read_int
+0000000000b9768a g     O .bss	0000000000000001              __GLEW_KTX_buffer_region
+0000000000909f84 g     F .text	00000000000000eb              sub_file_line_input_string(int, qbs*)
+000000000094adb8 g     F .text	000000000000006a              cff_parser_init
+0000000000b8f6f8 g     O .bss	0000000000000008              __ULONG_IDECOMMENTCOLOR
+0000000000b94768 g     O .bss	0000000000000008              __glewUniform2iARB
+0000000000b8f4a8 g     O .bss	0000000000000008              __LONG_NOCHECKS
+00000000008e4842 g     F .text	000000000000015a              qbs_concat_cmem(unsigned int)
+00000000008f756a g     F .text	000000000000000b              lprint_makefit(qbs*)
+0000000000b96310 g     O .bss	0000000000000008              __glewNewBufferRegion
+0000000000b97798 g     O .bss	0000000000000008              __glewXGetVisualFromFBConfig
+0000000000b93320 g     O .bss	0000000000000008              __glewFogCoordf
+0000000000b96a98 g     O .bss	0000000000000008              __glewPrimitiveRestartIndexNV
+0000000000000000       F *UND*	0000000000000000              std::basic_ofstream<char, std::char_traits<char> >::~basic_ofstream()@GLIBCXX_3.4
+00000000009da150 g     F .text	000000000000044e              glutWireCube
+0000000000b907b0 g     O .bss	0000000000000008              __LONG_IDNUMBER2
+0000000000930fe7 g     F .text	000000000000000c              func__filedrop()
+0000000000b95d78 g     O .bss	0000000000000008              __glewApplyTextureEXT
+0000000000b97d18 g     O .bss	0000000000000004              environment_2d__screen_width
+0000000000b906f0 g     O .bss	0000000000000008              __STRING_BYTES
+0000000000b95ed0 g     O .bss	0000000000000008              __glewBindImageTextureEXT
+0000000000b93d48 g     O .bss	0000000000000008              __glewMakeImageHandleResidentARB
+0000000000b974f8 g     O .bss	0000000000000008              __glewTexCoord2fVertex3fvSUN
+0000000000b90268 g     O .bss	0000000000000008              __STRING_VERSIONINFOKEY
+0000000000b93478 g     O .bss	0000000000000008              __glewBufferData
+0000000000b8ec98 g     O .bss	0000000000000008              __LONG_INIDISABLEADDQUOTES
+0000000000b95e00 g     O .bss	0000000000000008              __glewPointParameterfEXT
+000000000095cc36 g     F .text	00000000000000f3              FT_Get_Track_Kerning
+0000000000b960a0 g     O .bss	0000000000000008              __glewDisableVariantClientStateEXT
+0000000000b976f4 g     O .bss	0000000000000001              __GLEW_SGIS_pixel_texture
+0000000000b96288 g     O .bss	0000000000000008              __glewTexCoordPointervINTEL
+0000000000b93508 g     O .bss	0000000000000008              __glewBindAttribLocation
+0000000000b93bd8 g     O .bss	0000000000000008              __glewMultiDrawElementArrayAPPLE
+000000000092b647 g     F .text	0000000000000023              GLUT_SPECIALUP_FUNC(int, int, int)
+0000000000b93f40 g     O .bss	0000000000000008              __glewRenderbufferStorage
+0000000000b97acd g     O .bss	0000000000000001              __GLXEW_SGI_swap_control
+0000000000000000       F *UND*	0000000000000000              XUnmapWindow
+0000000000b903c8 g     O .bss	0000000000000008              __LONG_ADDSTATIC2LAYOUT
+0000000000b9758d g     O .bss	0000000000000001              __GLEW_ARB_fragment_coord_conventions
+00000000008ef4df g     F .text	0000000000000641              fast_boxfill(int, int, int, int, unsigned int)
+0000000000b979d0 g     O .bss	0000000000000008              __glewXQueryHyperpipeConfigSGIX
+0000000000790c66 g     F .text	00000000000006ef              SUB_IDEBOXSHADOW(int*, int*, int*, int*)
+0000000000b9764e g     O .bss	0000000000000001              __GLEW_EXT_shader_image_load_store
+0000000000000000       F *UND*	0000000000000000              pthread_mutex_init@GLIBC_2.2.5
+0000000000000000       F *UND*	0000000000000000              fread@GLIBC_2.2.5
+0000000000b97563 g     O .bss	0000000000000001              __GLEW_APPLE_flush_buffer_range
+0000000000b95948 g     O .bss	0000000000000008              __glewProgramUniformMatrix3x2fvEXT
+0000000000b95918 g     O .bss	0000000000000008              __glewProgramUniform4uiEXT
+000000000091eba6 g     F .text	0000000000000016              key_on()
+0000000000b902b8 g     O .bss	0000000000000008              __LONG_SKIP
+0000000000000000       F *UND*	0000000000000000              XWarpPointer
+0000000000967698 g     F .text	0000000000000090              FTC_Manager_FlushN
+0000000000966b8f g     F .text	00000000000000d6              ftc_size_node_compare
+0000000000b952f0 g     O .bss	0000000000000008              __glewConvolutionParameteriEXT
+0000000000b93b40 g     O .bss	0000000000000008              __glewRenderbufferStorageMultisampleANGLE
+0000000000b96f18 g     O .bss	0000000000000008              __glewVertexAttrib4sNV
+0000000000b93830 g     O .bss	0000000000000008              __glewClampColor
+00000000009069fd g     F .text	00000000000002ad              func_time()
+00000000008d5a08 g     F .text	0000000000000072              get_hardware_img(int)
+000000000091199d g     F .text	00000000000000d6              func__printmode(int, int)
+000000000091cfc2 g     F .text	000000000000000b              sub__screenprint(qbs*)
+0000000000b937c8 g     O .bss	0000000000000008              __glewVertexAttrib4ubv
+0000000000b95178 g     O .bss	0000000000000008              __glewVertexStream1dATI
+0000000000b902e0 g     O .bss	0000000000000008              __STRING_THISINCNAME
+0000000000b96f88 g     O .bss	0000000000000008              __glewVertexAttribs4dvNV
+0000000000b8fd18 g     O .bss	0000000000000008              __STRING_MODULE
+0000000000b975df g     O .bss	0000000000000001              __GLEW_ARB_texture_mirrored_repeat
+0000000000b8eca0 g     O .bss	0000000000000008              __STRING_CACHE_FOLDER
+00000000009ce300  w    F .text	0000000000000012              TT_TableRec_* cplusplus_typeof<TT_TableRec_>(TT_TableRec_*, void*)
+0000000000000000       F *UND*	0000000000000000              glVertex3d
+0000000000b94520 g     O .bss	0000000000000008              __glewProgramUniform1ui
+0000000000b97ab4 g     O .bss	0000000000000001              __GLXEW_MESA_set_3dfx_mode
+0000000000b946f0 g     O .bss	0000000000000008              __glewGetInfoLogARB
+00000000008e718f g     F .text	0000000000000148              qbs_rtrim(qbs*)
+0000000000b943b0 g     O .bss	0000000000000008              __glewGetnConvolutionFilterARB
+0000000000b93678 g     O .bss	0000000000000008              __glewUniform4f
+0000000000b8fd28 g     O .bss	0000000000000008              __LONG_SUBFUNCN
+0000000000b976fe g     O .bss	0000000000000001              __GLEW_SGIX_async_histogram
+00000000008d6b9e g     F .text	0000000000000071              GetTicks()
+0000000000b94e60 g     O .bss	0000000000000008              __glewTexCoordP3uiv
+00000000008e9ef7 g     F .text	0000000000000144              defaultcolors()
+0000000000b93990 g     O .bss	0000000000000008              __glewVertexAttribI4i
+0000000000b97200 g     O .bss	0000000000000008              __glewTexSubImage4DSGIS
+0000000000966ffc g     F .text	000000000000013a              FTC_Manager_LookupFace
+0000000000b976b3 g     O .bss	0000000000000001              __GLEW_NV_multisample_coverage
+000000000090dbb1 g     F .text	000000000000000e              func__display()
+0000000000b971c0 g     O .bss	0000000000000008              __glewGetDetailTexFuncSGIS
+0000000000b90860 g     O .bss	0000000000000008              __LONG_UDTREFI
+00000000008e5bf2 g     F .text	000000000000005e              func_chr(int)
+0000000000b90a18 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_OLD__ASCII_CHR_046__MY
+0000000000b8eba8 g     O .bss	0000000000000008              __LONG_VERSIONFILE
+0000000000b97577 g     O .bss	0000000000000001              __GLEW_ARB_clear_buffer_object
+0000000000937e3f g     F .text	000000000000000b              func__capslock()
+00000000008d88de g     F .text	0000000000000155              freeimg(unsigned int)
+0000000000b90290 g     O .bss	0000000000000008              __LONG_ICONFILEHANDLE
+00000000008f956e g     F .text	0000000000000e6f              sub_cls(int, unsigned int, int)
+00000000010cfb78 g     O .bss	0000000000000008              qbs_malloc_freed
+0000000000b8f578 g     O .bss	0000000000000008              __STRING_OS
+0000000000b97aa3 g     O .bss	0000000000000001              __GLXEW_EXT_buffer_age
+0000000000b958c8 g     O .bss	0000000000000008              __glewProgramUniform3fEXT
+0000000000b93368 g     O .bss	0000000000000008              __glewSecondaryColor3bv
+0000000000a74f20 g     O .data.rel.ro	00000000000000d0              t42_driver_class
+0000000000b96528 g     O .bss	0000000000000008              __glewGenFencesNV
+0000000000a7de38 g     O .bss	0000000000000004              error_occurred
+00000000009ce08a  w    F .text	0000000000000012              long* cplusplus_typeof<long>(long*, void*)
+0000000000b90848 g     O .bss	0000000000000008              __LONG_TARGETTYP2
+0000000000a78edc g     O .data	0000000000000004              MACVK_ANSI_5
+0000000000b977a8 g     O .bss	0000000000000008              __glewXQueryContext
+0000000000a7da20 g       .bss	0000000000000000              __bss_start
+00000000009be20f g     F .text	00000000000003be              T1_Read_Metrics
+0000000000b97390 g     O .bss	0000000000000008              __glewGlobalAlphaFactoruiSUN
+0000000000b96a88 g     O .bss	0000000000000008              __glewPresentFrameDualFillNV
+0000000000b96810 g     O .bss	0000000000000008              __glewVertexAttrib2hNV
+0000000000b94788 g     O .bss	0000000000000008              __glewUniform3iARB
+0000000000b97659 g     O .bss	0000000000000001              __GLEW_EXT_texture_compression_dxt1
+0000000000b96e48 g     O .bss	0000000000000008              __glewProgramParameters4dvNV
+0000000000b90500 g     O .bss	0000000000000008              __LONG_O
+0000000000b96490 g     O .bss	0000000000000008              __glewCopyImageSubDataNV
+00000000008d4f49 g     F .text	000000000000006e              list_get(list*, long)
+0000000000b901b8 g     O .bss	0000000000000008              __STRING_P
+0000000000b90b30 g     O .bss	0000000000000004              onkey_inprogress
+00000000009813a8 g     F .text	0000000000000026              ps_parser_skip_spaces
+0000000000bb280c g     O .bss	0000000000000004              vertical_retrace_in_progress
+0000000000987f17 g     F .text	0000000000000038              ps_hints_init
+0000000000b8ead4 g     O .bss	0000000000000001              g_tmp_int8
+0000000000a7de28 g     O .bss	0000000000000004              error_err
+0000000000b93f30 g     O .bss	0000000000000008              __glewIsFramebuffer
+000000000096195a g     F .text	000000000000012d              FT_Raccess_Guess
+0000000000b90510 g     O .bss	0000000000000008              __STRING_OPTI
+00000000009ce042  w    F .text	0000000000000012              FT_CMapRec_* cplusplus_typeof<FT_CMapRec_>(FT_CMapRec_*, void*)
+0000000000b8f060 g     O .bss	0000000000000008              __INTEGER_IDETXTLAST
+0000000000b9769a g     O .bss	0000000000000001              __GLEW_NV_copy_image
+0000000000b95188 g     O .bss	0000000000000008              __glewVertexStream1fATI
+0000000000b90a08 g     O .bss	0000000000000008              _FUNC_IDE2_BYTE_ATTEMPTTOLOADRECENT
+0000000000b964e8 g     O .bss	0000000000000008              __glewMapControlPointsNV
+00000000008f35b9 g     F .text	0000000000000036              getptcol_1bpp(qbs const*, int, int)
+00000000009829fb g     F .text	000000000000004c              t1_builder_add_point1
+0000000000984d9d g     F .text	0000000000000177              t1_decoder_init
+000000000095ee45 g     F .text	0000000000000026              FT_Reference_Library
+0000000000b95c70 g     O .bss	0000000000000008              __glewVertexAttribI1iEXT
+0000000000a7894c g     O .data	0000000000000004              depthbuffer_mode1
+0000000000a79278 g     O .data	0000000000000008              double_max_neg
+0000000000b93ad0 g     O .bss	0000000000000008              __glewGetPerfMonitorCounterDataAMD
+00000000009c08cd g     F .text	0000000000000075              cid_size_request
+00000000009cdfc4  w    F .text	0000000000000012              FT_Slot_InternalRec_* cplusplus_typeof<FT_Slot_InternalRec_>(FT_Slot_InternalRec_*, void*)
+0000000000000000       F *UND*	0000000000000000              tcflush@GLIBC_2.2.5
+00000000009ce294  w    F .text	0000000000000012              PSH_ZoneRec_* cplusplus_typeof<PSH_ZoneRec_>(PSH_ZoneRec_*, void*)
+0000000000957fb9 g     F .text	000000000000006f              ft_service_list_lookup
+0000000000b95d98 g     O .bss	0000000000000008              __glewMultiDrawElementsEXT
+00000000008eea24 g     F .text	0000000000000abb              qb32_boxfill(float, float, float, float, unsigned int)
+0000000000b97a9c g     O .bss	0000000000000001              __GLXEW_ARB_get_proc_address
+0000000000929c36 g     F .text	0000000000000096              sub__memfree(void*)
+00000000006f483d g     F .text	00000000000023e7              FUNC_GL2QB_TYPE_CONVERT(qbs*, qbs*, int*, qbs*)
+0000000000b953e8 g     O .bss	0000000000000008              __glewCompressedTextureImage1DEXT
+0000000000917e9b g     F .text	000000000000007d              stream_out(stream_struct*, void*, long)
+0000000000b96c00 g     O .bss	0000000000000008              __glewGetVaryingLocationNV
+00000000010dc174 g     O .bss	0000000000000004              lineclip_skippixels
+0000000000a71ac0 g     O .data.rel.ro	0000000000000028              ftc_size_list_class
+0000000000b94e28 g     O .bss	0000000000000008              __glewSecondaryColorP3ui
+0000000000b97a91 g     O .bss	0000000000000001              __GLXEW_VERSION_1_1
+0000000000b947a0 g     O .bss	0000000000000008              __glewUniform4fvARB
+0000000000b93668 g     O .bss	0000000000000008              __glewUniform3i
+00000000010cfc8c g     O .bss	0000000000000004              qbg_view_offset_y
+0000000000b8ed78 g     O .bss	0000000000000008              __LONG_HELP_NEWLINEINDENT
+0000000000b96358 g     O .bss	0000000000000008              __glewWindowPos2sMESA
+00000000009c10ee g     F .text	000000000000000b              cid_driver_done
+0000000000b94970 g     O .bss	0000000000000008              __glewTextureView
+0000000000b8dea0 g     O .bss	0000000000000808              qbs_input_variableoffsets
+0000000000b8f468 g     O .bss	0000000000000008              __STRING_VIINTERNALNAME
+0000000000000000       F *UND*	0000000000000000              sinl@GLIBC_2.2.5
+0000000000b8f0f0 g     O .bss	0000000000000008              __LONG_QUICKNAVTOTAL
+00000000009a2a05 g     F .text	00000000000004e8              TT_Load_Composite_Glyph
+0000000000b93710 g     O .bss	0000000000000008              __glewVertexAttrib2s
+0000000000b96fe8 g     O .bss	0000000000000008              __glewVideoCaptureNV
+0000000000963332 g     F .text	0000000000000148              FT_Stream_ReadUOffset
+00000000008d43be g     F .text	0000000000000028              ZeroMemory(void*, long)
+00000000006904bd g     F .text	000000000000373e              SUB_XONGOTOGOSUB(qbs*, qbs*, int*)
+00000000008e4014 g     F .text	0000000000000063              more_return_points()
+0000000000b90a20 g     O .bss	0000000000000008              _FUNC_IDE2_DOUBLE_LAST__ASCII_CHR_046__TBCLICK
+00000000008e4cb7 g     F .text	0000000000000152              qbs_new_fixed(unsigned char*, unsigned int, unsigned char)
+00000000008f3765 g     F .text	0000000000000025              getptcol_8bpp(qbs const*, int, int)
+0000000000976138 g     F .text	0000000000000089              FT_Set_MM_Design_Coordinates
+0000000000b90990 g     O .bss	0000000000000008              __STRING_LIBFILE
+0000000000b94628 g     O .bss	0000000000000008              __glewProgramUniformMatrix3fv
+00000000009b604e g     F .text	000000000000017f              mm_axis_unmap
+000000000092a601 g     F .text	000000000000003b              sub__memfill_2(mem_block*, long, long, short)
+00000000009935d5 g     F .text	000000000000013f              tt_face_load_os2
+0000000000b97607 g     O .bss	0000000000000001              __GLEW_ATI_meminfo
+0000000000b9761a g     O .bss	0000000000000001              __GLEW_EXT_blend_func_separate
+0000000000a7de18 g     O .bss	0000000000000004              tab_LPRINT
+0000000000b90780 g     O .bss	0000000000000008              __STRING_E1L
+00000000009d6fb0 g     F .text	0000000000000047              glutGetWindow
+000000000092cd3c g     F .text	00000000000001b7              set_render_dest(int)
+0000000000b969f0 g     O .bss	0000000000000008              __glewPathStringNV
+0000000000b90a88 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_MOY
+0000000000b8ffa0 g     O .bss	0000000000000008              __LONG_X2
+0000000000b8fe18 g     O .bss	0000000000000008              __STRING_SENDC
+0000000000b8ed38 g     O .bss	0000000000000008              __LONG_HELP_H
+0000000000b94278 g     O .bss	0000000000000008              __glewMultiTexCoord2ivARB
+0000000000b8f628 g     O .bss	0000000000000008              __STRING_TEMPFOLDERINDEXSTR
+0000000000993546 g     F .text	000000000000008f              tt_face_load_cmap
+0000000000b94d00 g     O .bss	0000000000000008              __glewVertexAttrib3svARB
+0000000000b8ff10 g     O .bss	0000000000000008              __ARRAY_STRING_WARNINGINCFILES
+0000000000b95880 g     O .bss	0000000000000008              __glewProgramUniform1ivEXT
+000000000091954b g     F .text	0000000000000067              x11clipboardcopy(char const*)
+0000000000b96ef8 g     O .bss	0000000000000008              __glewVertexAttrib4dNV
+0000000000b95118 g     O .bss	0000000000000008              __glewNormalStream3bATI
+0000000000000000       F *UND*	0000000000000000              glScalef
+0000000000b94818 g     O .bss	0000000000000008              __glewGetUniformSubroutineuiv
+0000000000b94040 g     O .bss	0000000000000008              __glewConvolutionFilter2D
+00000000007a0cc2 g     F .text	000000000000644a              SUB_IDEDRAWOBJ(void*, int*)
+0000000000b951d8 g     O .bss	0000000000000008              __glewVertexStream2iATI
+00000000008d4742 g     F .text	0000000000000092              log_event(int)
+0000000000000000       F *UND*	0000000000000000              std::ios_base::Init::Init()@GLIBCXX_3.4
+00000000009580af g     F .text	00000000000001b8              FT_Stream_New
+000000000095e4ef g     F .text	0000000000000103              FT_Set_Renderer
+0000000000b958e8 g     O .bss	0000000000000008              __glewProgramUniform3uiEXT
+0000000000964709 g     F .text	00000000000000c4              ft_mem_realloc
+0000000000b97627 g     O .bss	0000000000000001              __GLEW_EXT_depth_bounds_test
+0000000000b8f8a8 g     O .bss	0000000000000008              __ARRAY_INTEGER_HASH2CHAR
+0000000000000000       F *UND*	0000000000000000              XFlush
+0000000000937e60 g     F .text	000000000000000a              toggle_lock_key(int)
+0000000000a723a0 g     O .data.rel.ro	0000000000000020              ps_table_funcs
+0000000000956026 g     F .text	0000000000000078              cff_cmap_encoding_char_next
+0000000000b97d1c g     O .bss	0000000000000004              environment_2d__screen_height
+0000000000b97686 g     O .bss	0000000000000001              __GLEW_INTEL_parallel_arrays
+0000000000b945f8 g     O .bss	0000000000000008              __glewProgramUniformMatrix2fv
+000000000095cd29 g     F .text	00000000000000d6              FT_Select_Charmap
+00000000009a5e50 g     F .text	000000000000048b              TT_Load_Glyph
+0000000000b93780 g     O .bss	0000000000000008              __glewVertexAttrib4Nusv
+00000000009cdeda  w    F .text	0000000000000012              BDF_encoding_el_* cplusplus_typeof<BDF_encoding_el_>(BDF_encoding_el_*, void*)
+0000000000bb2760 g     O .bss	0000000000000040              segreg
+0000000000a79024 g     O .data	0000000000000004              MACVK_End
+0000000000b9770a g     O .bss	0000000000000001              __GLEW_SGIX_ir_instrument1
+0000000000b90568 g     O .bss	0000000000000008              __LONG_T2SIZE
+0000000000b96660 g     O .bss	0000000000000008              __glewProgramUniform4i64NV
+0000000000681def g     F .text	0000000000000140              FUNC_UNIQUENUMBER()
+0000000000b94668 g     O .bss	0000000000000008              __glewProgramUniformMatrix4x2fv
+0000000000b909f8 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_IDESYSTEM2__ASCII_CHR_046__SX1
+0000000000b94638 g     O .bss	0000000000000008              __glewProgramUniformMatrix3x2fv
+0000000000b95e70 g     O .bss	0000000000000008              __glewSecondaryColor3sEXT
+00000000010dce20 g     O .bss	0000000000000002              n_digits
+0000000000b9766a g     O .bss	0000000000000001              __GLEW_EXT_texture_sRGB
+0000000000b90720 g     O .bss	0000000000000008              __LONG_COMMANEEDED
+0000000000880b40 g     F .text	0000000000000d28              SUB_UPDATEIDEINFO()
+00000000009624ad g     F .text	000000000000022b              FT_Get_Sfnt_Name
+0000000000b8fe70 g     O .bss	0000000000000008              __STRING_TERRMSG
+0000000000a79280 g     O .data	0000000000000008              range_int64_max
+0000000000b94ae0 g     O .bss	0000000000000008              __glewVertexAttribBinding
+00000000009cdfe8  w    F .text	0000000000000012              FT_FaceRec_* cplusplus_typeof<FT_FaceRec_>(FT_FaceRec_*, void*)
+0000000000b97711 g     O .bss	0000000000000001              __GLEW_SGIX_shadow_ambient
+0000000000b97808 g     O .bss	0000000000000008              __glewXCreateContextAttribsARB
+0000000000b95228 g     O .bss	0000000000000008              __glewVertexStream3sATI
+0000000000b94a30 g     O .bss	0000000000000008              __glewGetActiveUniformBlockiv
+0000000000b962b8 g     O .bss	0000000000000008              __glewDebugMessageInsert
+00000000009947b7 g     F .text	0000000000000171              tt_cmap2_char_index
+00000000009601a9 g     F .text	0000000000000037              FT_Outline_Done
+0000000000b95d30 g     O .bss	0000000000000008              __glewGetMinmaxEXT
+00000000009ce40e  w    F .text	0000000000000012              GX_AVarCorrespondenceRec_* cplusplus_typeof<GX_AVarCorrespondenceRec_>(GX_AVarCorrespondenceRec_*, void*)
+00000000008f5496 g     F .text	0000000000000087              point(int, int)
+00000000005f1daa g     F .text	00000000000005a2              FUNC_ISUINTEGER(qbs*)
+00000000009cdfa0  w    F .text	0000000000000012              FT_SubGlyphRec_* cplusplus_typeof<FT_SubGlyphRec_>(FT_SubGlyphRec_*, void*)
+0000000000ba899c g     O .bss	0000000000000004              y_offset
+00000000008e4fb7 g     F .text	0000000000000930              qbs_set(qbs*, qbs*)
+0000000000b94048 g     O .bss	0000000000000008              __glewConvolutionParameterf
+0000000000b959f0 g     O .bss	0000000000000008              __glewVertexArrayColorOffsetEXT
+0000000000b96628 g     O .bss	0000000000000008              __glewProgramUniform2i64vNV
+0000000000b975e7 g     O .bss	0000000000000001              __GLEW_ARB_texture_stencil8
+0000000000b96350 g     O .bss	0000000000000008              __glewWindowPos2ivMESA
+00000000006f2b7a g     F .text	0000000000000287              FUNC_SCASE(qbs*)
+0000000000b979b0 g     O .bss	0000000000000008              __glewXHyperpipeAttribSGIX
+00000000008e72f9 g     F .text	0000000000000118              func__str_nc_compare(qbs*, qbs*)
+0000000000b96090 g     O .bss	0000000000000008              __glewBindVertexShaderEXT
+000000000098d045 g     F .text	0000000000000014              pshinter_get_t2_funcs
+0000000000b968f8 g     O .bss	0000000000000008              __glewGetPathColorGenfvNV
+0000000000000000       F *UND*	0000000000000000              glTranslatef
+0000000000b95f70 g     O .bss	0000000000000008              __glewPrioritizeTexturesEXT
+00000000008e76ec g     F .text	000000000000004c              qbs_str(int)
+0000000000b94a20 g     O .bss	0000000000000008              __glewBindBufferRange
+00000000009ce054  w    F .text	0000000000000012              FT_ModuleRec_* cplusplus_typeof<FT_ModuleRec_>(FT_ModuleRec_*, void*)
+0000000000000000       F *UND*	0000000000000000              XCreateWindow
+0000000000b97617 g     O .bss	0000000000000001              __GLEW_EXT_bindable_uniform
+0000000000b94b28 g     O .bss	0000000000000008              __glewWeightfvARB
+0000000000b97870 g     O .bss	0000000000000008              __glewXCreateGLXPixmapMESA
+0000000000b8ec78 g     O .bss	0000000000000008              __LONG_INIDISABLEAUTOCOMMIT
+0000000000b9755b g     O .bss	0000000000000001              __GLEW_ANGLE_texture_usage
+0000000000b96040 g     O .bss	0000000000000008              __glewVertexAttribL3dvEXT
+0000000000b96f10 g     O .bss	0000000000000008              __glewVertexAttrib4fvNV
+0000000000b96e70 g     O .bss	0000000000000008              __glewVertexAttrib1dvNV
+0000000000b97ac7 g     O .bss	0000000000000001              __GLXEW_SGIX_swap_barrier
+0000000000b8f100 g     O .bss	0000000000000008              __STRING_MODIFYCOMMAND
+00000000009d3000 g     F .text	000000000000032c              fgCheckActiveMenu
+00000000009df040 g     F .text	0000000000000065              __libc_csu_init
+0000000000b90b50 g     O .bss	0000000000000004              ontimerthread_lock
+0000000000a723c0 g     O .data.rel.ro	0000000000000068              ps_parser_funcs
+0000000000b8ecd8 g     O .bss	0000000000000008              __LONG_HELP_CY1
+0000000000b95888 g     O .bss	0000000000000008              __glewProgramUniform1uiEXT
+000000000096be3a g     F .text	0000000000000068              ft_bitmap_glyph_copy
+000000000090220c g     F .text	00000000000002ea              sub_file_input_string(int, qbs*)
+0000000000b93928 g     O .bss	0000000000000008              __glewVertexAttribI1i
+0000000000b8ff80 g     O .bss	0000000000000008              __STRING_CWHOLELINE
+0000000000b96148 g     O .bss	0000000000000008              __glewShaderOp2EXT
+000000000095806a g     F .text	000000000000000f              ft_validator_run
+00000000010dd958 g     O .bss	0000000000000004              hardware_buffer_texcoords_count
+00000000008f5ccc g     F .text	00000000000010ca              printchr(int)
+0000000000b8f498 g     O .bss	0000000000000008              __STRING_VICOMMENTS
+0000000000b8ecf8 g     O .bss	0000000000000008              __LONG_HELP_SELY2
+0000000000b94cb0 g     O .bss	0000000000000008              __glewVertexAttrib2dvARB
+000000000092b624 g     F .text	0000000000000023              GLUT_SPECIAL_FUNC(int, int, int)
+0000000000b95b70 g     O .bss	0000000000000008              __glewDeleteFramebuffersEXT
+0000000000b96340 g     O .bss	0000000000000008              __glewWindowPos2fvMESA
+0000000000a78f00 g     O .data	0000000000000004              MACVK_ANSI_U
+00000000008fe6f2 g     F .text	00000000000000e0              func_rnd(float, int)
+0000000000b97030 g     O .bss	0000000000000008              __glewOrthofOES
+0000000000b97556 g     O .bss	0000000000000001              __GLEW_ANGLE_pack_reverse_row_order
+0000000000b90698 g     O .bss	0000000000000008              __STRING_IGNORE
+0000000000000000       F *UND*	0000000000000000              strtok@GLIBC_2.2.5
+0000000000a78fe0 g     O .data	0000000000000004              MACVK_F6
+0000000000b96c50 g     O .bss	0000000000000008              __glewVDPAUFiniNV
+000000000093c8e7 g     F .text	0000000000000785              af_latin_hints_compute_edges
+0000000000b8ee08 g     O .bss	0000000000000008              __DOUBLE_HELP_SEARCH_TIME
+0000000000b9759e g     O .bss	0000000000000001              __GLEW_ARB_internalformat_query
+000000000092a596 g     F .text	000000000000003a              sub__memfill_1(mem_block*, long, long, signed char)
+0000000000901a6f g     F .text	0000000000000796              n_inputnumberfromfile(int)
+00000000009a8da5 g     F .text	000000000000024f              TT_Run_Context
+000000000092a7a9 g     F .text	000000000000003a              sub__memfill_DOUBLE(mem_block*, long, long, double)
+0000000000000000       F *UND*	0000000000000000              fgetc@GLIBC_2.2.5
+0000000000000000       F *UND*	0000000000000000              XDisplayName
+00000000005cc8ff g     F .text	000000000000a559              FUNC_EVALUATETOTYP(qbs*, int*)
+0000000000b97238 g     O .bss	0000000000000008              __glewIsAsyncMarkerSGIX
+0000000000b94f80 g     O .bss	0000000000000008              __glewWindowPos3dvARB
+0000000000b94350 g     O .bss	0000000000000008              __glewPointParameterfARB
+0000000000b95a60 g     O .bss	0000000000000008              __glewGetBooleanIndexedvEXT
+00000000008e7788 g     F .text	000000000000004f              qbs_str(signed char)
+0000000000b949b8 g     O .bss	0000000000000008              __glewPauseTransformFeedback
+00000000009d0170 g     F .text	000000000000001f              glutInitWindowSize
+0000000000000000       F *UND*	0000000000000000              glXQueryExtension
+0000000000b8f2d0 g     O .bss	0000000000000008              __LONG_IDECUSTOMFONTHEIGHT
+0000000000b965c0 g     O .bss	0000000000000008              __glewProgramLocalParameterI4iNV
+0000000000410bf2 g     F .text	0000000000000015              func__inclerrorfile()
+0000000000b96a80 g     O .bss	0000000000000008              __glewGetVideouivNV
+0000000000b96000 g     O .bss	0000000000000008              __glewVertexPointerEXT
+0000000000b96548 g     O .bss	0000000000000008              __glewTestFenceNV
+0000000000b95108 g     O .bss	0000000000000008              __glewVertexAttribArrayObjectATI
+0000000000b94580 g     O .bss	0000000000000008              __glewProgramUniform3f
+000000000092ace9 g     F .text	0000000000000026              func_grad2rad(double)
+0000000000b96f98 g     O .bss	0000000000000008              __glewVertexAttribs4svNV
+0000000000994231 g     F .text	000000000000003e              tt_cmap0_char_index
+00000000009d5430 g     F .text	00000000000000a5              fgAddToWindowDestroyList
+0000000000b9770b g     O .bss	0000000000000001              __GLEW_SGIX_list_priority
+0000000000b94f20 g     O .bss	0000000000000008              __glewViewportArrayv
+0000000000b93488 g     O .bss	0000000000000008              __glewDeleteBuffers
+0000000000b976ac g     O .bss	0000000000000001              __GLEW_NV_gpu_program4
+00000000010cfc80 g     O .bss	0000000000000004              qbg_view_x2
+0000000000b8f328 g     O .bss	0000000000000008              __ARRAY_LONG_EXECLEVEL
+0000000000b97d68 g     O .bss	0000000000000004              fullscreen_allowedmode
+0000000000b8f920 g     O .bss	0000000000000008              __LONG_DATAOFFSET
+0000000000a79010 g     O .data	0000000000000004              MACVK_Help
+00000000009d7630 g     F .text	000000000000009f              glutReshapeWindow
+0000000000ba7fb4 g     O .bss	0000000000000004              gfs_freed_n
+00000000010dce00 g     O .bss	0000000000000020              sub_file_print_spaces
+0000000000b93b50 g     O .bss	0000000000000008              __glewDrawElementsInstancedANGLE
+0000000000b94618 g     O .bss	0000000000000008              __glewProgramUniformMatrix2x4fv
+000000000041131f g     F .text	000000000000000c              func__devices()
+00000000009cdefe  w    F .text	0000000000000012              unsigned long* cplusplus_typeof<unsigned long>(unsigned long*, void*)
+0000000000b94ad8 g     O .bss	0000000000000008              __glewBindVertexBuffer
+00000000010cfca8 g     O .bss	0000000000000004              qbg_window_x2
+0000000000b97555 g     O .bss	0000000000000001              __GLEW_ANGLE_instanced_arrays
+00000000009bd241 g     F .text	00000000000009ee              T1_Load_Glyph
+000000000097a38e g     F .text	0000000000000028              pcf_driver_requester
+0000000000985b6f g     F .text	000000000000003d              afm_parser_done
+0000000000000000       F *UND*	0000000000000000              glPushMatrix
+0000000000b976c0 g     O .bss	0000000000000001              __GLEW_NV_shader_atomic_counters
+0000000000b9768f g     O .bss	0000000000000001              __GLEW_MESA_ycbcr_texture
+0000000000b96908 g     O .bss	0000000000000008              __glewGetPathCommandsNV
+00000000010dcdd8 g     O .bss	0000000000000004              H3C9_next
+00000000009d11d0 g     F .text	0000000000000057              glutJoystickSetMaxRange
+0000000000a78f34 g     O .data	0000000000000004              MACVK_ANSI_M
+000000000097624a g     F .text	0000000000000089              FT_Set_MM_Blend_Coordinates
+0000000000b97ac8 g     O .bss	0000000000000001              __GLXEW_SGIX_swap_group
+0000000000b95fd8 g     O .bss	0000000000000008              __glewDrawArraysEXT
+0000000000a72020 g     O .data.rel.ro	0000000000000050              pcf_cmap_class
+000000000095dfbf g     F .text	00000000000000f6              FT_Get_CMap_Format
+0000000000b94bd8 g     O .bss	0000000000000008              __glewGetProgramEnvParameterdvARB
+0000000000b970a0 g     O .bss	0000000000000008              __glewLineWidthx
+0000000000b93be0 g     O .bss	0000000000000008              __glewMultiDrawRangeElementArrayAPPLE
+00000000007b5638 g     F .text	0000000000004489              FUNC_IDEINPUTBOX(qbs*, qbs*, qbs*, qbs*, int*, int*)
+0000000000b9762b g     O .bss	0000000000000001              __GLEW_EXT_draw_range_elements
+00000000007afdf9 g     F .text	0000000000002f03              SUB_IDEFINDAGAIN(signed char*)
+000000000088e35a g     F .text	0000000000003127              FUNC_WIKI(qbs*)
+0000000000b90438 g     O .bss	0000000000000008              __STRING_STARTVALUE
+0000000000b96020 g     O .bss	0000000000000008              __glewVertexAttribL1dvEXT
+00000000009d0f90 g     F .text	0000000000000037              glutJoystickGetNumButtons
+0000000000b90b58 g     O .bss	0000000000000008              redim_preserve_cmem_buffer
+0000000000b97528 g     O .bss	0000000000000001              __GLEW_VERSION_1_1
+0000000000b967b8 g     O .bss	0000000000000008              __glewTexCoord3hvNV
+00000000009d3f10 g     F .text	0000000000000040              fgSpaceballSetWindow
+000000000097b162 g     F .text	000000000000018f              pfr_extra_item_load_stem_snaps
+0000000000b8ee18 g     O .bss	0000000000000008              __STRING_HELP_PAGELOADED
+0000000000b933c0 g     O .bss	0000000000000008              __glewSecondaryColor3ui
+00000000006ec6be g     F .text	0000000000000aae              SUB_FREE_ARRAY_UDT_VARSTRINGS(qbs*, int*, int*, qbs*, qbs*)
+0000000000b93fa0 g     O .bss	0000000000000008              __glewUniform2d
+00000000009d17d0 g     F .text	0000000000000021              fghGetXModifiers
+0000000000a78eb8 g     O .data	0000000000000004              MACVK_ANSI_E
+0000000000b932a8 g     O .bss	0000000000000008              __glewMultiTexCoord4d
+0000000000bb27f0 g     O .bss	0000000000000004              asciicode_reading
+0000000000b944b0 g     O .bss	0000000000000008              __glewActiveShaderProgram
+000000000091ca1a g     F .text	0000000000000067              gfs_eof_passed(int)
+0000000000b93570 g     O .bss	0000000000000008              __glewGetAttachedShaders
+0000000000000000       F *UND*	0000000000000000              XDestroyWindow
+00000000005eed6b g     F .text	000000000000092f              FUNC_GETELEMENTSPECIAL(qbs*, int*)
+0000000000893c2f g     F .text	0000000000000277              FUNC_HELP_COL()
+0000000000b97d70 g     O .bss	0000000000000004              fullscreen_smooth
+0000000000b94b00 g     O .bss	0000000000000008              __glewVertexBindingDivisor
+0000000000b97ab2 g     O .bss	0000000000000001              __GLXEW_MESA_pixmap_colormap
+0000000000000000       F *UND*	0000000000000000              XLowerWindow
+0000000000b8f3a0 g     O .bss	0000000000000008              __LONG_NO_C_COMPILE_MODE
+0000000000b94608 g     O .bss	0000000000000008              __glewProgramUniformMatrix2x3fv
+0000000000b95828 g     O .bss	0000000000000008              __glewNamedProgramLocalParameterI4uivEXT
+0000000000997d79 g     F .text	000000000000007b              tt_cmap13_init
+0000000000a7de40 g     O .bss	0000000000000008              nothingstring
+0000000000bb2810 g     O .bss	0000000000000004              vertical_retrace_happened
+000000000092a6d5 g     F .text	0000000000000039              sub__memfill_8(mem_block*, long, long, long)
+0000000000b972c8 g     O .bss	0000000000000008              __glewGetFragmentLightivSGIX
+0000000000a79018 g     O .data	0000000000000004              MACVK_PageUp
+0000000000939100 g     F .text	000000000000000b              af_glyph_hints_dump_edges
+00000000010dc184 g     O .bss	0000000000000004              img_printchr_y
+0000000000b96e60 g     O .bss	0000000000000008              __glewTrackMatrixNV
+0000000000a78db0 g     O .data	0000000000000008              gfs_nextid
+00000000009ddfe0 g     F .text	000000000000018a              glutWireTetrahedron
+0000000000b93f50 g     O .bss	0000000000000008              __glewFramebufferTextureARB
+0000000000b976ce g     O .bss	0000000000000001              __GLEW_NV_texture_shader2
+0000000000b8f118 g     O .bss	0000000000000008              __STRING_ACTIVEINCLUDELINKFILE
+0000000000b95b68 g     O .bss	0000000000000008              __glewCheckFramebufferStatusEXT
+0000000000b93160 g     O .bss	0000000000000008              __glewCopyTexSubImage3D
+00000000009cf0f0 g     F .text	0000000000000047              glutMultiPassiveFunc
+00000000008d6d86 g     F .text	000000000000018f              convert_unicode(int, void*, int, int, void*)
+00000000008f6d96 g     F .text	00000000000001df              chrwidth(unsigned int)
+000000000096cb7a g     F .text	000000000000003d              FT_Done_FreeType
+0000000000937e96 g     F .text	0000000000000010              sub__console_cursor(int, int, int)
+00000000010dd900 g     O .bss	0000000000000008              compoundtext
+0000000000918246 g     F .text	0000000000000797              connection_new(int, qbs*, int)
+0000000000b94238 g     O .bss	0000000000000008              __glewMultiTexCoord1ivARB
+0000000000410fe1 g     F .text	0000000000000043              setDeviceEventAxisValue(device_struct*, int, int, float)
+0000000000b935f0 g     O .bss	0000000000000008              __glewLinkProgram
+0000000000b97ec0 g     O .bss	0000000000000008              fonts
+0000000000b94020 g     O .bss	0000000000000008              __glewColorTable
+00000000009de620 g     F .text	00000000000000ca              glutWireRhombicDodecahedron
+0000000000b95838 g     O .bss	0000000000000008              __glewNamedProgramLocalParametersI4ivEXT
+0000000000b94a70 g     O .bss	0000000000000008              __glewDeleteVertexArrays
+0000000000b968d0 g     O .bss	0000000000000008              __glewCoverFillPathNV
+0000000000b97595 g     O .bss	0000000000000001              __GLEW_ARB_geometry_shader4
+0000000000b8f858 g     O .bss	0000000000000008              __LONG_HASHFIND_NEXTLISTITEM
+0000000000b97661 g     O .bss	0000000000000001              __GLEW_EXT_texture_env_combine
+0000000000b962e0 g     O .bss	0000000000000008              __glewObjectPtrLabel
+00000000008490f9 g     F .text	0000000000000299              SUB_IDERESTRICT417(int*)
+0000000000b955e8 g     O .bss	0000000000000008              __glewGetTextureLevelParameterivEXT
+000000000090954c g     F .text	0000000000000123              func_loc(int)
+0000000000b95860 g     O .bss	0000000000000008              __glewNamedRenderbufferStorageMultisampleEXT
+0000000000b8ed30 g     O .bss	0000000000000008              __LONG_HELP_WH
+000000000096ca69 g     F .text	0000000000000069              FT_Done_Glyph
+0000000000b95170 g     O .bss	0000000000000008              __glewVertexBlendEnviATI
+00000000009c2fb5 g     F .text	0000000000000056              T42_Driver_Init
+00000000009858b5 g     F .text	000000000000010f              afm_parser_next_key
+0000000000000000       F *UND*	0000000000000000              snprintf@GLIBC_2.2.5
+0000000000701c74 g     F .text	00000000000007a6              SUB_INICOMMIT()
+0000000000b938b8 g     O .bss	0000000000000008              __glewGetVertexAttribIiv
+000000000099d744 g     F .text	000000000000001b              tt_face_load_sfnt_header_stub
+0000000000000000       F *UND*	0000000000000000              std::basic_ifstream<char, std::char_traits<char> >::is_open()@GLIBCXX_3.4
+00000000009561e8 g     F .text	0000000000000050              cff_cmap_unicode_char_index
+00000000010cfcb0 g     O .bss	0000000000000004              qbg_pages
+0000000000909484 g     F .text	00000000000000c8              func_seek(int)
+0000000000b975cf g     O .bss	0000000000000001              __GLEW_ARB_texture_border_clamp
+0000000000b903f0 g     O .bss	0000000000000008              __LONG_NELE
+0000000000b976b6 g     O .bss	0000000000000001              __GLEW_NV_packed_depth_stencil
+0000000000968fa9 g     F .text	000000000000007e              ftc_inode_free
+0000000000b8ec90 g     O .bss	0000000000000008              __LONG_INIFORCERELOAD
+0000000000b95018 g     O .bss	0000000000000008              __glewBindFragmentShaderATI
+0000000000b908d0 g     O .bss	0000000000000008              __STRING_LAYOUT_BACKUP
+0000000000b9764c g     O .bss	0000000000000001              __GLEW_EXT_separate_shader_objects
+00000000008d4464 g     F .text	0000000000000037              qbr_longdouble_to_uint64(long double)
+0000000000962a79 g     F .text	000000000000005f              FT_Stream_ReleaseFrame
+00000000009994d6 g     F .text	0000000000000183              tt_cmap14_char_var_isdefault
+0000000000b901f8 g     O .bss	0000000000000008              __LONG_THENGOTO
+000000000091cd7d g     F .text	00000000000001f4              sub_unlock(int, long, long, int)
+000000000090ec82 g     F .text	000000000000014a              func__palettecolor(int, int, int)
+0000000000932e75 g     F .text	000000000000031a              MAIN_LOOP()
+00000000009d6700 g     F .text	0000000000000029              fgSetWindow
+0000000000b8ef60 g     O .bss	0000000000000008              __LONG_IDELAYOUTALLOW
+0000000000b90448 g     O .bss	0000000000000008              __LONG_STEPUSED
+0000000000966455 g     F .text	000000000000007f              FTC_MruNode_Prepend
+0000000000b8f638 g     O .bss	0000000000000008              __LONG_IDEDEBUGINFO
+0000000000919216 g     F .text	0000000000000278              x11filter(_XEvent*)
+00000000008e2db5 g     F .text	0000000000000043              build_uint64(unsigned int, unsigned int)
+00000000009cd6c1 g     F .text	000000000000009c              ft_lzwstate_init
+0000000000b96760 g     O .bss	0000000000000008              __glewMultiTexCoord4hNV
+0000000000a75320 g     O .data.rel.ro	0000000000000020              fgFontHelvetica12
+0000000000b907e8 g     O .bss	0000000000000008              __LONG_PASSED
+00000000009ce930 g     F .text	00000000000000e4              glutJoystickFunc
+0000000000b8ebb8 g     O .bss	0000000000000008              __STRING1_SP2
+00000000009c30a1 g     F .text	00000000000000ae              T42_Size_Request
+0000000000b934d8 g     O .bss	0000000000000008              __glewGetQueryiv
+0000000000b8f618 g     O .bss	0000000000000008              __STRING_A
+00000000009ce204  w    F .text	0000000000000012              AFM_StreamRec_* cplusplus_typeof<AFM_StreamRec_>(AFM_StreamRec_*, void*)
+0000000000b936f8 g     O .bss	0000000000000008              __glewVertexAttrib2dv
+0000000000b95480 g     O .bss	0000000000000008              __glewDisableVertexArrayEXT
+0000000000b93cb8 g     O .bss	0000000000000008              __glewMapVertexAttrib1fAPPLE
+0000000000b975ea g     O .bss	0000000000000001              __GLEW_ARB_texture_swizzle
+00000000009ce35a  w    F .text	0000000000000012              char const* cplusplus_typeof<char const>(char const*, void*)
+0000000000b96388 g     O .bss	0000000000000008              __glewWindowPos3iMESA
+0000000000b969b8 g     O .bss	0000000000000008              __glewPathGlyphsNV
+0000000000b97038 g     O .bss	0000000000000008              __glewAlphaFuncx
+00000000008d44d6 g     F .text	000000000000003b              qbr_double_to_long(double)
+000000000068bc7e g     F .text	0000000000002eea              SUB_XFILEWRITE(qbs*, int*)
+0000000000b90b54 g     O .bss	0000000000000004              r
+0000000000967eea g     F .text	00000000000000a7              ftc_cache_init
+0000000000b932b0 g     O .bss	0000000000000008              __glewMultiTexCoord4dv
+0000000000b93b70 g     O .bss	0000000000000008              __glewEndQueryANGLE
+0000000000b94a78 g     O .bss	0000000000000008              __glewGenVertexArrays
+00000000010cfc34 g     O .bss	0000000000000004              qbg_cursor_x
+0000000000980be4 g     F .text	00000000000000a0              ps_table_release
+00000000008f358f g     F .text	000000000000002a              getptsize_1bpp(qbs const*, int*, int*)
+0000000000bb281c g     O .bss	0000000000000004              mem_static_size
+0000000000b97643 g     O .bss	0000000000000001              __GLEW_EXT_pixel_buffer_object
+0000000000b94748 g     O .bss	0000000000000008              __glewUniform1iARB
+0000000000b95f88 g     O .bss	0000000000000008              __glewGetQueryObjectui64vEXT
+00000000009931ba g     F .text	00000000000002b9              tt_face_load_name
+0000000000b909b8 g     O .bss	0000000000000008              __STRING_LIBQB
+000000000096e334 g     F .text	00000000000000de              FT_Stroker_New
+0000000000b96bb8 g     O .bss	0000000000000008              __glewTextureImage3DMultisampleNV
+0000000000b90738 g     O .bss	0000000000000008              __LONG_ELEMENTON
+0000000000b90818 g     O .bss	0000000000000008              __LONG_CONVERTSPACING
+0000000000b97576 g     O .bss	0000000000000001              __GLEW_ARB_cl_event
+0000000000b93c90 g     O .bss	0000000000000008              __glewVertexArrayRangeAPPLE
+000000000093bd1b g     F .text	00000000000008f5              af_latin_hints_compute_segments
+0000000000b8f490 g     O .bss	0000000000000008              __STRING_VIPRODUCTVERSION
+00000000009bab9a g     F .text	000000000000005c              T1_Size_Done
+0000000000a72980 g     O .data.rel.ro	0000000000000048              pshinter_module_class
+0000000000000000       F *UND*	0000000000000000              XTranslateCoordinates
+00000000010dc16c g     O .bss	0000000000000004              lineclip_x2
+0000000000971b87 g     F .text	000000000000001b              FT_Done_Memory
+0000000000b8f780 g     O .bss	0000000000000008              __BYTE_MOUSEBUTTONSWAPPED
+0000000000b90158 g     O .bss	0000000000000008              __STRING_T2
+0000000000b94db0 g     O .bss	0000000000000008              __glewGetAttribLocationARB
+000000000091c9c1 g     F .text	0000000000000059              gfs_eof_reached(int)
+0000000000b90280 g     O .bss	0000000000000008              __STRING_EXEICONFILE
+0000000000a7de4d g     O .bss	0000000000000001              stop_program
+0000000000962f66 g     F .text	00000000000000a3              FT_Stream_GetULongLE
+0000000000b96c80 g     O .bss	0000000000000008              __glewVDPAURegisterVideoSurfaceNV
+000000000092a8cc g     F .text	0000000000000030              sub__memfill_nochecks_OFFSET(long, long, long)
+0000000000b93868 g     O .bss	0000000000000008              __glewEnablei
+0000000000b97636 g     O .bss	0000000000000001              __GLEW_EXT_histogram
+00000000008fd899 g     F .text	000000000000095d              func_val(qbs*)
+0000000000b8fed0 g     O .bss	0000000000000008              __STRING_MYLIBOPT
+0000000000b90270 g     O .bss	0000000000000008              __STRING_VERSIONINFOVALUE
+00000000008d47ea g     F .text	000000000000000c              QB64_Resizable
+000000000093106c g     F .text	0000000000000037              func__resize()
+0000000000b93ae0 g     O .bss	0000000000000008              __glewGetPerfMonitorCounterStringAMD
+00000000010dd4a4 g     O .bss	0000000000000004              pu_dp
+0000000000b94550 g     O .bss	0000000000000008              __glewProgramUniform2i
+00000000010dd930 g     O .bss	0000000000000010              tmp_rect
+0000000000b949a0 g     O .bss	0000000000000008              __glewDrawTransformFeedback
+00000000009ce390  w    F .text	0000000000000012              TT_SBit_ComponentRec_* cplusplus_typeof<TT_SBit_ComponentRec_>(TT_SBit_ComponentRec_*, void*)
+000000000095e0b5 g     F .text	0000000000000055              FT_Activate_Size
+0000000000000000       F *UND*	0000000000000000              memmove@GLIBC_2.2.5
+0000000000a72ce0 g     O .data.rel.ro	0000000000000068              tt_cmap4_class_rec
+0000000000b966b0 g     O .bss	0000000000000008              __glewUniform2ui64NV
+0000000000000000       F *UND*	0000000000000000              _exit@GLIBC_2.2.5
+0000000000b8ec88 g     O .bss	0000000000000008              __LONG_INIALLOWBASICCOMMENTS
+000000000084cd1c g     F .text	0000000000004325              FUNC_IDESEARCHEDBOX()
+0000000000b8fa30 g     O .bss	0000000000000008              __LONG_CONSTLAST
+00000000009d3490 g     F .text	000000000000003f              glutGetMenu
+0000000000b90338 g     O .bss	0000000000000008              __LONG_STATICLINKEDLIBRARY
+00000000009bcad4 g     F .text	000000000000024e              T1_Parse_Glyph_And_Get_Char_String
+0000000000b945a0 g     O .bss	0000000000000008              __glewProgramUniform3ui
+0000000000b8ed80 g     O .bss	0000000000000008              __LONG_HELP_UNDERLINE
+0000000000000000       F *UND*	0000000000000000              XDeleteProperty
+0000000000994134 g     F .text	00000000000000fd              tt_cmap0_validate
+0000000000b96078 g     O .bss	0000000000000008              __glewBindParameterEXT
+0000000000b96ae0 g     O .bss	0000000000000008              __glewGetCombinerInputParameterfvNV
+0000000000b8f9a8 g     O .bss	0000000000000008              __STRING_LAYOUTCOMMENT
+00000000008e8265 g     F .text	000000000000005e              qbs_equal(qbs*, qbs*)
+0000000000b96120 g     O .bss	0000000000000008              __glewInsertComponentEXT
+0000000000b955c8 g     O .bss	0000000000000008              __glewGetPointerIndexedvEXT
+0000000000b90798 g     O .bss	0000000000000008              __LONG_E2TYP
+000000000094f2c9 g     F .text	0000000000000263              cff_size_init
+0000000000b94e10 g     O .bss	0000000000000008              __glewMultiTexCoordP4uiv
+0000000000b905a8 g     O .bss	0000000000000008              __STRING_STRINGVARIABLE
+000000000098510a g     F .text	0000000000000024              t1_cmap_standard_init
+0000000000b90340 g     O .bss	0000000000000008              __LONG_SFDECLARE
+0000000000b93728 g     O .bss	0000000000000008              __glewVertexAttrib3dv
+00000000008e1591 g     F .text	0000000000001205              cpu_call()
+0000000000b971b0 g     O .bss	0000000000000008              __glewLogMessageCallbackREGAL
+0000000000b9762d g     O .bss	0000000000000001              __GLEW_EXT_fragment_lighting
+0000000000b95340 g     O .bss	0000000000000008              __glewTangentPointerEXT
+0000000000b97e20 g     O .bss	0000000000000008              last_hardware_display_frame_order
+0000000000a7dbd8 g     O .bss	0000000000000004              ercl
+000000000091cfcd g     F .text	000000000000000a              sub__printimage(int)
+0000000000b95e48 g     O .bss	0000000000000008              __glewSecondaryColor3dvEXT
+00000000009b6a39 g     F .text	000000000000012a              T1_Set_MM_Blend
+0000000000b9760f g     O .bss	0000000000000001              __GLEW_ATI_texture_mirror_once
+0000000000a72640 g     O .data.rel.ro	0000000000000050              t1_cmap_custom_class_rec
+0000000000906e39 g     F .text	0000000000000052              func_exp_float(long double)
+0000000000000000       F *UND*	0000000000000000              realloc@GLIBC_2.2.5
+00000000010cfb90 g     O .bss	0000000000000004              qbs_cmem_list_nexti
+000000000092a346 g     F .text	00000000000000e1              func__memget(mem_block*, long, long)
+0000000000b8f608 g     O .bss	0000000000000008              __LONG_FH2
+000000000091d77e g     F .text	000000000000027f              field_add(qbs*, long)
+0000000000b8f5f0 g     O .bss	0000000000000008              __LONG_FH
+000000000090c1c3 g     F .text	00000000000002a7              func__mousex(int, int)
+0000000000b94418 g     O .bss	0000000000000008              __glewGetnUniformfvARB
+00000000007ba8fb g     F .text	00000000000005ba              FUNC_IDENEWFOLDER(qbs*)
+00000000008e4e09 g     F .text	0000000000000148              qbs_new(int, unsigned char)
+0000000000b958d0 g     O .bss	0000000000000008              __glewProgramUniform3fvEXT
+0000000000b8f610 g     O .bss	0000000000000008              __STRING_CHECKPID
+0000000000b8f000 g     O .bss	0000000000000008              __LONG_IDESY
+0000000000b93328 g     O .bss	0000000000000008              __glewFogCoordfv
+0000000000a79034 g     O .data	0000000000000004              MACVK_LeftArrow
+0000000000b978a0 g     O .bss	0000000000000008              __glewXBindVideoDeviceNV
+0000000000b940e8 g     O .bss	0000000000000008              __glewGetSeparableFilter
+00000000009d4b60 g     F .text	00000000000001eb              glutDeviceGet
+0000000000849392 g     F .text	000000000000023e              FUNC_CTRL2()
+0000000000b97a97 g     O .bss	0000000000000001              __GLXEW_ARB_create_context
+0000000000b90070 g     O .bss	0000000000000008              __LONG_PENDING
+0000000000986d5e g     F .text	00000000000000e4              PS_Conv_EexecDecode
+000000000041106b g     F .text	0000000000000052              setDeviceEventWheelValue(device_struct*, int, int, float)
+000000000096780b g     F .text	00000000000000dd              FTC_Manager_Lookup_Size
+0000000000b907f8 g     O .bss	0000000000000008              __LONG_ADDEDLAYOUT
+0000000000910767 g     F .text	0000000000000696              func__loadfont(qbs*, int, qbs*, int)
+0000000000b93ea0 g     O .bss	0000000000000008              __glewGetNamedFramebufferParameterivEXT
+0000000000b95318 g     O .bss	0000000000000008              __glewGetConvolutionParameterfvEXT
+0000000000b943e0 g     O .bss	0000000000000008              __glewGetnPixelMapfvARB
+0000000000b95a48 g     O .bss	0000000000000008              __glewColorMaskIndexedEXT
+000000000093559b g     F .text	00000000000001e7              update_shift_state()
+0000000000b95448 g     O .bss	0000000000000008              __glewCopyTextureImage2DEXT
+0000000000b976be g     O .bss	0000000000000001              __GLEW_NV_register_combiners
+0000000000b97330 g     O .bss	0000000000000008              __glewColorTableSGI
+00000000006f6c24 g     F .text	00000000000007d9              FUNC_READCHUNK(qbs*, qbs*)
+0000000000000000       F *UND*	0000000000000000              __gxx_personality_v0@CXXABI_1.3
+0000000000950e75 g     F .text	00000000000000a5              cff_face_done
+0000000000976e68 g     F .text	0000000000000088              BitOrderInvert
+00000000008d650f g     F .text	00000000000004ba              FontLoad(unsigned char*, int, int, int, int)
+0000000000b97abd g     O .bss	0000000000000001              __GLXEW_NV_video_output
+0000000000b94598 g     O .bss	0000000000000008              __glewProgramUniform3iv
+0000000000b96700 g     O .bss	0000000000000008              __glewColor3hNV
+00000000009d5330 g     F .text	00000000000000f2              fgCreateMenu
+0000000000b937b8 g     O .bss	0000000000000008              __glewVertexAttrib4s
+0000000000b94de8 g     O .bss	0000000000000008              __glewMultiTexCoordP2ui
+00000000008d6c0f g     F .text	00000000000000d4              new_mem_lock()
+0000000000b976f8 g     O .bss	0000000000000001              __GLEW_SGIS_texture_border_clamp
+0000000000b934e8 g     O .bss	0000000000000008              __glewIsQuery
+0000000000b949f8 g     O .bss	0000000000000008              __glewLoadTransposeMatrixdARB
+0000000000b93e98 g     O .bss	0000000000000008              __glewGetFramebufferParameteriv
+0000000000b8f630 g     O .bss	0000000000000008              __STRING_TEMPFOLDERINDEXSTR2
+0000000000931024 g     F .text	0000000000000048              sub__resize(int, int)
+0000000000b94120 g     O .bss	0000000000000008              __glewMultiDrawElementsIndirectCountARB
+00000000008a40f1  w    F .text	0000000000000018              func_abs(short)
+0000000000b96818 g     O .bss	0000000000000008              __glewVertexAttrib2hvNV
+0000000000b93df8 g     O .bss	0000000000000008              __glewDispatchComputeIndirect
+00000000006dc90b g     F .text	0000000000000aaf              FUNC_HASHFINDREV(qbs*, int*, int*, int*)
+0000000000b95bf8 g     O .bss	0000000000000008              __glewProgramEnvParameters4fvEXT
+0000000000a78f64 g     O .data	0000000000000004              MACVK_ANSI_Keypad1
+0000000000b90030 g     O .bss	0000000000000008              __LONG_HASHRESREF
+0000000000b972a8 g     O .bss	0000000000000008              __glewFragmentMaterialfvSGIX
+0000000000b97701 g     O .bss	0000000000000001              __GLEW_SGIX_clipmap
+00000000009d5e20 g     F .text	0000000000000020              fgListLength
+0000000000b8ed48 g     O .bss	0000000000000008              __STRING_HELP_TXT
+00000000009a6c01 g     F .text	00000000000002b4              tt_face_init
+0000000000b975fa g     O .bss	0000000000000001              __GLEW_ARB_vertex_type_10f_11f_11f_rev
+0000000000ba7f90 g     O .bss	0000000000000004              lprint_image
+000000000092ba95 g     F .text	00000000000003ee              prepare_environment_2d()
+0000000000b96170 g     O .bss	0000000000000008              __glewVariantdvEXT
+0000000000a72be0 g     O .data.rel.ro	0000000000000068              tt_cmap0_class_rec
+0000000000b95778 g     O .bss	0000000000000008              __glewMultiTexParameterivEXT
+000000000091ab6e g     F .text	00000000000001b4              gfs_close(int)
+0000000001109ac0 g     O .bss	0000000000000018              glutBitmapHelvetica12
+0000000000000000       F *UND*	0000000000000000              asinl@GLIBC_2.2.5
+00000000009643b4 g     F .text	00000000000000e2              FT_Vector_Length
+000000000096acf4 g     F .text	0000000000000025              FTC_Image_Cache_New
+0000000000b93c38 g     O .bss	0000000000000008              __glewGetObjectParameterivAPPLE
+00000000009ce3d8  w    F .text	0000000000000012              TT_CallRec_* cplusplus_typeof<TT_CallRec_>(TT_CallRec_*, void*)
+0000000000b97088 g     O .bss	0000000000000008              __glewLightModelxv
+0000000000413c27 g     F .text	000000000000001d              QBMAIN_LINUX(void*)
+0000000000b96758 g     O .bss	0000000000000008              __glewMultiTexCoord3hvNV
+0000000000b90598 g     O .bss	0000000000000008              __LONG_USEPOSITION
+0000000000b97458 g     O .bss	0000000000000008              __glewReplacementCodeuiColor4ubVertex3fvSUN
+0000000000b94a38 g     O .bss	0000000000000008              __glewGetActiveUniformName
+0000000000ba89b0 g     O .bss	0000000000000004              conversion_required
+00000000009178bf g     F .text	000000000000001b              tcp_init()
+0000000000b97715 g     O .bss	0000000000000001              __GLEW_SGIX_texture_coordinate_clamp
+0000000000b961e0 g     O .bss	0000000000000008              __glewGetImageTransformParameterfvHP
+000000000095c8af g     F .text	00000000000000e1              FT_Set_Char_Size
+000000000096c0b2 g     F .text	0000000000000066              ft_outline_glyph_transform
+0000000000b96560 g     O .bss	0000000000000008              __glewProgramNamedParameter4dNV
+0000000000b972d8 g     O .bss	0000000000000008              __glewGetFragmentMaterialivSGIX
+0000000000b97a95 g     O .bss	0000000000000001              __GLXEW_3DFX_multisample
+0000000000b96db8 g     O .bss	0000000000000008              __glewDeleteProgramsNV
+0000000000984f14 g     F .text	000000000000001b              t1_decoder_done
+0000000000b8fef8 g     O .bss	0000000000000008              __ARRAY_STRING_WARNING
+0000000000b93fc8 g     O .bss	0000000000000008              __glewUniform4dv
+0000000000b8f670 g     O .bss	0000000000000008              __LONG_USE_GLOBAL_BYTE_ELEMENTS
+0000000000b8f760 g     O .bss	0000000000000008              __BYTE_IDESORTSUBS
+0000000000b96ea8 g     O .bss	0000000000000008              __glewVertexAttrib2fNV
+0000000000b904d8 g     O .bss	0000000000000008              __STRING_EL
+0000000000b94680 g     O .bss	0000000000000008              __glewUseProgramStages
+0000000000b976ab g     O .bss	0000000000000001              __GLEW_NV_geometry_shader4
+0000000000b971f8 g     O .bss	0000000000000008              __glewTexImage4DSGIS
+0000000000b95ac8 g     O .bss	0000000000000008              __glewFragmentLightModelfvEXT
+0000000000a7de3c g     O .bss	0000000000000004              new_error
+000000000091782c g     F .text	0000000000000093              sub_environ(qbs*)
+0000000000b9753f g     O .bss	0000000000000001              __GLEW_AMD_depth_clamp_separate
+0000000000b976ec g     O .bss	0000000000000001              __GLEW_REGAL_log
+00000000009def80 g     F .text	0000000000000001              glutEstablishOverlay
+0000000000b95c50 g     O .bss	0000000000000008              __glewUniform3uiEXT
+0000000000b959d0 g     O .bss	0000000000000008              __glewTextureSubImage1DEXT
+0000000000000000       F *UND*	0000000000000000              access@GLIBC_2.2.5
+0000000000b952b8 g     O .bss	0000000000000008              __glewCopyColorSubTableEXT
+00000000008e439d g     F .text	00000000000000f3              qbs_cmem_concat_list()
+0000000000b942c8 g     O .bss	0000000000000008              __glewMultiTexCoord3svARB
+0000000000b90778 g     O .bss	0000000000000008              __LONG_ELE
+00000000008d83e5 g     F .text	0000000000000351              pset(int, int, unsigned int)
+000000000069a798 g     F .text	0000000000001b26              SUB_XREAD(qbs*, int*)
+000000000096283a g     F .text	0000000000000032              FT_Stream_Read
+000000000091de80 g     F .text	0000000000000021              func__os()
+00000000008d71d1 g     F .text	0000000000000117              keyheld_add(unsigned int)
+0000000000000000       F *UND*	0000000000000000              powl@GLIBC_2.2.5
+00000000006e3212 g     F .text	00000000000001f0              SUB_GIVE_ERROR(qbs*)
+0000000000a78dc8 g     O .data	0000000000000004              unicode16_buf_size
+00000000008d4718 g     F .text	000000000000002a              log_event(char*)
+00000000008e6408 g     F .text	0000000000000034              string2ub(qbs*)
+0000000000b8f810 g     O .bss	0000000000000008              __STRING_DISPLAYSETTINGSSECTION
+0000000000b97666 g     O .bss	0000000000000001              __GLEW_EXT_texture_mirror_clamp
+0000000000b97d7c g     O .bss	0000000000000004              screen_scale
+0000000000b947c0 g     O .bss	0000000000000008              __glewUniformMatrix3fvARB
+000000000091dfb6 g     F .text	0000000000000bf0              key_update()
+000000000099e95d g     F .text	00000000000000b7              tt_find_sbit_image
+00000000009def10 g     F .text	0000000000000032              glutGetColor
+0000000000906d30 g     F .text	0000000000000046              func_log(double)
+0000000000b93d80 g     O .bss	0000000000000008              __glewVertexAttribL1ui64ARB
+0000000000b94130 g     O .bss	0000000000000008              __glewDrawElementsInstancedARB
+00000000009044c3 g     F .text	0000000000001010              sub_graphics_get(float, float, float, float, void*, unsigned int, int)
+0000000000b8fd78 g     O .bss	0000000000000008              __LONG_UNIQUENUMBERN
+0000000000911ee0 g     F .text	0000000000000240              func__rgba(int, int, int, int, int, int)
+0000000000b93c40 g     O .bss	0000000000000008              __glewObjectPurgeableAPPLE
+0000000000b90658 g     O .bss	0000000000000008              __STRING_VARNAME2
+00000000008a40ac  w    F .text	0000000000000015              func_round_float(long double)
+0000000000b95898 g     O .bss	0000000000000008              __glewProgramUniform2fEXT
+0000000000b8f6e8 g     O .bss	0000000000000008              __STRING_OUTPUTFILE_CMD
+0000000000b95ce0 g     O .bss	0000000000000008              __glewVertexAttribI4ivEXT
+0000000000b8f2f0 g     O .bss	0000000000000008              __ARRAY_STRING_ONAME
+0000000000b904c0 g     O .bss	0000000000000008              __STRING_F12
+000000000090b7cc g     F .text	00000000000000a7              sub_chdir(qbs*)
+00000000010dcf40 g     O .bss	0000000000000008              n_exp
+000000000092c4ea g     F .text	000000000000008f              set_cull_mode(int)
+000000000090e9cd g     F .text	0000000000000111              func__blend(int, int)
+0000000000969027 g     F .text	0000000000000026              FTC_INode_Free
+0000000000b970e8 g     O .bss	0000000000000008              __glewPointSizex
+0000000000b95568 g     O .bss	0000000000000008              __glewGetMultiTexParameterivEXT
+0000000000b90238 g     O .bss	0000000000000008              __STRING_LAYOUTORIGINAL
+0000000000b903e8 g     O .bss	0000000000000008              __LONG_NELEREQ
+0000000000413c44 g     F .text	000000000015837f              QBMAIN(void*)
+000000000098cf4a g     F .text	000000000000003d              ps_hinter_done
+0000000000b975b2 g     O .bss	0000000000000001              __GLEW_ARB_robustness_application_isolation
+00000000009851b3 g     F .text	000000000000002d              t1_cmap_custom_done
+000000000097e757 g     F .text	0000000000000047              pfr_slot_init
+00000000009c0793 g     F .text	000000000000005c              cid_size_done
+0000000000b8ed88 g     O .bss	0000000000000008              __LONG_HELP_POS
+000000000090b937 g     F .text	00000000000000bf              sub_rmdir(qbs*)
+00000000009b41db g     F .text	0000000000000a72              TT_Vary_Get_Glyph_Deltas
+0000000000b8f1e8 g     O .bss	0000000000000008              __INTEGER_VIEWMENUSHOWSEPARATORID
+0000000000b97820 g     O .bss	0000000000000008              __glewXReleaseTexImageATI
+0000000000b9752e g     O .bss	0000000000000001              __GLEW_VERSION_2_0
+0000000000917db1 g     F .text	0000000000000069              tcp_close(void*)
+0000000000000000       F *UND*	0000000000000000              atanl@GLIBC_2.2.5
+0000000000b9755a g     O .bss	0000000000000001              __GLEW_ANGLE_texture_compression_dxt5
+0000000000a7da40  w    O .bss	0000000000000008              environ@GLIBC_2.2.5
+0000000000b944e8 g     O .bss	0000000000000008              __glewIsProgramPipeline
+0000000000b97288 g     O .bss	0000000000000008              __glewFragmentLightfvSGIX
+0000000000b93ff8 g     O .bss	0000000000000008              __glewUniformMatrix3x4dv
+0000000000b94208 g     O .bss	0000000000000008              __glewClientActiveTextureARB
+00000000009ce468  w    F .text	0000000000000012              FT_BBox_* cplusplus_typeof<FT_BBox_>(FT_BBox_*, void*)
+0000000000b934c0 g     O .bss	0000000000000008              __glewGetBufferSubData
+0000000000b94830 g     O .bss	0000000000000008              __glewDeleteNamedStringARB
+0000000000b8ef50 g     O .bss	0000000000000008              __STRING_IDECURRENTLINELAYOUT
+0000000000982393 g     F .text	0000000000000109              ps_parser_to_bytes
+0000000000b96c58 g     O .bss	0000000000000008              __glewVDPAUGetSurfaceivNV
+0000000000a78890 g     O .data	0000000000000004              qbs_cmem_sp
+00000000009d07b0 g     F .text	0000000000000015              fgInitialiseInputDevices
+00000000008e6100 g     F .text	000000000000003e              ui2string(short)
+00000000008d52db g     F .text	0000000000000330              new_hardware_img(int, int, unsigned int*, int)
+0000000000b8efc8 g     O .bss	0000000000000008              __LONG_IDEUNDOBASE
+00000000009a94a9 g     F .text	0000000000000054              Write_CVT_Stretched
+0000000000b93848 g     O .bss	0000000000000008              __glewClearBufferiv
+00000000009a62db g     F .text	000000000000010d              tt_glyphzone_done
+0000000000b97561 g     O .bss	0000000000000001              __GLEW_APPLE_fence
+0000000000b96e80 g     O .bss	0000000000000008              __glewVertexAttrib1fvNV
+0000000000b95f18 g     O .bss	0000000000000008              __glewClearColorIiEXT
+0000000000b93c48 g     O .bss	0000000000000008              __glewObjectUnpurgeableAPPLE
+000000000096bb05 g     F .text	000000000000000b              FT_Trace_Get_Count
+0000000000b8fab0 g     O .bss	0000000000000008              __ARRAY_LONG_UDTXNEXT
+0000000000b906d0 g     O .bss	0000000000000008              __STRING_BLKOFFS
+0000000000b8fc20 g     O .bss	0000000000000008              __LONG_UDTTYPE
+0000000000b95fa8 g     O .bss	0000000000000008              __glewBindBufferRangeEXT
+0000000000964c71 g     F .text	0000000000000068              FT_List_Iterate
+0000000000b975b1 g     O .bss	0000000000000001              __GLEW_ARB_robustness
+0000000000912120 g     F .text	00000000000001a4              func__alpha(unsigned int, int, int)
+0000000000b966b8 g     O .bss	0000000000000008              __glewUniform2ui64vNV
+0000000000b955e0 g     O .bss	0000000000000008              __glewGetTextureLevelParameterfvEXT
+0000000000b96488 g     O .bss	0000000000000008              __glewEndConditionalRenderNV
+0000000000b9763e g     O .bss	0000000000000001              __GLEW_EXT_multisample
+0000000000b976f9 g     O .bss	0000000000000001              __GLEW_SGIS_texture_edge_clamp
+00000000009677de g     F .text	000000000000002d              FTC_Manager_Lookup_Face
+0000000000b95070 g     O .bss	0000000000000008              __glewUnmapObjectBufferATI
+0000000000b94b20 g     O .bss	0000000000000008              __glewWeightdvARB
+0000000000b93da0 g     O .bss	0000000000000008              __glewBufferStorage
+0000000000b93408 g     O .bss	0000000000000008              __glewWindowPos2i
+0000000000b94c40 g     O .bss	0000000000000008              __glewProgramEnvParameter4fARB
+0000000000968f49 g     F .text	0000000000000033              ftc_gcache_done
+000000000092a66e g     F .text	0000000000000038              sub__memfill_4(mem_block*, long, long, int)
+00000000009cec70 g     F .text	0000000000000037              glutMenuDestroyFunc
+0000000000b97848 g     O .bss	0000000000000008              __glewXSwapIntervalEXT
+00000000010cfc4c g     O .bss	0000000000000004              qbg_cursor_show
+0000000000b978c0 g     O .bss	0000000000000008              __glewXQueryFrameCountNV
+0000000000b97572 g     O .bss	0000000000000001              __GLEW_ARB_base_instance
+0000000000b95858 g     O .bss	0000000000000008              __glewNamedRenderbufferStorageMultisampleCoverageEXT
+0000000000b8efd8 g     O .bss	0000000000000008              __LONG_IDELAUNCHED
+0000000000b97678 g     O .bss	0000000000000001              __GLEW_GREMEDY_string_marker
+0000000000b93960 g     O .bss	0000000000000008              __glewVertexAttribI2uiv
+0000000000b97699 g     O .bss	0000000000000001              __GLEW_NV_copy_depth_to_color
+0000000000ba7fc8 g     O .bss	0000000000000008              gfs_fileno
+0000000000b93878 g     O .bss	0000000000000008              __glewEndTransformFeedback
+0000000000000000       F *UND*	0000000000000000              floor@GLIBC_2.2.5
+00000000009d0a80 g     F .text	0000000000000031              fgInitialiseJoysticks
+0000000000b936b0 g     O .bss	0000000000000008              __glewUseProgram
+0000000000a78fd4 g     O .data	0000000000000004              MACVK_F19
+00000000008e4583 g     F .text	0000000000000067              qbs_tmp_concat_list()
+0000000000b95890 g     O .bss	0000000000000008              __glewProgramUniform1uivEXT
+00000000009d9390 g     F .text	000000000000019c              glutBitmapLength
+0000000000b8eec0 g     O .bss	0000000000000008              __LONG_MCLICK2
+0000000000938394  w    F .text	0000000000000030              std::fpos<__mbstate_t>::fpos(long)
+0000000000b8f6b0 g     O .bss	0000000000000008              __BYTE_OPTIONEXPLICIT
+0000000000b97658 g     O .bss	0000000000000001              __GLEW_EXT_texture_buffer_object
+0000000000b975d6 g     O .bss	0000000000000001              __GLEW_ARB_texture_cube_map
+0000000000b974f0 g     O .bss	0000000000000008              __glewTexCoord2fVertex3fSUN
+0000000000b94dc0 g     O .bss	0000000000000008              __glewColorP3uiv
+00000000009ce1e0  w    F .text	0000000000000012              PFR_CharRec_* cplusplus_typeof<PFR_CharRec_>(PFR_CharRec_*, void*)
+0000000000b94408 g     O .bss	0000000000000008              __glewGetnTexImageARB
+0000000000b94750 g     O .bss	0000000000000008              __glewUniform1ivARB
+00000000008e3aa1 g     F .text	00000000000000d1              mem_static_malloc(unsigned int)
+0000000000b95d88 g     O .bss	0000000000000008              __glewTextureMaterialEXT
+0000000000b907f0 g     O .bss	0000000000000008              __STRING_SUBCALL
+0000000000b94ea8 g     O .bss	0000000000000008              __glewVertexAttribP4ui
+0000000000b96938 g     O .bss	0000000000000008              __glewGetPathParameterfvNV
+0000000000a78b60 g     O .data	0000000000000008              mem_lock_id
+0000000000b93330 g     O .bss	0000000000000008              __glewMultiDrawArrays
+0000000000b976c3 g     O .bss	0000000000000001              __GLEW_NV_shader_storage_buffer_object
+0000000000b97604 g     O .bss	0000000000000001              __GLEW_ATI_envmap_bumpmap
+0000000000000000       F *UND*	0000000000000000              std::basic_ios<char, std::char_traits<char> >::clear(std::_Ios_Iostate)@GLIBCXX_3.4
+00000000009d0360 g     F .text	0000000000000008              glutInitWarningFunc
+0000000000b93258 g     O .bss	0000000000000008              __glewMultiTexCoord2s
+00000000005a0b3a g     F .text	0000000000010732              FUNC_EVALUATE(qbs*, int*)
+00000000008e96ec g     F .text	000000000000080b              qbg_sub_color(unsigned int, unsigned int, unsigned int, int)
+0000000000bb27d0 g     O .bss	0000000000000008              seg_gs_ptr
+0000000000000000       F *UND*	0000000000000000              std::basic_ofstream<char, std::char_traits<char> >::basic_ofstream()@GLIBCXX_3.4
+0000000000b8ee00 g     O .bss	0000000000000008              __LONG_HELP_BACK_POS
+00000000008e5f76 g     F .text	0000000000000065              func_cvsmbf(qbs*)
+0000000000802812 g     F .text	000000000000207a              FUNC_IDEZPATHLIST(qbs*)
+0000000000b95ee0 g     O .bss	0000000000000008              __glewActiveStencilFaceEXT
+0000000000b93cd8 g     O .bss	0000000000000008              __glewDepthRangef
+0000000000b961b8 g     O .bss	0000000000000008              __glewVertexWeightfEXT
+0000000000b97080 g     O .bss	0000000000000008              __glewLightModelx
+0000000000bb27fc g     O .bss	0000000000000004              cost
+0000000000a79070 g     O .data	0000000000000004              hardware_buffer_vertices_max
+0000000000a79250 g     O .data	0000000000000008              int64_max
+0000000000b96730 g     O .bss	0000000000000008              __glewMultiTexCoord1hNV
+0000000000b8f6c0 g     O .bss	0000000000000008              __BYTE_OPTIONEXPLICIT_CMD
+0000000000b975e1 g     O .bss	0000000000000001              __GLEW_ARB_texture_non_power_of_two
+0000000000b96780 g     O .bss	0000000000000008              __glewSecondaryColor3hNV
+0000000000b95c90 g     O .bss	0000000000000008              __glewVertexAttribI2iEXT
+0000000000b8f838 g     O .bss	0000000000000008              __LONG_RESULT
+0000000000b93700 g     O .bss	0000000000000008              __glewVertexAttrib2f
+0000000000a71c20 g     O .data.rel.ro	0000000000000038              ftc_basic_sbit_family_class
+0000000000b931b8 g     O .bss	0000000000000008              __glewCompressedTexSubImage3D
+000000000091dbe2 g     F .text	00000000000001ce              field_put(int, long, int)
+0000000000b8fa50 g     O .bss	0000000000000008              __ARRAY_LONG_CONSTTYPE
+0000000000b93940 g     O .bss	0000000000000008              __glewVertexAttribI1uiv
+0000000000a78ff4 g     O .data	0000000000000004              MACVK_F11
+0000000000b8ed58 g     O .bss	0000000000000008              __STRING_HELP_LINE
+0000000000b90410 g     O .bss	0000000000000008              __STRING_TYP
+00000000009cee20 g     F .text	0000000000000047              glutSpaceballRotateFunc
+0000000000b8f0e0 g     O .bss	0000000000000008              __STRING1_IDEPATHSEP
+0000000000b96e40 g     O .bss	0000000000000008              __glewProgramParameter4fvNV
+0000000000b93e48 g     O .bss	0000000000000008              __glewBlendEquationiARB
+0000000000b976c4 g     O .bss	0000000000000001              __GLEW_NV_tessellation_program5
+0000000000b953c0 g     O .bss	0000000000000008              __glewCompressedMultiTexImage2DEXT
+0000000000b90978 g     O .bss	0000000000000008              __STRING_VER
+0000000000919942 g     F .text	0000000000000084              func__clipboard()
+0000000000b9769e g     O .bss	0000000000000001              __GLEW_NV_depth_range_unclamped
+0000000000b96788 g     O .bss	0000000000000008              __glewSecondaryColor3hvNV
+0000000000b95998 g     O .bss	0000000000000008              __glewTextureParameterIivEXT
+0000000000b90590 g     O .bss	0000000000000008              __LONG_LMUST
+0000000000b94498 g     O .bss	0000000000000008              __glewSamplerParameterfv
+0000000000b94548 g     O .bss	0000000000000008              __glewProgramUniform2fv
+00000000009ce2a6  w    F .text	0000000000000012              PSH_PointRec_* cplusplus_typeof<PSH_PointRec_>(PSH_PointRec_*, void*)
+0000000000b8f528 g     O .bss	0000000000000008              __ARRAY_STRING_SEPARGSLAYOUT
+0000000000942457 g     F .text	0000000000000052              af_loader_done
+0000000000a78f84 g     O .data	0000000000000004              MACVK_ANSI_Keypad9
+0000000000b961a8 g     O .bss	0000000000000008              __glewWriteMaskEXT
+0000000000b8f380 g     O .bss	0000000000000008              __LONG_USEGL
+0000000000b8fed8 g     O .bss	0000000000000008              __LONG_DECLARINGLIBRARY
+000000000097b2f1 g     F .text	0000000000000439              pfr_extra_item_load_kerning_pairs
+000000000097666a g     F .text	0000000000000086              FT_GlyphSlot_Oblique
+00000000008e8fdf g     F .text	000000000000070d              qbg_palette(unsigned int, unsigned int, int)
+0000000000b96c98 g     O .bss	0000000000000008              __glewVDPAUUnregisterSurfaceNV
+0000000000b90068 g     O .bss	0000000000000008              __LONG_ALLOW
+0000000000b96e08 g     O .bss	0000000000000008              __glewGetVertexAttribfvNV
+0000000000b8f270 g     O .bss	0000000000000008              __LONG_IDEMERGEUNDO
+0000000000b95b98 g     O .bss	0000000000000008              __glewFramebufferTexture3DEXT
+00000000008ec235 g     F .text	0000000000002451              qbsub_width(int, int, int, int, int, int)
+000000000090dba3 g     F .text	000000000000000e              func__dest()
+0000000000b93240 g     O .bss	0000000000000008              __glewMultiTexCoord2fv
+0000000000b958c0 g     O .bss	0000000000000008              __glewProgramUniform2uivEXT
+00000000008d8ff6 g     F .text	000000000000059e              imgframe(unsigned char*, int, int, int)
+0000000000b94310 g     O .bss	0000000000000008              __glewBeginQueryARB
+0000000000b94080 g     O .bss	0000000000000008              __glewCopyConvolutionFilter2D
+0000000000b958b0 g     O .bss	0000000000000008              __glewProgramUniform2ivEXT
+0000000000b97750 g     O .bss	0000000000000008              __glewXCreatePixmap
+0000000000b939c8 g     O .bss	0000000000000008              __glewVertexAttribIPointer
+0000000000937e6a g     F .text	000000000000000a              sub__capslock(int)
+0000000000b976c5 g     O .bss	0000000000000001              __GLEW_NV_texgen_emboss
+0000000000b95dc0 g     O .bss	0000000000000008              __glewGetColorTableParameterfvEXT
+000000000090e096 g     F .text	00000000000004e7              sub__setalpha(int, unsigned int, unsigned int, int, int)
+0000000000bb2618 g     O .bss	0000000000000008              mouse_message_queue_handles
+0000000000b95030 g     O .bss	0000000000000008              __glewColorFragmentOp3ATI
+0000000000b94958 g     O .bss	0000000000000008              __glewTexStorage3DMultisample
+0000000000a788ec g     O .data	0000000000000004              environment_2d__screen_x_scale
+0000000000b8f4e8 g     O .bss	0000000000000008              __ARRAY_INTEGER_LEV
+000000000099d789 g     F .text	000000000000000b              tt_face_free_hdmx_stub
+00000000009a8cf8 g     F .text	00000000000000ad              TT_Save_Context
+0000000000811339 g     F .text	0000000000004953              FUNC_IDEMESSAGEBOX(qbs*, qbs*, qbs*)
+00000000009a1cba g     F .text	0000000000000049              TT_Get_HMetrics
+00000000009ce1ce  w    F .text	0000000000000012              PFR_KernItemRec_* cplusplus_typeof<PFR_KernItemRec_>(PFR_KernItemRec_*, void*)
+000000000096455c g     F .text	0000000000000041              FT_Vector_From_Polar
+000000000094ecaa g     F .text	0000000000000209              cff_font_done
+0000000000b961c8 g     O .bss	0000000000000008              __glewImportSyncEXT
+0000000000b93e18 g     O .bss	0000000000000008              __glewDebugMessageCallbackARB
+0000000000a71c60 g     O .data.rel.ro	0000000000000048              ftc_basic_sbit_cache_class
+0000000000b93690 g     O .bss	0000000000000008              __glewUniform4iv
+00000000009ce6e0 g     F .text	00000000000000d0              glutTimerFunc
+0000000000b9757c g     O .bss	0000000000000001              __GLEW_ARB_compute_shader
+0000000000b978d0 g     O .bss	0000000000000008              __glewXQuerySwapGroupNV
+0000000000b8eef0 g     O .bss	0000000000000008              __LONG_KSTATECHANGED
+0000000000000000       F *UND*	0000000000000000              std::basic_fstream<char, std::char_traits<char> >::is_open()@GLIBCXX_3.4
+0000000000b94290 g     O .bss	0000000000000008              __glewMultiTexCoord3dARB
+0000000000969fe9 g     F .text	000000000000065c              FTC_ImageCache_Lookup
+0000000000b93ab0 g     O .bss	0000000000000008              __glewBeginPerfMonitorAMD
+000000000096b444 g     F .text	000000000000061a              FTC_SBitCache_LookupScaler
+0000000000000000       F *UND*	0000000000000000              std::istream::tellg()@GLIBCXX_3.4
+0000000000000000       F *UND*	0000000000000000              XDefineCursor
+0000000000b94328 g     O .bss	0000000000000008              __glewGenQueriesARB
+0000000000b93688 g     O .bss	0000000000000008              __glewUniform4i
+0000000000b96918 g     O .bss	0000000000000008              __glewGetPathDashArrayNV
+0000000000b95610 g     O .bss	0000000000000008              __glewGetVertexArrayIntegeri_vEXT
+0000000000b97ef0 g     O .bss	0000000000000008              device_event_index
+0000000000951143 g     F .text	00000000000000d6              cff_decoder_init
+0000000000b8f0a0 g     O .bss	0000000000000008              __INTEGER_IDEFINDNOCOMMENTS
+00000000009a63e8 g     F .text	0000000000000233              tt_glyphzone_new
+0000000000994b86 g     F .text	000000000000006d              tt_cmap4_init
+0000000000964cd9 g     F .text	00000000000000a1              FT_List_Finalize
+0000000000b8f190 g     O .bss	0000000000000008              __INTEGER_IDECONTEXTUALMENUID
+0000000000b94588 g     O .bss	0000000000000008              __glewProgramUniform3fv
+0000000000b97978 g     O .bss	0000000000000008              __glewXCreateContextWithConfigSGIX
+0000000000b8f480 g     O .bss	0000000000000008              __STRING_VIORIGINALFILENAME
+0000000000b8f6c8 g     O .bss	0000000000000008              __LONG_IDESTARTATLINE
+0000000000b975eb g     O .bss	0000000000000001              __GLEW_ARB_texture_view
+0000000000b975a1 g     O .bss	0000000000000001              __GLEW_ARB_map_buffer_alignment
+0000000000b96b50 g     O .bss	0000000000000008              __glewMakeBufferResidentNV
+00000000010cfc68 g     O .bss	0000000000000004              qbg_bits_per_pixel
+0000000000b95478 g     O .bss	0000000000000008              __glewDisableVertexArrayAttribEXT
+0000000000b8f620 g     O .bss	0000000000000008              __LONG_X
+000000000092c427 g     F .text	00000000000000c3              set_depthbuffer(int)
+0000000000b96450 g     O .bss	0000000000000008              __glewProgramUniformHandleui64NV
+0000000000b8fa40 g     O .bss	0000000000000008              __ARRAY_STRING_CONSTCNAME
+00000000007bb18d g     F .text	0000000000000c28              SUB_IDENOMATCH(signed char*)
+000000000090caf2 g     F .text	00000000000000e9              func__mousebutton(int, int, int)
+0000000000b93280 g     O .bss	0000000000000008              __glewMultiTexCoord3fv
+0000000000a788e0 g     O .data	0000000000000004              allow_logging
+0000000000b8ff88 g     O .bss	0000000000000008              __LONG_WHOLELINEN
+0000000000b93bb8 g     O .bss	0000000000000008              __glewGetTranslatedShaderSourceANGLE
+0000000000b968c8 g     O .bss	0000000000000008              __glewCoverFillPathInstancedNV
+0000000000b93c10 g     O .bss	0000000000000008              __glewSetFenceAPPLE
+0000000000b97543 g     O .bss	0000000000000001              __GLEW_AMD_name_gen_delete
+0000000000b976e5 g     O .bss	0000000000000001              __GLEW_PGI_misc_hints
+0000000000b97230 g     O .bss	0000000000000008              __glewGenAsyncMarkersSGIX
+0000000000b95278 g     O .bss	0000000000000008              __glewGetUniformBufferSizeEXT
+0000000000b94140 g     O .bss	0000000000000008              __glewGetInternalformativ
+0000000000982bc0 g     F .text	0000000000000185              t1_builder_close_contour
+000000000099d827 g     F .text	000000000000000b              tt_face_free_sbit_stub
+0000000000b9771e g     O .bss	0000000000000001              __GLEW_SGI_color_table
+00000000009129c2 g     F .text	0000000000001818              print_using(qbs*, int, qbs*, qbs*)
+0000000000b97668 g     O .bss	0000000000000001              __GLEW_EXT_texture_perturb_normal
+0000000000b95960 g     O .bss	0000000000000008              __glewProgramUniformMatrix4x2fvEXT
+0000000000a78de4 g     O .data	0000000000000004              pages
+0000000000b8f720 g     O .bss	0000000000000008              __ULONG_IDEBACKGROUNDCOLOR2
+0000000000b93970 g     O .bss	0000000000000008              __glewVertexAttribI3iv
+0000000000b8fe78 g     O .bss	0000000000000008              __STRING_CURRENTDIR
+00000000008d7c7e g     F .text	0000000000000007              FreeConsole()
+0000000000a78ed4 g     O .data	0000000000000004              MACVK_ANSI_4
+00000000009defa0 g     F .text	0000000000000001              glutUseLayer
+0000000000b970f8 g     O .bss	0000000000000008              __glewRotatex
+0000000000b97585 g     O .bss	0000000000000001              __GLEW_ARB_draw_buffers
+0000000000b904f0 g     O .bss	0000000000000008              __STRING_O
+00000000009680c8 g     F .text	0000000000000084              ftc_cache_done
+0000000000a78dcc g     O .data	0000000000000004              width8050switch
+00000000010cfc88 g     O .bss	0000000000000004              qbg_view_offset_x
+00000000008d48a5 g     F .text	00000000000000a7              list_new(long)
+000000000041132b g     F .text	000000000000006e              func__device(int, int)
+00000000006ae2d9 g     F .text	000000000000096a              FUNC_LINEINPUT3()
+0000000000b8fa00 g     O .bss	0000000000000008              __LONG_DIMSTATIC
+0000000000b8ef98 g     O .bss	0000000000000008              __LONG_IDEEXIT
+0000000000b93fd0 g     O .bss	0000000000000008              __glewUniformMatrix2dv
+0000000000b97641 g     O .bss	0000000000000001              __GLEW_EXT_packed_pixels
+0000000000b8fa70 g     O .bss	0000000000000008              __ARRAY_STRING_CONSTSTRING
+0000000000b97858 g     O .bss	0000000000000008              __glewXReleaseTexImageEXT
+000000000095bd7d g     F .text	00000000000001d5              FT_Match_Size
+0000000000b94cf0 g     O .bss	0000000000000008              __glewVertexAttrib3fvARB
+0000000000684dea g     F .text	0000000000000146              SUB_XEND()
+0000000000b8fba0 g     O .bss	0000000000000008              __LONG_STRINGTYPE
+0000000000a78958 g     O .data	0000000000000004              NPO2_buffer_size_in_pixels
+00000000009820f6 g     F .text	000000000000026a              ps_parser_load_field_table
+00000000008e6471 g     F .text	0000000000000035              string2ui(qbs*)
+0000000000b96dd8 g     O .bss	0000000000000008              __glewGetProgramParameterfvNV
+00000000009bad16 g     F .text	000000000000001e              T1_GlyphSlot_Done
+0000000000b9759f g     O .bss	0000000000000001              __GLEW_ARB_internalformat_query2
+00000000009d6d30 g     F .text	0000000000000067              glutCreateWindow
+0000000000b93e60 g     O .bss	0000000000000008              __glewDrawElementsBaseVertex
+0000000000b97640 g     O .bss	0000000000000001              __GLEW_EXT_packed_float
+0000000000b9758b g     O .bss	0000000000000001              __GLEW_ARB_explicit_attrib_location
+0000000000b8edb0 g     O .bss	0000000000000008              __LONG_HELP_COL_BOLD
+0000000000993a21 g     F .text	00000000000004e9              tt_face_load_hmtx
+0000000000b95520 g     O .bss	0000000000000008              __glewGetMultiTexGendvEXT
+0000000000b931c8 g     O .bss	0000000000000008              __glewLoadTransposeMatrixd
+0000000000b94910 g     O .bss	0000000000000008              __glewTexImage2DMultisample
+0000000000b8eb90 g     O .bss	0000000000000008              __STRING_VERSION
+000000000096bedb g     F .text	000000000000007d              ft_bitmap_glyph_bbox
+0000000000b95690 g     O .bss	0000000000000008              __glewMatrixOrthoEXT
+0000000000b954e0 g     O .bss	0000000000000008              __glewGetCompressedTextureImageEXT
+0000000000b93ac0 g     O .bss	0000000000000008              __glewEndPerfMonitorAMD
+00000000010cfcac g     O .bss	0000000000000004              qbg_window_y2
+0000000000a7904c g     O .data	0000000000000004              MACVK_JIS_Underscore
+0000000000b90588 g     O .bss	0000000000000008              __LONG_LMAY
+0000000000b9759b g     O .bss	0000000000000001              __GLEW_ARB_imaging
+0000000000b901d8 g     O .bss	0000000000000008              __LONG_ENDIFS
+0000000000b95c20 g     O .bss	0000000000000008              __glewGetVertexAttribIivEXT
+000000000088bb17 g     F .text	0000000000000c6b              FUNC_FINDHELPTOPIC(qbs*, int*, signed char*)
+0000000000910dfd g     F .text	00000000000002fd              fontopen(qbs*, int, int)
+0000000000b8f308 g     O .bss	0000000000000008              __ARRAY_STRING_PP_CONVERTEDMOD
+00000000009cf360 g     F .text	0000000000000078              glutSetCursor
+00000000009d71e0 g     F .text	00000000000000fb              glutSetWindowTitle
+0000000000966d82 g     F .text	000000000000013a              FTC_Manager_LookupSize
+0000000000b943f0 g     O .bss	0000000000000008              __glewGetnPixelMapusvARB
+00000000008d4d0c g     F .text	00000000000001c9              list_remove(list*, long)
+0000000000b949e8 g     O .bss	0000000000000008              __glewDrawTransformFeedbackInstanced
+0000000000b93290 g     O .bss	0000000000000008              __glewMultiTexCoord3iv
+00000000005f234c g     F .text	000000000000108d              FUNC_ISVALIDVARIABLE(qbs*)
+0000000000b95cd0 g     O .bss	0000000000000008              __glewVertexAttribI4bvEXT
+0000000000b975fe g     O .bss	0000000000000001              __GLEW_ATIX_point_sprites
+00000000008e72d7 g     F .text	0000000000000022              qbs__trim(qbs*)
+0000000000000000  w      *UND*	0000000000000000              _ITM_deregisterTMCloneTable
+0000000000b976e7 g     O .bss	0000000000000001              __GLEW_REGAL_ES1_0_compatibility
+0000000000a788a0 g     O .data	0000000000000004              return_points
+0000000000a78fa8 g     O .data	0000000000000004              MACVK_Option
+0000000000b90278 g     O .bss	0000000000000008              __LONG_VICOMMAS
+0000000000b8f948 g     O .bss	0000000000000008              __LONG_ONSTRIGID
+0000000000b97310 g     O .bss	0000000000000008              __glewSpriteParameterivSGIX
+00000000009bb8b3 g     F .text	000000000000000f              T1_Driver_Init
+0000000000994115 g     F .text	000000000000001f              tt_cmap_init
+000000000097f1e2 g     F .text	000000000000008b              pfr_get_advance
+0000000000b937b0 g     O .bss	0000000000000008              __glewVertexAttrib4iv
+0000000000b94d88 g     O .bss	0000000000000008              __glewVertexAttrib4uivARB
+0000000000b97f00 g     O .bss	0000000000000004              key_display_state
+0000000000b966c0 g     O .bss	0000000000000008              __glewUniform3i64NV
+0000000000b95940 g     O .bss	0000000000000008              __glewProgramUniformMatrix3fvEXT
+0000000000b93aa0 g     O .bss	0000000000000008              __glewGenNamesAMD
+0000000000b90740 g     O .bss	0000000000000008              __STRING_NEXTCHAR
+00000000009ce0d2  w    F .text	0000000000000012              FTC_NodeRec_** cplusplus_typeof<FTC_NodeRec_*>(FTC_NodeRec_**, void*)
+0000000000b950a8 g     O .bss	0000000000000008              __glewGetArrayObjectfvATI
+0000000000b95ab0 g     O .bss	0000000000000008              __glewFogCoordfvEXT
+0000000000b90020 g     O .bss	0000000000000008              __LONG_HASHRES
+0000000000b97eb8 g     O .bss	0000000000000008              ft_library
+0000000000b934c8 g     O .bss	0000000000000008              __glewGetQueryObjectiv
+0000000000b96e18 g     O .bss	0000000000000008              __glewIsProgramNV
+00000000009d58e0 g     F .text	000000000000007a              fgCreateStructure
+000000000090c46a g     F .text	00000000000002a8              func__mousey(int, int)
+00000000008f7453 g     F .text	0000000000000117              makefit(qbs*)
+0000000000b935e0 g     O .bss	0000000000000008              __glewIsProgram
+0000000000a78b74 g     O .data	0000000000000004              width_lprint
+0000000000b8fa08 g     O .bss	0000000000000008              __STRING_STATICARRAYLIST
+0000000000b96480 g     O .bss	0000000000000008              __glewBeginConditionalRenderNV
+0000000000b8eb70 g     O .bss	0000000000000008              g_tmp_udt_HASHLISTITEM
+0000000000a7dbdc g     O .bss	0000000000000004              inclercl
+0000000000b909c0 g     O .bss	0000000000000008              __LONG_X1
+0000000000b97625 g     O .bss	0000000000000001              __GLEW_EXT_cull_vertex
+0000000000b9753c g     O .bss	0000000000000001              __GLEW_AMD_blend_minmax_factor
+0000000000b906c0 g     O .bss	0000000000000008              __STRING_OFFS
+0000000000b90390 g     O .bss	0000000000000008              __STRING_INLINELIBNAME
+0000000000b94568 g     O .bss	0000000000000008              __glewProgramUniform2uiv
+00000000009d9660 g     F .text	000000000000016a              glutStrokeCharacter
+0000000000b94688 g     O .bss	0000000000000008              __glewValidateProgramPipeline
+0000000000b97f10 g     O .bss	0000000000000008              exit_code
+0000000000000000       F *UND*	0000000000000000              _Unwind_Resume@GCC_3.0
+0000000000580ee2 g     F .text	000000000000044d              SUB_CLOSEMAIN()
+0000000000b93588 g     O .bss	0000000000000008              __glewGetProgramiv
+0000000000b94928 g     O .bss	0000000000000008              __glewTexStorage2D
+0000000000b97358 g     O .bss	0000000000000008              __glewFinishTextureSUNX
+0000000000b93938 g     O .bss	0000000000000008              __glewVertexAttribI1ui
+0000000000b94988 g     O .bss	0000000000000008              __glewQueryCounter
+00000000009853a9 g     F .text	0000000000000041              t1_cmap_unicode_char_index
+0000000000b8f1d8 g     O .bss	0000000000000008              __INTEGER_VIEWMENUID
+0000000000959b6e g     F .text	000000000000007b              FT_New_Face
+0000000000b90650 g     O .bss	0000000000000008              __LONG_XI
+0000000000b90888 g     O .bss	0000000000000008              __LONG_IDNUM
+00000000009a2074 g     F .text	000000000000009b              TT_Access_Glyph_Frame
+0000000000b93500 g     O .bss	0000000000000008              __glewAttachShader
+0000000000b96988 g     O .bss	0000000000000008              __glewPathCommandsNV
+0000000000880526 g     F .text	000000000000061a              SUB_ADDQUICKNAVHISTORY(int*)
+0000000000b944a8 g     O .bss	0000000000000008              __glewSamplerParameteriv
+0000000000b965e8 g     O .bss	0000000000000008              __glewProgramLocalParametersI4uivNV
+0000000000b9769f g     O .bss	0000000000000001              __GLEW_NV_draw_texture
+0000000000b8f240 g     O .bss	0000000000000008              __INTEGER_LASTVALIDCOLORSCHEME
+00000000009d6f10 g     F .text	0000000000000096              glutSetWindow
+0000000000b97aa2 g     O .bss	0000000000000001              __GLXEW_ATI_render_texture
+0000000000b93c20 g     O .bss	0000000000000008              __glewTestObjectAPPLE
+0000000000000000       F *UND*	0000000000000000              strcat@GLIBC_2.2.5
+0000000000a79030 g     O .data	0000000000000004              MACVK_F1
+000000000086c28f g     F .text	00000000000007db              SUB_IDEADDRECENT(qbs*)
+0000000000b97632 g     O .bss	0000000000000001              __GLEW_EXT_framebuffer_sRGB
+000000000092a6a6 g     F .text	000000000000002f              sub__memfill_nochecks_4(long, long, int)
+0000000000b8f890 g     O .bss	0000000000000008              __LONG_HASHLISTFREESIZE
+00000000009a8606 g     F .text	00000000000006f2              TT_Load_Context
+0000000000b973c0 g     O .bss	0000000000000008              __glewReplacementCodeuiSUN
+0000000000b97420 g     O .bss	0000000000000008              __glewNormal3fVertex3fSUN
+0000000000b96bd0 g     O .bss	0000000000000008              __glewBindBufferBaseNV
+0000000000948ba0 g     F .text	0000000000000092              bdf_get_font_property
+0000000000000000       F *UND*	0000000000000000              setsockopt@GLIBC_2.2.5
+0000000000b97542 g     O .bss	0000000000000001              __GLEW_AMD_multi_draw_indirect
+0000000000413c0f g     F .text	0000000000000018              division_by_zero_handler(int)
+0000000000b978b0 g     O .bss	0000000000000008              __glewXBindSwapBarrierNV
+0000000000b96b88 g     O .bss	0000000000000008              __glewTextureBarrierNV
+000000000093796c g     F .text	0000000000000427              qb64_custom_event
+0000000000b8ec18 g     O .bss	0000000000000008              __ARRAY_INTEGER64_GL_DEFINES_VALUE
+0000000000b95310 g     O .bss	0000000000000008              __glewGetConvolutionFilterEXT
+0000000000b8f8e8 g     O .bss	0000000000000008              __LONG_LABELS_UBOUND
+0000000000000000       F *UND*	0000000000000000              XGetWindowAttributes
+0000000000b90928 g     O .bss	0000000000000008              __LONG_MAXVARNAMELEN
+000000000096bea2 g     F .text	0000000000000039              ft_bitmap_glyph_done
+0000000000b975b7 g     O .bss	0000000000000001              __GLEW_ARB_seamless_cubemap_per_texture
+0000000000b95648 g     O .bss	0000000000000008              __glewMatrixLoadIdentityEXT
+0000000000b96468 g     O .bss	0000000000000008              __glewUniformHandleui64vNV
+0000000000b90418 g     O .bss	0000000000000008              __STRING_TYP2
+0000000000b959a8 g     O .bss	0000000000000008              __glewTextureParameterfEXT
+0000000000b97060 g     O .bss	0000000000000008              __glewFogx
+0000000000b97350 g     O .bss	0000000000000008              __glewGetColorTableSGI
+000000000095e73c g     F .text	000000000000005a              FT_Render_Glyph
+0000000000b95fa0 g     O .bss	0000000000000008              __glewBindBufferOffsetEXT
+00000000009deff0 g     F .text	0000000000000003              glutVideoResizeGet
+0000000000b94da8 g     O .bss	0000000000000008              __glewGetActiveAttribARB
+0000000000b901a8 g     O .bss	0000000000000008              __LONG_FIRSTTRYMETHOD
+0000000000000000       F *UND*	0000000000000000              XFreePixmap
+0000000000948c32 g     F .text	0000000000000050              bdf_cmap_init
+0000000000b95260 g     O .bss	0000000000000008              __glewVertexStream4ivATI
+0000000000a79084 g     O .data	0000000000000004              keyup_mask_last
+0000000000a71cc0 g     O .data.rel.ro	0000000000000040              ft_bitmap_glyph_class
+0000000000b93278 g     O .bss	0000000000000008              __glewMultiTexCoord3f
+0000000000b950c8 g     O .bss	0000000000000008              __glewGetVariantArrayObjectfvATI
+0000000000411963 g     F .text	0000000000000061              func__lastwheel(int, int)
+0000000000000000       F *UND*	0000000000000000              exp@GLIBC_2.29
+0000000000b9767d g     O .bss	0000000000000001              __GLEW_IBM_cull_vertex
+0000000000b8edd0 g     O .bss	0000000000000008              __LONG_HELP_ITALIC
+00000000008e703e g     F .text	0000000000000151              qbs_ltrim(qbs*)
+0000000000b95800 g     O .bss	0000000000000008              __glewNamedProgramLocalParameter4fEXT
+0000000000b90a48 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_WHOLEWORD__ASCII_CHR_046__IDECY
+0000000000b8f3a8 g     O .bss	0000000000000008              __LONG_NOIDEMODE
+0000000000a79014 g     O .data	0000000000000004              MACVK_Home
+0000000000b93db8 g     O .bss	0000000000000008              __glewClearBufferData
+0000000000b93a38 g     O .bss	0000000000000008              __glewTbufferMask3DFX
+0000000000000000       F *UND*	0000000000000000              remove@GLIBC_2.2.5
+0000000000b958b8 g     O .bss	0000000000000008              __glewProgramUniform2uiEXT
+0000000000b940b8 g     O .bss	0000000000000008              __glewGetHistogram
+00000000006e08eb g     F .text	0000000000000ab4              SUB_HASHCLEAR()
+0000000000000000       F *UND*	0000000000000000              std::basic_ios<char, std::char_traits<char> >::bad() const@GLIBCXX_3.4
+00000000006ebc10 g     F .text	0000000000000aae              SUB_INITIALISE_ARRAY_UDT_VARSTRINGS(qbs*, int*, int*, qbs*, qbs*)
+000000000096459d g     F .text	0000000000000075              FT_Angle_Diff
+0000000000b90ae8 g     O .bss	0000000000000004              asserts
+0000000000b94940 g     O .bss	0000000000000008              __glewTextureStorage2DEXT
+000000000095fca0 g     F .text	00000000000001f3              FT_Outline_New_Internal
+0000000000b8fba8 g     O .bss	0000000000000008              __LONG_BITTYPE
+00000000009df0b0 g     F .text	0000000000000005              __libc_csu_fini
+00000000009cddcc  w    F .text	0000000000000012              AF_SegmentRec_* cplusplus_typeof<AF_SegmentRec_>(AF_SegmentRec_*, void*)
+0000000000b90a00 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_IDESYSTEM2__ASCII_CHR_046__V1
+0000000000b90348 g     O .bss	0000000000000008              __LONG_SFHEADER
+00000000009c582c g     F .text	0000000000000028              T42_Get_Interface
+0000000000b93ed8 g     O .bss	0000000000000008              __glewDeleteRenderbuffers
+00000000009199fe g     F .text	0000000000000085              sub__fullscreen(int, int)
+0000000000b8f2c8 g     O .bss	0000000000000008              __STRING_IDECUSTOMFONTFILE
+0000000000b94298 g     O .bss	0000000000000008              __glewMultiTexCoord3dvARB
+0000000000b93f80 g     O .bss	0000000000000008              __glewProgramParameteri
+0000000000b94f48 g     O .bss	0000000000000008              __glewWindowPos2fARB
+0000000000b94aa0 g     O .bss	0000000000000008              __glewVertexAttribL2d
+0000000000a78ff0 g     O .data	0000000000000004              MACVK_F9
+00000000009d2f10 g     F .text	0000000000000005              fgUpdateMenuHighlight
+0000000000b96a18 g     O .bss	0000000000000008              __glewStencilFillPathInstancedNV
+0000000000b93770 g     O .bss	0000000000000008              __glewVertexAttrib4Nubv
+0000000000b97600 g     O .bss	0000000000000001              __GLEW_ATIX_texture_env_route
+0000000000a78ec4 g     O .data	0000000000000004              MACVK_ANSI_T
+0000000000b96208 g     O .bss	0000000000000008              __glewImageTransformParameterivHP
+00000000009ce4d4  w    F .text	0000000000000012              FT_LZWFileRec_* cplusplus_typeof<FT_LZWFileRec_>(FT_LZWFileRec_*, void*)
+0000000000b8f348 g     O .bss	0000000000000008              __ARRAY_BYTE_DEFINEELSE
+0000000000b93b98 g     O .bss	0000000000000008              __glewGetQueryObjectuivANGLE
+0000000000b97a92 g     O .bss	0000000000000001              __GLXEW_VERSION_1_2
+0000000000b93d10 g     O .bss	0000000000000008              __glewGetImageHandleARB
+00000000010dd4a8 g     O .bss	0000000000000004              pu_neg
+0000000000b9756f g     O .bss	0000000000000001              __GLEW_ARB_ES2_compatibility
+0000000000b8f550 g     O .bss	0000000000000008              __ARRAY_STRING_RESOLVESTATICFUNCTION_FILE
+0000000000901087 g     F .text	00000000000009e8              n_inputnumberfromdata(unsigned char*, long*, long)
+0000000000b93d30 g     O .bss	0000000000000008              __glewIsImageHandleResidentARB
+0000000000b93d68 g     O .bss	0000000000000008              __glewProgramUniformHandleui64vARB
+0000000000b8f5e8 g     O .bss	0000000000000008              __LONG_TEMPFOLDERINDEX
+0000000000b95ae0 g     O .bss	0000000000000008              __glewFragmentLightfEXT
+0000000000709d99 g     F .text	0000000000000192              SUB_INISETADDQUOTES(signed char*)
+0000000000b948f8 g     O .bss	0000000000000008              __glewGetCompressedTexImageARB
+0000000000b94648 g     O .bss	0000000000000008              __glewProgramUniformMatrix3x4fv
+000000000095d56c g     F .text	00000000000000a3              FT_Face_GetCharVariantIndex
+00000000009a8ff4 g     F .text	00000000000000c9              TT_New_Context
+0000000000b97acb g     O .bss	0000000000000001              __GLXEW_SGI_cushion
+0000000000a78e04 g     O .data	0000000000000004              qbs_cmem_descriptor_space
+0000000000b8f918 g     O .bss	0000000000000008              __LONG_ALLOWLOCALNAME
+0000000000b8f260 g     O .bss	0000000000000008              __LONG_IDEUNDOCOMBOCHR
+0000000000b975e0 g     O .bss	0000000000000001              __GLEW_ARB_texture_multisample
+0000000000917cd8 g     F .text	00000000000000d9              tcp_connection_open(void*)
+0000000000b97a9a g     O .bss	0000000000000001              __GLXEW_ARB_fbconfig_float
+0000000000a788b4 g     O .data	0000000000000004              ontimer_freelist_size
+0000000000938e67 g     F .text	0000000000000254              af_axis_hints_new_edge
+0000000000b94458 g     O .bss	0000000000000008              __glewGetSamplerParameterIiv
+0000000000b9756b g     O .bss	0000000000000001              __GLEW_APPLE_vertex_array_object
+0000000000b8ef58 g     O .bss	0000000000000008              __LONG_IDECURRENTLINELAYOUTI
+0000000000b94770 g     O .bss	0000000000000008              __glewUniform2ivARB
+000000000090b151 g     F .text	0000000000000185              sub_shell2(qbs*, int)
+0000000000b9761c g     O .bss	0000000000000001              __GLEW_EXT_blend_minmax
+0000000000b9758f g     O .bss	0000000000000001              __GLEW_ARB_fragment_program
+0000000000938245  w    F .text	0000000000000012              std::operator|(std::_Ios_Openmode, std::_Ios_Openmode)
+0000000000000000       F *UND*	0000000000000000              __cxa_guard_acquire@CXXABI_1.3
+0000000000b93aa8 g     O .bss	0000000000000008              __glewIsNameAMD
+0000000000b97158 g     O .bss	0000000000000008              __glewGetLightxv
+0000000000907a46 g     F .text	0000000000000102              sub_wait(int, int, int, int)
+0000000000b97f08 g     O .bss	0000000000000004              key_display_redraw
+0000000000b8ee98 g     O .bss	0000000000000008              __LONG_MB
+0000000000955fec g     F .text	000000000000003a              cff_cmap_encoding_char_index
+0000000000b94e80 g     O .bss	0000000000000008              __glewVertexAttribP1uiv
+0000000000b8fe88 g     O .bss	0000000000000008              __LONG_CLOSEALL
+0000000000b95008 g     O .bss	0000000000000008              __glewAlphaFragmentOp3ATI
+0000000000b939b8 g     O .bss	0000000000000008              __glewVertexAttribI4uiv
+0000000000b976a1 g     O .bss	0000000000000001              __GLEW_NV_explicit_multisample
+0000000000b8f818 g     O .bss	0000000000000008              __STRING_COLORSCHEMESSECTION
+00000000008e78c1 g     F .text	000000000000004f              qbs_str(unsigned char)
+0000000000b975c5 g     O .bss	0000000000000001              __GLEW_ARB_shading_language_100
+0000000000b93750 g     O .bss	0000000000000008              __glewVertexAttrib4Nbv
+00000000008f35ef g     F .text	000000000000002a              getptsize_2bpp(qbs const*, int*, int*)
+0000000000939ed5 g     F .text	0000000000000538              af_glyph_hints_align_strong_points
+0000000000b97719 g     O .bss	0000000000000001              __GLEW_SGIX_texture_scale_bias
+0000000000b939f0 g     O .bss	0000000000000008              __glewFramebufferTexture
+0000000000a78e64 g     O .data	0000000000000001              pu_exp_char
+0000000000b970d8 g     O .bss	0000000000000008              __glewOrthof
+000000000092bf40 g     F .text	000000000000004f              environment_2d__get_window_y2_coord(int)
+0000000000a72aa0 g     O .data.rel.ro	0000000000000030              ft_standard_raster
+0000000000b90168 g     O .bss	0000000000000008              __STRING_N2
+0000000000b973e0 g     O .bss	0000000000000008              __glewColor3fVertex3fSUN
+00000000010cfc78 g     O .bss	0000000000000004              qbg_view_x1
+0000000000b93670 g     O .bss	0000000000000008              __glewUniform3iv
+00000000008f5c6c g     F .text	0000000000000060              sub_preset(float, float, unsigned int, int)
+0000000000b90318 g     O .bss	0000000000000008              __LONG_WORDSINTYPENAME
+0000000000b93e28 g     O .bss	0000000000000008              __glewDebugMessageInsertARB
+0000000000b8ede8 g     O .bss	0000000000000008              __ARRAY_STRING_BACK
+0000000000b94f60 g     O .bss	0000000000000008              __glewWindowPos2ivARB
+00000000008e6228 g     F .text	000000000000003f              s2string(float)
+0000000000b977e8 g     O .bss	0000000000000008              __glewXGetCurrentAssociatedContextAMD
+0000000000b90890 g     O .bss	0000000000000008              __LONG_TARGETTYPSIZE
+0000000000a78f10 g     O .data	0000000000000004              MACVK_ANSI_L
+0000000000b94980 g     O .bss	0000000000000008              __glewGetQueryObjectui64v
+0000000000b95300 g     O .bss	0000000000000008              __glewCopyConvolutionFilter1DEXT
+0000000000b97438 g     O .bss	0000000000000008              __glewReplacementCodeuiColor3fVertex3fvSUN
+0000000000962732 g     F .text	0000000000000034              FT_Stream_Close
+0000000000b97270 g     O .bss	0000000000000008              __glewFragmentLightModeliSGIX
+0000000000b97e40 g     O .bss	0000000000000028              render_state
+0000000000b95938 g     O .bss	0000000000000008              __glewProgramUniformMatrix2x4fvEXT
+0000000000b93eb0 g     O .bss	0000000000000008              __glewBindFramebuffer
+0000000000b93740 g     O .bss	0000000000000008              __glewVertexAttrib3s
+0000000000b8efb0 g     O .bss	0000000000000008              __LONG_IDELI
+0000000000b96418 g     O .bss	0000000000000008              __glewGetTextureSamplerHandleNV
+0000000000b96a08 g     O .bss	0000000000000008              __glewPathTexGenNV
+0000000000b931c0 g     O .bss	0000000000000008              __glewGetCompressedTexImage
+0000000000b90af8 g     O .bss	0000000000000008              data
+0000000000b93b58 g     O .bss	0000000000000008              __glewVertexAttribDivisorANGLE
+0000000000b94908 g     O .bss	0000000000000008              __glewSampleMaski
+0000000000b963c8 g     O .bss	0000000000000008              __glewWindowPos4iMESA
+0000000000b97529 g     O .bss	0000000000000001              __GLEW_VERSION_1_2
+0000000000b957f0 g     O .bss	0000000000000008              __glewNamedProgramLocalParameter4dEXT
+0000000000b96848 g     O .bss	0000000000000008              __glewVertexAttribs2hvNV
+0000000000b908c8 g     O .bss	0000000000000008              __LONG_LAYOUTOK_BACKUP
+0000000000a78e8c g     O .data	0000000000000004              MACVK_ANSI_D
+00000000009bef72 g     F .text	000000000000005e              cid_get_offset
+0000000000b97318 g     O .bss	0000000000000008              __glewTagSampleBufferSGIX
+0000000000b90388 g     O .bss	0000000000000008              __STRING_LIBPATH_INLINE
+0000000000b97728 g     O .bss	0000000000000001              __GLEW_WIN_phong_shading
+0000000000b93d50 g     O .bss	0000000000000008              __glewMakeTextureHandleNonResidentARB
+0000000000b97702 g     O .bss	0000000000000001              __GLEW_SGIX_convolution_accuracy
+0000000000b8fef0 g     O .bss	0000000000000008              __LONG_DEFININGTYPE
+00000000008ffed4 g     F .text	000000000000006c              n_roundincrement()
+0000000000000000       F *UND*	0000000000000000              strdup@GLIBC_2.2.5
+0000000000b975b0 g     O .bss	0000000000000001              __GLEW_ARB_robust_buffer_access_behavior
+00000000006e374f g     F .text	0000000000000439              FUNC_READCONFIGSETTING(qbs*, qbs*, qbs*)
+00000000010dd8d4 g     O .bss	0000000000000004              draw_num_invalid
+0000000000b8f8c8 g     O .bss	0000000000000008              __ARRAY_STRING256_HASHLISTNAME
+0000000000000000       F *UND*	0000000000000000              glXSwapBuffers
+000000000099426f g     F .text	0000000000000077              tt_cmap0_char_next
+0000000000b8fee0 g     O .bss	0000000000000008              __LONG_DYNSCOPE
+00000000009151fe g     F .text	0000000000000026              func_screenheight()
+0000000000b93bf8 g     O .bss	0000000000000008              __glewFinishObjectAPPLE
+000000000092a778 g     F .text	0000000000000031              sub__memfill_nochecks_SINGLE(long, long, float)
+000000000090763f g     F .text	000000000000006c              func_lbound(long*, int, int)
+00000000009037d7 g     F .text	0000000000000673              sub_get2(int, long, qbs*, int)
+0000000000677141 g     F .text	00000000000025cc              FUNC_TYP2CTYP(int*, qbs*)
+0000000000957d7c g     F .text	00000000000000eb              FT_GlyphLoader_Add
+000000000092ea08 g     F .text	000000000000176c              GLUT_DISPLAY_REQUEST()
+0000000000b94450 g     O .bss	0000000000000008              __glewGenSamplers
+0000000000b93198 g     O .bss	0000000000000008              __glewCompressedTexImage2D
+0000000000b96a50 g     O .bss	0000000000000008              __glewPixelDataRangeNV
+0000000000b97580 g     O .bss	0000000000000001              __GLEW_ARB_copy_image
+0000000000b94f38 g     O .bss	0000000000000008              __glewWindowPos2dARB
+0000000000b94698 g     O .bss	0000000000000008              __glewBindImageTexture
+0000000000b953d8 g     O .bss	0000000000000008              __glewCompressedMultiTexSubImage2DEXT
+000000000091501c g     F .text	00000000000001bc              sub__icon(int, int, int)
+0000000000969cf0 g     F .text	000000000000009d              ftc_basic_family_get_count
+0000000000b946c0 g     O .bss	0000000000000008              __glewCreateShaderObjectARB
+0000000000b95078 g     O .bss	0000000000000008              __glewPNTrianglesfATI
+000000000093d8cf g     F .text	0000000000000ed2              af_latin_hint_edges
+0000000000b95d90 g     O .bss	0000000000000008              __glewMultiDrawArraysEXT
+00000000009cde14  w    F .text	0000000000000012              _hashnode_** cplusplus_typeof<_hashnode_*>(_hashnode_**, void*)
+000000000094ce40 g     F .text	000000000000003b              cff_index_get_string
+0000000000b97868 g     O .bss	0000000000000008              __glewXCopySubBufferMESA
+00000000008e62f4 g     F .text	0000000000000070              bit2string(unsigned int, long)
+000000000090d317 g     F .text	0000000000000392              func__copyimage(int, int, int)
+0000000000b936e8 g     O .bss	0000000000000008              __glewVertexAttrib1sv
+0000000000b97470 g     O .bss	0000000000000008              __glewReplacementCodeuiTexCoord2fColor4fNormal3fVertex3fSUN
+0000000000b8f1b0 g     O .bss	0000000000000008              __INTEGER_OPTIONSMENUSWAPMOUSE
+00000000009110fa g     F .text	0000000000000392              sub__font(int, int, int)
+0000000000b90250 g     O .bss	0000000000000008              __STRING_TEMPOP
+0000000000b948e8 g     O .bss	0000000000000008              __glewCompressedTexSubImage2DARB
+000000000090b42a g     F .text	000000000000014e              sub_shell4(qbs*, int)
+0000000000b94f10 g     O .bss	0000000000000008              __glewScissorIndexed
+0000000000971941 g     F .text	0000000000000042              ft_ansi_stream_close
+00000000009571df g     F .text	0000000000000075              FT_SqrtFixed
+0000000000a79288 g     O .data	0000000000000008              range_int64_neg_max
+0000000000b8ed20 g     O .bss	0000000000000008              __LONG_HELP_WY2
+00000000009cebb0 g     F .text	0000000000000047              glutCloseFunc
+0000000000b900c8 g     O .bss	0000000000000008              __INTEGER64_CONSTVAL
+0000000000b93c28 g     O .bss	0000000000000008              __glewBufferParameteriAPPLE
+0000000000b8f868 g     O .bss	0000000000000008              __LONG_HASHFIND_SEARCHFLAGS
+0000000000b8eda8 g     O .bss	0000000000000008              __LONG_HELP_COL_LINK
+00000000006aec43 g     F .text	00000000000004e9              FUNC_GETFILEPATH(qbs*)
+0000000000964b7d g     F .text	0000000000000066              FT_List_Remove
+0000000000b96a70 g     O .bss	0000000000000008              __glewGetVideoivNV
+0000000000b97760 g     O .bss	0000000000000008              __glewXDestroyPbuffer
+00000000009a229e g     F .text	0000000000000767              TT_Load_Simple_Glyph
+00000000008057f4 g     F .text	00000000000067b7              FUNC_IDELAYOUTBOX()
+0000000000b95720 g     O .bss	0000000000000008              __glewMultiTexGenfvEXT
+0000000000b976c8 g     O .bss	0000000000000001              __GLEW_NV_texture_compression_vtc
+0000000000b971d0 g     O .bss	0000000000000008              __glewGetFogFuncSGIS
+00000000009127c2 g     F .text	0000000000000200              sub_end()
+0000000000960c1f g     F .text	0000000000000616              FT_Outline_Get_Orientation
+0000000000bb2814 g     O .bss	0000000000000001              lock_subsystem
+0000000000b8fbc8 g     O .bss	0000000000000008              __LONG_INTEGERTYPE
+00000000009d37e0 g     F .text	000000000000009a              glutRemoveMenuItem
+0000000000bb27f8 g     O .bss	0000000000000004              lock_display_required
+00000000009c2cdc g     F .text	00000000000002d9              T42_Face_Done
+0000000000b97888 g     O .bss	0000000000000008              __glewXGetSwapIntervalMESA
+0000000000b948a0 g     O .bss	0000000000000008              __glewPatchParameterfv
+0000000000b93e80 g     O .bss	0000000000000008              __glewDrawArraysIndirect
+0000000000917f18 g     F .text	0000000000000185              stream_update(stream_struct*)
+0000000000b95580 g     O .bss	0000000000000008              __glewGetNamedBufferSubDataEXT
+0000000000b976cf g     O .bss	0000000000000001              __GLEW_NV_texture_shader3
+00000000009bef19 g     F .text	0000000000000059              cid_parser_done
+0000000000917ade g     F .text	00000000000001fa              tcp_client_open(unsigned char*, long)
+00000000009a03b3 g     F .text	000000000000007b              tt_face_free_bdf_props
+000000000090c712 g     F .text	00000000000000b9              func__mousepipeopen()
+0000000000b96600 g     O .bss	0000000000000008              __glewProgramUniform1i64NV
+0000000000b8fb10 g     O .bss	0000000000000008              __LONG_IDN
+0000000000a79260 g     O .data	0000000000000008              single_max
+0000000000b973c8 g     O .bss	0000000000000008              __glewReplacementCodeuivSUN
+0000000000b93f08 g     O .bss	0000000000000008              __glewGenFramebuffers
+000000000091d123 g     F .text	00000000000000ff              field_new(int)
+0000000000b97210 g     O .bss	0000000000000008              __glewTexFilterFuncSGIS
+0000000000b942a0 g     O .bss	0000000000000008              __glewMultiTexCoord3fARB
+0000000000b94650 g     O .bss	0000000000000008              __glewProgramUniformMatrix4dv
+0000000000b96df8 g     O .bss	0000000000000008              __glewGetVertexAttribPointervNV
+0000000000891481 g     F .text	00000000000012b0              SUB_HELP_ADDTXT(qbs*, int*, int*)
+0000000000ba7f78 g     O .bss	0000000000000008              keyheld_bind_buffer
+00000000009d2a20 g     F .text	00000000000004ef              fgDisplayMenu
+0000000000b975fd g     O .bss	0000000000000001              __GLEW_ARB_window_pos
+00000000009122c4 g     F .text	00000000000001ae              func__red(unsigned int, int, int)
+0000000000b96290 g     O .bss	0000000000000008              __glewVertexPointervINTEL
+0000000000b976ee g     O .bss	0000000000000001              __GLEW_S3_s3tc
+0000000000b97800 g     O .bss	0000000000000008              __glewXMakeAssociatedContextCurrentAMD
+0000000000b97566 g     O .bss	0000000000000001              __GLEW_APPLE_rgb_422
+0000000000a78ee0 g     O .data	0000000000000004              MACVK_ANSI_Equal
+0000000000991ef2 g     F .text	000000000000000f              Render_Gray_Glyph
+0000000000b8f3e8 g     O .bss	0000000000000008              __LONG_TOTALWARNINGS
+00000000009ce560 g     F .text	000000000000005a              glutDisplayFunc
+0000000000b97652 g     O .bss	0000000000000001              __GLEW_EXT_stencil_two_side
+0000000000b96568 g     O .bss	0000000000000008              __glewProgramNamedParameter4dvNV
+0000000000b97ac2 g     O .bss	0000000000000001              __GLXEW_SGIS_multisample
+0000000000b93200 g     O .bss	0000000000000008              __glewMultiTexCoord1fv
+0000000000b975da g     O .bss	0000000000000001              __GLEW_ARB_texture_env_crossbar
+0000000000b941a8 g     O .bss	0000000000000008              __glewMatrixIndexuivARB
+0000000000b975e6 g     O .bss	0000000000000001              __GLEW_ARB_texture_rgb10_a2ui
+00000000008a418d  w    F .text	000000000000003a              func_sgn(long double)
+0000000000b8f050 g     O .bss	0000000000000008              __STRING_IDEROOT
+000000000090e57d g     F .text	000000000000010d              func__width(int, int)
+000000000090bab1 g     F .text	00000000000002f8              sub__mouseshow(qbs*, int)
+0000000000b96bf0 g     O .bss	0000000000000008              __glewGetActiveVaryingNV
+0000000000b96070 g     O .bss	0000000000000008              __glewBindMaterialParameterEXT
+0000000000b97ab9 g     O .bss	0000000000000001              __GLXEW_NV_present_video
+000000000096834b g     F .text	00000000000001ab              FTC_Cache_RemoveFaceID
+0000000000b96650 g     O .bss	0000000000000008              __glewProgramUniform3ui64NV
+00000000009d3710 g     F .text	00000000000000c2              glutChangeToSubMenu
+0000000000b944d8 g     O .bss	0000000000000008              __glewGetProgramPipelineInfoLog
+0000000000b97258 g     O .bss	0000000000000008              __glewFragmentColorMaterialSGIX
+0000000000b90010 g     O .bss	0000000000000008              __STRING_HASHNAME
+0000000000b97228 g     O .bss	0000000000000008              __glewFinishAsyncSGIX
+0000000000b973b0 g     O .bss	0000000000000008              __glewReplacementCodeubSUN
+0000000000969bab g     F .text	00000000000000ca              ftc_basic_family_compare
+0000000000b908e8 g     O .bss	0000000000000008              __LONG_R2
+00000000009a210f g     F .text	0000000000000027              TT_Forget_Glyph_Frame
+0000000000b95360 g     O .bss	0000000000000008              __glewCopyTexSubImage2DEXT
+0000000000b97488 g     O .bss	0000000000000008              __glewReplacementCodeuiTexCoord2fNormal3fVertex3fvSUN
+0000000000b95db8 g     O .bss	0000000000000008              __glewGetColorTableEXT
+00000000009cee70 g     F .text	0000000000000047              glutSpaceballButtonFunc
+00000000008d494c g     F .text	0000000000000042              list_new_threadsafe(long)
+0000000000b8f4f8 g     O .bss	0000000000000008              __ARRAY_INTEGER_DITCHLEV
+0000000000000000       F *UND*	0000000000000000              glPopMatrix
+0000000000b97e68 g     O .bss	0000000000000004              dest_render_state0
+0000000000b93748 g     O .bss	0000000000000008              __glewVertexAttrib3sv
+0000000000b93218 g     O .bss	0000000000000008              __glewMultiTexCoord1s
+0000000000b8f0b0 g     O .bss	0000000000000008              __INTEGER_IDEFINDONLYCOMMENTS
+0000000000ba8928 g     O .bss	0000000000000008              img
+0000000000b96558 g     O .bss	0000000000000008              __glewGetProgramNamedParameterfvNV
+0000000000b976d8 g     O .bss	0000000000000001              __GLEW_NV_vertex_program1_1
+0000000000b93448 g     O .bss	0000000000000008              __glewWindowPos3i
+0000000000b97990 g     O .bss	0000000000000008              __glewXGetFBConfigFromVisualSGIX
+0000000000a79400 g     O .data	00000000000000e8              fgState
+00000000009ce324  w    F .text	0000000000000012              TT_GaspRangeRec_* cplusplus_typeof<TT_GaspRangeRec_>(TT_GaspRangeRec_*, void*)
+0000000000b8ecb8 g     O .bss	0000000000000008              __LONG_HELP_CX
+0000000000b90760 g     O .bss	0000000000000008              __STRING_TEXTVALUE
+0000000000b8f210 g     O .bss	0000000000000008              __INTEGER_BRACKETHIGHLIGHT
+000000000079c4a6 g     F .text	0000000000000c5f              SUB_FINDQUOTECOMMENT(qbs*, int*, signed char*, signed char*)
+0000000000b97d6c g     O .bss	0000000000000004              fullscreen_allowedsmooth
+0000000000b8eda0 g     O .bss	0000000000000008              __LONG_HELP_COL_NORMAL
+0000000000b95508 g     O .bss	0000000000000008              __glewGetFramebufferParameterivEXT
+000000000095b968 g     F .text	00000000000000f6              FT_Done_Face
+0000000000b96100 g     O .bss	0000000000000008              __glewGetVariantBooleanvEXT
+000000000090934a g     F .text	000000000000013a              sub_seek(int, long)
+0000000000b908f0 g     O .bss	0000000000000008              __LONG_NCOMMONTMP
+0000000000b90748 g     O .bss	0000000000000008              __LONG_BEGINPOINT
+0000000000b94468 g     O .bss	0000000000000008              __glewGetSamplerParameterfv
+00000000009d1800 g     F .text	00000000000009af              glutMainLoopEvent
+0000000000b95b48 g     O .bss	0000000000000008              __glewBlitFramebufferEXT
+0000000000000000       F *UND*	0000000000000000              cos@GLIBC_2.2.5
+0000000000b8f0f8 g     O .bss	0000000000000008              __ARRAY_LONG_QUICKNAVHISTORY
+0000000000b95fe8 g     O .bss	0000000000000008              __glewIndexPointerEXT
+0000000000964a7c g     F .text	0000000000000047              FT_List_Find
+0000000000906621 g     F .text	0000000000000013              sub_date(qbs*)
+0000000000b8eff0 g     O .bss	0000000000000008              __STRING_IDECOMPILEDLINE
+000000000090af7d g     F .text	00000000000001d4              sub_shell(qbs*, int)
+0000000000b97740 g     O .bss	0000000000000008              __glewXCreateNewContext
+0000000000000000       F *UND*	0000000000000000              __libc_start_main@GLIBC_2.2.5
+0000000000b96398 g     O .bss	0000000000000008              __glewWindowPos3sMESA
+0000000000b8fc08 g     O .bss	0000000000000008              __LONG_FLOATTYPE
+0000000000b962d8 g     O .bss	0000000000000008              __glewObjectLabel
+00000000008e5d8e g     F .text	000000000000011a              qbs_right(qbs*, int)
+0000000000937813 g     F .text	000000000000009d              scancodeup(unsigned char)
+0000000000b90298 g     O .bss	0000000000000008              __LONG_LINEDATAOFFSET
+0000000000b977b8 g     O .bss	0000000000000008              __glewXSelectEvent
+0000000000b96370 g     O .bss	0000000000000008              __glewWindowPos3dvMESA
+0000000000b93d78 g     O .bss	0000000000000008              __glewUniformHandleui64vARB
+0000000000b97908 g     O .bss	0000000000000008              __glewXQueryVideoCaptureDeviceNV
+00000000009cd75d g     F .text	00000000000000aa              ft_lzwstate_done
+000000000095847b g     F .text	000000000000002e              ft_glyphslot_set_bitmap
+0000000000b95b60 g     O .bss	0000000000000008              __glewBindRenderbufferEXT
+0000000000b90558 g     O .bss	0000000000000008              __STRING_OLDSUBFUNC
+00000000008f36a7 g     F .text	0000000000000094              getptcol_4bpp(qbs const*, int, int)
+0000000000b949c8 g     O .bss	0000000000000008              __glewBeginQueryIndexed
+0000000000b94ec0 g     O .bss	0000000000000008              __glewVertexP2uiv
+0000000000b935c8 g     O .bss	0000000000000008              __glewGetVertexAttribdv
+0000000000b936c0 g     O .bss	0000000000000008              __glewVertexAttrib1d
+0000000000b94c18 g     O .bss	0000000000000008              __glewGetVertexAttribfvARB
+0000000000000000       F *UND*	0000000000000000              glOrtho
+00000000009b5f4c g     F .text	0000000000000102              T1_Get_Multi_Master
+0000000000b94b80 g     O .bss	0000000000000008              __glewGetBufferParameterivARB
+0000000000a78fa0 g     O .data	0000000000000004              MACVK_Shift
+0000000000b8edc0 g     O .bss	0000000000000008              __LONG_HELP_COL_SECTION
+0000000000b96fd0 g     O .bss	0000000000000008              __glewGetVideoCaptureStreamfvNV
+0000000000964d7a g     F .text	0000000000000027              ft_highpow2
+0000000000b96570 g     O .bss	0000000000000008              __glewProgramNamedParameter4fNV
+0000000000b94890 g     O .bss	0000000000000008              __glewIsSync
+0000000000b97048 g     O .bss	0000000000000008              __glewClearDepthx
+0000000000b90aa0 g     O .bss	0000000000000008              _FUNC_IDE2_STRING_MATHEVALEXPR
+0000000000b90aa8 g     O .bss	0000000000000008              _FUNC_IDEFILEDIALOG_LONG_ALLFILES
+0000000000b95e20 g     O .bss	0000000000000008              __glewBeginSceneEXT
+0000000000b8ff40 g     O .bss	0000000000000008              __STRING_WHOLESTV
+0000000000b8f8d0 g     O .bss	0000000000000008              __ARRAY_LONG_HASHLISTFREE
+0000000000b97539 g     O .bss	0000000000000001              __GLEW_3DFX_multisample
+0000000000411399 g     F .text	00000000000001d8              func__deviceinput(int, int)
+00000000004063c7 g     F .text	000000000000a813              sub_clear(int, int, int, int)
+00000000008feb62 g     F .text	00000000000001ba              sub__limit(double)
+000000000096fdb7 g     F .text	0000000000000b4a              FT_Stroker_CubicTo
+000000000091a150 g     F .text	000000000000060f              chain_savescreenstate(int)
+000000000094e483 g     F .text	0000000000000827              cff_font_load
+0000000000b934e0 g     O .bss	0000000000000008              __glewIsBuffer
+0000000000b8f928 g     O .bss	0000000000000008              __LONG_PREPASS
+0000000000b97010 g     O .bss	0000000000000008              __glewClipPlanefOES
+00000000010dd0a0 g     O .bss	0000000000000400              pu_dig
+0000000000968e6c g     F .text	0000000000000032              FTC_GNode_Compare
+000000000091052a g     F .text	000000000000023d              func__printwidth(qbs*, int, int)
+0000000000b8fe60 g     O .bss	0000000000000008              __STRING_F
+0000000000b8fbb0 g     O .bss	0000000000000008              __LONG_UBITTYPE
+000000000092a73e g     F .text	000000000000003a              sub__memfill_SINGLE(mem_block*, long, long, float)
+0000000000a78f2c g     O .data	0000000000000004              MACVK_ANSI_Slash
+0000000001030060 g     O .bss	000000000008fb00              cmem_dynamic_free_list
+00000000009d1010 g     F .text	0000000000000047              glutJoystickGetDeadBand
+0000000000b93d18 g     O .bss	0000000000000008              __glewGetTextureHandleARB
+00000000008e846d g     F .text	0000000000000099              qbs_lessorequal(qbs*, qbs*)
+0000000000b94d20 g     O .bss	0000000000000008              __glewVertexAttrib4NubARB
+0000000000b95288 g     O .bss	0000000000000008              __glewUniformBufferEXT
+0000000000b8f098 g     O .bss	0000000000000008              __INTEGER_IDEFINDBACKWARDS
+00000000007b4d86 g     F .text	00000000000008b2              SUB_IDEINSLINE(int*, qbs*)
+0000000000b946d0 g     O .bss	0000000000000008              __glewDetachObjectARB
+0000000000b976fb g     O .bss	0000000000000001              __GLEW_SGIS_texture_lod
+0000000000709f2b g     F .text	0000000000000192              SUB_INISETFORCERELOAD(signed char*)
+0000000000b95cf8 g     O .bss	0000000000000008              __glewVertexAttribI4uiEXT
+0000000000b8f0c8 g     O .bss	0000000000000008              __STRING_IDECHANGETO
+0000000000b94b98 g     O .bss	0000000000000008              __glewIsBufferARB
+0000000000b95f80 g     O .bss	0000000000000008              __glewGetQueryObjecti64vEXT
+0000000000b90a68 g     O .bss	0000000000000008              _FUNC_IDE2_BYTE_FINDFIELDHOVER
+0000000000bb27a8 g     O .bss	0000000000000008              seg_es_ptr
+00000000009662c0 g     F .text	0000000000000109              FT_GlyphSlot_Own_Bitmap
+0000000000969fbd g     F .text	000000000000002c              FTC_ImageCache_New
+0000000000b8eaf0 g     O .bss	0000000000000008              g_tmp_uint64
+0000000000b908a0 g     O .bss	0000000000000008              __LONG_PASSUDTELEMENT
+000000000095f2bf g     F .text	00000000000000da              ft_stub_set_char_sizes
+00000000009d6cd0 g     F .text	000000000000005f              fgCloseWindow
+0000000000b974c0 g     O .bss	0000000000000008              __glewTexCoord2fColor4fNormal3fVertex3fSUN
+0000000000b93550 g     O .bss	0000000000000008              __glewDrawBuffers
+0000000000b94d68 g     O .bss	0000000000000008              __glewVertexAttrib4ivARB
+0000000000b8f338 g     O .bss	0000000000000008              __ARRAY_STRING_USERDEFINE
+00000000009569c8 g     F .text	000000000000012d              FT_MulDiv_No_Round
+0000000000b97688 g     O .bss	0000000000000001              __GLEW_KHR_debug
+00000000009cde80  w    F .text	0000000000000012              unsigned char* cplusplus_typeof<unsigned char>(unsigned char*, void*)
+00000000010dd8d0 g     O .bss	0000000000000004              sub_draw_len
+000000000094bc04 g     F .text	0000000000000459              cff_parser_run
+0000000000b97928 g     O .bss	0000000000000008              __glewXGetVideoInfoNV
+00000000009d4190 g     F .text	0000000000000148              glutSetOption
+00000000009bdd75 g     F .text	0000000000000083              compare_kern_pairs
+0000000000a78f70 g     O .data	0000000000000004              MACVK_ANSI_Keypad4
+0000000000000000  w      *UND*	0000000000000000              __gmon_start__
+0000000000b97ed0 g     O .bss	0000000000000008              mem_lock_base
+00000000008d4320 g     F .text	0000000000000018              rotateLeft(unsigned int, unsigned int)
+0000000000b906b0 g     O .bss	0000000000000008              __LONG_NE
+000000000090a06f g     F .text	0000000000000046              func_sqr(double)
+0000000000b8f150 g     O .bss	0000000000000008              __STRING_LINENUMBERSTATUS
+0000000000bb2800 g     O .bss	0000000000000004              qb64_firsttimervalue
+0000000000ba8994 g     O .bss	0000000000000004              anymode
+00000000010cfb60 g     O .bss	0000000000000008              singlespace
+00000000008d9594 g     F .text	0000000000000220              imgnew(int, int, int)
+00000000009041ec g     F .text	00000000000002d7              sub_put2(int, long, void*, int)
+0000000000b94e18 g     O .bss	0000000000000008              __glewNormalP3ui
+0000000000b9765d g     O .bss	0000000000000001              __GLEW_EXT_texture_cube_map
+0000000000b975c6 g     O .bss	0000000000000001              __GLEW_ARB_shading_language_420pack
+0000000000b8f4b0 g     O .bss	0000000000000008              __LONG_CONSOLE
+00000000009cea70 g     F .text	0000000000000047              glutMouseWheelFunc
+0000000000b90368 g     O .bss	0000000000000008              __STRING_AUTOFORMAT_X
+00000000009c5048 g     F .text	0000000000000392              t42_parse_dict
+0000000000b94f40 g     O .bss	0000000000000008              __glewWindowPos2dvARB
+00000000008a411c  w    F .text	0000000000000018              func_abs(long)
+0000000000b97693 g     O .bss	0000000000000001              __GLEW_NV_bindless_texture
+0000000000b94c30 g     O .bss	0000000000000008              __glewProgramEnvParameter4dARB
+0000000000b96838 g     O .bss	0000000000000008              __glewVertexAttrib4hvNV
+0000000000b950e8 g     O .bss	0000000000000008              __glewUpdateObjectBufferATI
+00000000009a81c5 g     F .text	0000000000000078              TT_Goto_CodeRange
+0000000000b969a8 g     O .bss	0000000000000008              __glewPathFogGenNV
+00000000009813ce g     F .text	00000000000002a8              ps_parser_to_token
+0000000000000000       F *UND*	0000000000000000              glXGetCurrentContext
+00000000009cdea4  w    F .text	0000000000000012              void* cplusplus_typeof<void>(void*, void*)
+0000000000b8eacc g     O .bss	0000000000000004              g_tmp_long
+0000000000911d38 g     F .text	00000000000001a8              func__rgb(int, int, int, int, int)
+000000000092cc77 g     F .text	00000000000000c5              set_render_source(int)
+00000000008e650e g     F .text	0000000000000035              string2i64(qbs*)
+0000000000a72f60 g     O .data.rel.ro	0000000000000068              tt_cmap13_class_rec
+0000000000b976e6 g     O .bss	0000000000000001              __GLEW_PGI_vertex_hints
+0000000000b8f968 g     O .bss	0000000000000008              __STRING_DIM2TYPEPASSBACK
+0000000000b94eb0 g     O .bss	0000000000000008              __glewVertexAttribP4uiv
+0000000000b93a28 g     O .bss	0000000000000008              __glewBlendFunci
+0000000000961ab5 g     F .text	0000000000000036              ft_raccess_rule_by_darwin_vfs
+0000000000b95900 g     O .bss	0000000000000008              __glewProgramUniform4fvEXT
+0000000000b97490 g     O .bss	0000000000000008              __glewReplacementCodeuiTexCoord2fVertex3fSUN
+000000000095ec81 g     F .text	00000000000000f7              ft_module_get_service
+0000000000b8edc8 g     O .bss	0000000000000008              __LONG_HELP_BOLD
+00000000009072ab g     F .text	00000000000000a9              func_oct_float(long double)
+0000000000411b28 g     F .text	0000000000000249              sub_strig(int, int, int, int)
+0000000000b903b0 g     O .bss	0000000000000008              __STRING_EE
+0000000000b97671 g     O .bss	0000000000000001              __GLEW_EXT_vertex_array
+000000000091f5ac g     F .text	0000000000009f24              sub__maptriangle(int, float, float, float, float, float, float, int, float, float, float, float, float, float, float, float, float, int, int, int)
+000000000095d93b g     F .text	000000000000018c              FT_Get_Glyph_Name
+0000000000000000       F *UND*	0000000000000000              XGetSelectionOwner
+0000000000b94c68 g     O .bss	0000000000000008              __glewProgramLocalParameter4fvARB
+0000000000b96a10 g     O .bss	0000000000000008              __glewPointAlongPathNV
+0000000000b90a98 g     O .bss	0000000000000008              _FUNC_IDE2_LONG_HELP_SCROLLBAR_METHOD
+0000000000b97530 g     O .bss	0000000000000001              __GLEW_VERSION_3_0
+0000000000b93ea8 g     O .bss	0000000000000008              __glewNamedFramebufferParameteriEXT
+0000000000b973d0 g     O .bss	0000000000000008              __glewReplacementCodeusSUN
+0000000000b97020 g     O .bss	0000000000000008              __glewFrustumfOES
+00000000009cdf34  w    F .text	0000000000000012              CFF_SubFontRec_* cplusplus_typeof<CFF_SubFontRec_>(CFF_SubFontRec_*, void*)
+0000000000b8de58 g     O .bss	0000000000000008              mem_static
+0000000000b93cf8 g     O .bss	0000000000000008              __glewDrawArraysInstancedBaseInstance
+0000000000b94878 g     O .bss	0000000000000008              __glewFenceSync
+00000000010dc1a0 g     O .bss	0000000000000400              significant_digits
+0000000000000000       F *UND*	0000000000000000              qsort@GLIBC_2.2.5
+0000000000000000       F *UND*	0000000000000000              XCloseDisplay
+0000000000959dbb g     F .text	0000000000000166              open_face_from_buffer
+0000000000b905a0 g     O .bss	0000000000000008              __LONG_PART
+0000000000b90470 g     O .bss	0000000000000008              __LONG_CTYP
+0000000000000000       F *UND*	0000000000000000              XSync
+0000000000000000  w      *UND*	0000000000000000              _ITM_registerTMCloneTable
+00000000008495d0 g     F .text	0000000000001c40              SUB_GETINPUT()
+0000000000b976d5 g     O .bss	0000000000000001              __GLEW_NV_vertex_attrib_integer_64bit
+00000000009dad90 g     F .text	0000000000000282              glutWireSphere
+000000000097e082 g     F .text	00000000000006d5              pfr_face_init
+0000000000b8f068 g     O .bss	0000000000000008              __LONG_IDEHL
+00000000009141da g     F .text	00000000000000d4              print_using_integer64(qbs*, long, int, qbs*)
+0000000000b8ed00 g     O .bss	0000000000000008              __LONG_HELP_MSELECT
+0000000000ba8940 g     O .bss	0000000000000008              cblend
+0000000000a78e10 g     O .data	0000000000000004              array_ok
+0000000000ba7f80 g     O .bss	0000000000000004              keyheld_n
+0000000000b97631 g     O .bss	0000000000000001              __GLEW_EXT_framebuffer_object
+0000000000b93188 g     O .bss	0000000000000008              __glewClientActiveTexture
+0000000000b946a8 g     O .bss	0000000000000008              __glewAttachObjectARB
+0000000000b94e70 g     O .bss	0000000000000008              __glewTexCoordP4uiv
+00000000009389d6 g     F .text	0000000000000110              af_face_globals_free
+0000000000b976bc g     O .bss	0000000000000001              __GLEW_NV_present_video
+000000000092c579 g     F .text	00000000000006fe              set_view(int)
+0000000000b97f20 g     O .bss	0000000000000004              keydown_glyph
+0000000000b951a8 g     O .bss	0000000000000008              __glewVertexStream1sATI
+0000000000b94a58 g     O .bss	0000000000000008              __glewGetUniformIndices
+00000000008e3b72 g     F .text	0000000000000041              mem_static_restore(unsigned char*)
+000000000092a2f0 g     F .text	0000000000000056              func__memexists(void*)
+0000000000b934f8 g     O .bss	0000000000000008              __glewUnmapBuffer
+0000000000b96510 g     O .bss	0000000000000008              __glewTexRenderbufferNV
+000000000091ad22 g     F .text	0000000000000224              gfs_lof(int)
+00000000009583da g     F .text	00000000000000a1              ft_glyphslot_free_bitmap
+0000000000b9768e g     O .bss	0000000000000001              __GLEW_MESA_window_pos
+0000000000b945e8 g     O .bss	0000000000000008              __glewProgramUniform4uiv
+0000000000b94c78 g     O .bss	0000000000000008              __glewVertexAttrib1dARB
+00000000008e6364 g     F .text	0000000000000070              ubit2string(unsigned int, unsigned long)
+0000000000b96748 g     O .bss	0000000000000008              __glewMultiTexCoord2hvNV
+0000000000b95830 g     O .bss	0000000000000008              __glewNamedProgramLocalParameters4fvEXT
+0000000000b93ec8 g     O .bss	0000000000000008              __glewCheckFramebufferStatus
+0000000000b8fe08 g     O .bss	0000000000000008              __ARRAY_INTEGER_SFELELIST
+0000000000b97d78 g     O .bss	0000000000000004              fullscreen_height
+0000000000b96de8 g     O .bss	0000000000000008              __glewGetProgramivNV
+0000000000943909 g     F .text	000000000000002c              af_autofitter_init
+0000000000b93650 g     O .bss	0000000000000008              __glewUniform2iv
+0000000000a79060 g     O .data	0000000000000004              displayorder_screen
+0000000000918b1e g     F .text	0000000000000593              func__connectionaddress(int)
+0000000000b965a8 g     O .bss	0000000000000008              __glewProgramEnvParameterI4uivNV
+0000000000b93b48 g     O .bss	0000000000000008              __glewDrawArraysInstancedANGLE
+00000000010dc5c0 g     O .bss	0000000000000808              qbs_input_arguements
+0000000000b95f58 g     O .bss	0000000000000008              __glewDeleteTexturesEXT
+0000000000940d62 g     F .text	00000000000000e0              af_cjk_hints_init
+0000000000b97663 g     O .bss	0000000000000001              __GLEW_EXT_texture_filter_anisotropic
+00000000009bcfcd g     F .text	0000000000000274              T1_Get_Advances
+000000000090dbbf g     F .text	0000000000000136              sub__blend(int, int)
+0000000000b94f18 g     O .bss	0000000000000008              __glewScissorIndexedv
+0000000000a72b60 g     O .data.rel.ro	0000000000000078              ft_raster5_renderer_class
+0000000000b95620 g     O .bss	0000000000000008              __glewGetVertexArrayPointeri_vEXT
+0000000000b94df0 g     O .bss	0000000000000008              __glewMultiTexCoordP2uiv
+0000000000979d59 g     F .text	0000000000000086              PCF_Size_Select
+0000000000b97a40 g     O .bss	0000000000000008              __glewXQueryChannelRectSGIX
+00000000009851e0 g     F .text	0000000000000052              t1_cmap_custom_char_index
+0000000000b96e00 g     O .bss	0000000000000008              __glewGetVertexAttribdvNV
+0000000000b97f40 g     O .bss	0000000000000008              fontflags
+0000000000902aa6 g     F .text	00000000000000de              func_read_int64(unsigned char*, long*, long)
+0000000000b93e08 g     O .bss	0000000000000008              __glewCopyBufferSubData
+0000000000b976dd g     O .bss	0000000000000001              __GLEW_NV_video_capture
+0000000000b93558 g     O .bss	0000000000000008              __glewEnableVertexAttribArray
+0000000000b94448 g     O .bss	0000000000000008              __glewDeleteSamplers
+0000000000a724a0 g     O .data.rel.ro	0000000000000018              afm_parser_funcs
+0000000000b97612 g     O .bss	0000000000000001              __GLEW_ATI_vertex_streams
+0000000000b8eea0 g     O .bss	0000000000000008              __LONG_MB2
+0000000001109b60 g     O .bss	0000000000000018              glutBitmap9By15
+0000000000992fda g     F .text	000000000000002a              tt_face_load_head
+0000000000b90540 g     O .bss	0000000000000008              __LONG_METHOD
+0000000000b94aa8 g     O .bss	0000000000000008              __glewVertexAttribL2dv
+00000000009a1ba9 g     F .text	000000000000006d              tt_face_free_hdmx
+000000000096bd1d g     F .text	000000000000011d              ft_bitmap_glyph_init
+00000000009762d3 g     F .text	0000000000000089              FT_Set_Var_Blend_Coordinates
+0000000000b97180 g     O .bss	0000000000000008              __glewPointParameterxv
+00000000009cd661 g     F .text	0000000000000060              ft_lzwstate_reset
+00000000009195b2 g     F .text	00000000000002fd              x11clipboardpaste()
+0000000000a78ef8 g     O .data	0000000000000004              MACVK_ANSI_RightBracket
+0000000000a79258 g     O .data	0000000000000008              int64_max_neg
+0000000000b95628 g     O .bss	0000000000000008              __glewGetVertexArrayPointervEXT
+0000000000b93d38 g     O .bss	0000000000000008              __glewIsTextureHandleResidentARB
+0000000000b96778 g     O .bss	0000000000000008              __glewNormal3hvNV
+0000000000a788e8 g     O .data	0000000000000004              environment_2d__screen_scaled_height
+00000000010dc17c g     O .bss	0000000000000004              img_printchr_i
+0000000000b8f170 g     O .bss	0000000000000008              __ARRAY_STRING_MENU
+0000000000b94bb0 g     O .bss	0000000000000008              __glewBindProgramARB
+0000000000406206 g     F .text	0000000000000013              requestKeyboardOverlayImage(int)
+0000000000a78fd0 g     O .data	0000000000000004              MACVK_F18
+000000000090ac2f g     F .text	00000000000001e7              func_shell(qbs*)
+0000000000929b85 g     F .text	000000000000000e              func__screenhide()
+0000000000b968b0 g     O .bss	0000000000000008              __glewProgramBufferParametersIuivNV
+0000000000b8ff68 g     O .bss	0000000000000008              __STRING_L1
+0000000000b96228 g     O .bss	0000000000000008              __glewEdgeFlagPointerListIBM
+0000000000b934b0 g     O .bss	0000000000000008              __glewGetBufferParameteriv
+0000000000b90988 g     O .bss	0000000000000008              __STRING_LOCALPATH
+0000000000b95e60 g     O .bss	0000000000000008              __glewSecondaryColor3iEXT
+00000000009961f6 g     F .text	0000000000000171              tt_cmap6_validate
+0000000000b947b0 g     O .bss	0000000000000008              __glewUniform4ivARB
+0000000000b974d8 g     O .bss	0000000000000008              __glewTexCoord2fColor4ubVertex3fvSUN
+0000000000000000       F *UND*	0000000000000000              XStoreBytes
+00000000009647cd g     F .text	0000000000000145              ft_mem_qrealloc
+0000000000b8f540 g     O .bss	0000000000000008              __LONG_E
+0000000000b966c8 g     O .bss	0000000000000008              __glewUniform3i64vNV
+0000000000b94fe0 g     O .bss	0000000000000008              __glewGetTexBumpParameterivATI
+0000000000b9758a g     O .bss	0000000000000001              __GLEW_ARB_enhanced_layouts
+0000000000b8fda0 g     O .bss	0000000000000008              __LONG_STATEMENTN
+0000000000b97110 g     O .bss	0000000000000008              __glewTexEnvx
+0000000000b8fa58 g     O .bss	0000000000000008              __ARRAY_INTEGER64_CONSTINTEGER
+0000000000b9756a g     O .bss	0000000000000001              __GLEW_APPLE_transform_hint
+0000000000000000       F *UND*	0000000000000000              fwrite@GLIBC_2.2.5
+0000000000b90678 g     O .bss	0000000000000008              __LONG_S2
+00000000010dd8f0 g     O .bss	0000000000000008              targets
+0000000000b8fdb8 g     O .bss	0000000000000008              __ARRAY_INTEGER_CONTROLTYPE
+0000000000b93228 g     O .bss	0000000000000008              __glewMultiTexCoord2d
+0000000000b97562 g     O .bss	0000000000000001              __GLEW_APPLE_float_pixels
+0000000000b94ab8 g     O .bss	0000000000000008              __glewVertexAttribL3dv
+000000000099656b g     F .text	0000000000000058              tt_cmap6_get_info
+0000000000b90498 g     O .bss	0000000000000008              __LONG_COUNT
+0000000000ba7fe8 g     O .bss	0000000000000004              exit_blocked
+00000000009310af g     F .text	000000000000000c              func__resizeheight()
+00000000010cfb80 g     O .bss	0000000000000004              qbs_malloc_freed_num
+0000000000b90370 g     O .bss	0000000000000008              __STRING_V
+0000000000b95058 g     O .bss	0000000000000008              __glewSampleMapATI
+0000000000b963e0 g     O .bss	0000000000000008              __glewWindowPos4svMESA
+0000000000b8f4d0 g     O .bss	0000000000000008              __ARRAY_STRING256_OPT
+0000000000b967c8 g     O .bss	0000000000000008              __glewTexCoord4hvNV
+0000000000b97738 g     O .bss	0000000000000008              __glewXChooseFBConfig
+0000000000b9770e g     O .bss	0000000000000001              __GLEW_SGIX_reference_plane
+0000000000000000       F *UND*	0000000000000000              close@GLIBC_2.2.5
+0000000000b94930 g     O .bss	0000000000000008              __glewTexStorage3D
+0000000000b95298 g     O .bss	0000000000000008              __glewBlendEquationSeparateEXT
+00000000010dcf50 g     O .bss	0000000000000010              n_float_value
+0000000000b8f778 g     O .bss	0000000000000008              __LONG_IDENORMALCURSOREND
+000000000097deff g     F .text	00000000000000f4              pfr_cmap_char_next
+0000000000b94d18 g     O .bss	0000000000000008              __glewVertexAttrib4NsvARB
+0000000000b93fe0 g     O .bss	0000000000000008              __glewUniformMatrix2x4dv
+000000000090a0c3 g     F .text	0000000000000007              snd_un_init()
+00000000009d5a20 g     F .text	0000000000000066              fgEnumWindows
+00000000010dcddc g     O .bss	0000000000000004              H3C9_read_next
+0000000000b975f8 g     O .bss	0000000000000001              __GLEW_ARB_vertex_program
+0000000000b8fac0 g     O .bss	0000000000000008              __LONG_LASTTYPEELEMENT
+0000000000b8faa8 g     O .bss	0000000000000008              __ARRAY_INTEGER_UDTXBYTEALIGN
+0000000000996eb5 g     F .text	00000000000001ce              tt_cmap10_validate
+0000000000b8f908 g     O .bss	0000000000000008              __STRING_SUBNAMELABELS
+0000000000410c37 g     F .text	00000000000002b3              chain_input()
+0000000000ba8948 g     O .bss	0000000000000008              ablend
+0000000000000000       F *UND*	0000000000000000              glTexCoordPointer
+0000000000b90680 g     O .bss	0000000000000008              __LONG_OLDMETHOD
+0000000000b8fad8 g     O .bss	0000000000000008              __ARRAY_INTEGER_UDTEBYTEALIGN
+0000000000a79004 g     O .data	0000000000000004              MACVK_F10
+0000000000b8eed8 g     O .bss	0000000000000008              __LONG_MWHEEL
+00000000006a95c5 g     F .text	0000000000000b7a              FUNC_TYPEVALUE2SYMBOL(int*)
+0000000000b8ec28 g     O .bss	0000000000000008              __LONG_GL_KIT
+00000000008e61ec g     F .text	000000000000003c              ui642string(unsigned long)
+0000000000b9760c g     O .bss	0000000000000001              __GLEW_ATI_texture_compression_3dc
+0000000000b96f70 g     O .bss	0000000000000008              __glewVertexAttribs3dvNV
+0000000000b8ead8 g     O .bss	0000000000000002              g_tmp_uint16
+0000000000b97a9b g     O .bss	0000000000000001              __GLXEW_ARB_framebuffer_sRGB
+0000000000b97712 g     O .bss	0000000000000001              __GLEW_SGIX_sprite
+0000000000b93310 g     O .bss	0000000000000008              __glewFogCoordd
+0000000000b97569 g     O .bss	0000000000000001              __GLEW_APPLE_texture_range
+000000000080c6fc g     F .text	000000000000061e              SUB_IDEGOTOBOX()
+0000000000b96cf0 g     O .bss	0000000000000008              __glewVertexAttribL2ui64NV
+0000000000b8fcd0 g     O .bss	0000000000000008              __INTEGER_ARRAYPROCESSINGHAPPENED
+0000000000b954d8 g     O .bss	0000000000000008              __glewGetCompressedMultiTexImageEXT
+0000000000a78dfc g     O .data	0000000000000004              sndqueue_wait
+00000000009cdfb2  w    F .text	0000000000000012              FT_StreamRec_* cplusplus_typeof<FT_StreamRec_>(FT_StreamRec_*, void*)
+0000000000964e10 g     F .text	000000000000006f              FT_QAlloc
+0000000000999754 g     F .text	0000000000000206              tt_cmap14_char_variants
+0000000000929fdf g     F .text	0000000000000311              func__memimage(int, int)
+0000000000b960b0 g     O .bss	0000000000000008              __glewEndVertexShaderEXT
+0000000000b97618 g     O .bss	0000000000000001              __GLEW_EXT_blend_color
+0000000000b8f988 g     O .bss	0000000000000008              __STRING_INCERROR
+00000000009ce1aa  w    F .text	0000000000000012              PFR_StrikeRec_* cplusplus_typeof<PFR_StrikeRec_>(PFR_StrikeRec_*, void*)
+0000000000b96da8 g     O .bss	0000000000000008              __glewAreProgramsResidentNV
+0000000000b95dd0 g     O .bss	0000000000000008              __glewGetPixelTransformParameterfvEXT
+00000000009bcd22 g     F .text	00000000000000aa              T1_Parse_Glyph
+0000000000b95ad8 g     O .bss	0000000000000008              __glewFragmentLightModelivEXT
+0000000000b97698 g     O .bss	0000000000000001              __GLEW_NV_conditional_render
+0000000000b8edf8 g     O .bss	0000000000000008              __ARRAY_UDT_HELP_BACK
+0000000000b960c0 g     O .bss	0000000000000008              __glewGenSymbolsEXT
+0000000000b8f8e0 g     O .bss	0000000000000008              __LONG_NLABELS
+0000000000956456 g     F .text	00000000000001bb              FT_Get_Advances
+00000000008e6543 g     F .text	0000000000000035              string2ui64(qbs*)
+0000000000b96808 g     O .bss	0000000000000008              __glewVertexAttrib1hvNV
+0000000000b93cb0 g     O .bss	0000000000000008              __glewMapVertexAttrib1dAPPLE
+0000000000b8f448 g     O .bss	0000000000000008              __STRING_VIPRODUCTVERSIONNUM
+00000000009cf350 g     F .text	0000000000000005              fgSetCursor
+0000000000964496 g     F .text	00000000000000c6              FT_Vector_Polarize
+0000000000b93fd8 g     O .bss	0000000000000008              __glewUniformMatrix2x3dv
+00000000009382a5  w    F .text	0000000000000072              std::enable_if<std::__and_<std::__not_<std::__is_tuple_like<unsigned char> >, std::is_move_constructible<unsigned char>, std::is_move_assignable<unsigned char> >::value, void>::type std::swap<unsigned char>(unsigned char&, unsigned char&)
+000000000099643b g     F .text	0000000000000130              tt_cmap6_char_next
+0000000000929ccc g     F .text	0000000000000117              func__mem_at_offset(long, long)
+0000000000b975b8 g     O .bss	0000000000000001              __GLEW_ARB_separate_shader_objects
+0000000000b94898 g     O .bss	0000000000000008              __glewWaitSync
+0000000000a78f9c g     O .data	0000000000000004              MACVK_Command
+0000000000b90838 g     O .bss	0000000000000008              __STRING_TRY_STRING
+0000000000b8f198 g     O .bss	0000000000000008              __INTEGER_IDEEDITMENUID
+0000000000b97552 g     O .bss	0000000000000001              __GLEW_ANGLE_depth_texture
+0000000000b97669 g     O .bss	0000000000000001              __GLEW_EXT_texture_rectangle
+0000000000b96e20 g     O .bss	0000000000000008              __glewLoadProgramNV
+0000000000b90958 g     O .bss	0000000000000008              __LONG_LNX
+0000000000b97250 g     O .bss	0000000000000008              __glewTextureFogSGIX
+0000000000b904b8 g     O .bss	0000000000000008              __LONG_CV
+0000000000b8fbe0 g     O .bss	0000000000000008              __LONG_ULONGTYPE
+0000000000b94220 g     O .bss	0000000000000008              __glewMultiTexCoord1fARB
+0000000000b97672 g     O .bss	0000000000000001              __GLEW_EXT_vertex_array_bgra
+000000000096779a g     F .text	0000000000000044              FTC_Node_Unref
+00000000009ce3b4  w    F .text	0000000000000012              signed char* cplusplus_typeof<signed char>(signed char*, void*)
+00000000009a852d g     F .text	00000000000000d9              Update_Max
+0000000000a78da8 g     O .data	0000000000000004              lastfont
+00000000009831a8 g     F .text	0000000000001bcb              t1_decoder_parse_charstrings
+0000000000b94840 g     O .bss	0000000000000008              __glewGetNamedStringivARB
+00000000010dcf48 g     O .bss	0000000000000001              n_neg
+0000000000b973e8 g     O .bss	0000000000000008              __glewColor3fVertex3fvSUN
+00000000008e2df8 g     F .text	000000000000005d              sub__assert(int, qbs*, int)
+00000000008cb01b g     F .text	000000000000007a              glxewGetExtension
+0000000000b8f1a0 g     O .bss	0000000000000008              __INTEGER_SEARCHMENUID
+0000000000b932c0 g     O .bss	0000000000000008              __glewMultiTexCoord4fv
+0000000000b90968 g     O .bss	0000000000000008              __STRING_DEFINES
+0000000000b975a2 g     O .bss	0000000000000001              __GLEW_ARB_map_buffer_range
+0000000000b97692 g     O .bss	0000000000000001              __GLEW_NV_bindless_multi_draw_indirect
+0000000000b95130 g     O .bss	0000000000000008              __glewNormalStream3dvATI
+0000000000000000       F *UND*	0000000000000000              XCheckIfEvent
+0000000000b966f8 g     O .bss	0000000000000008              __glewUniform4ui64vNV
+0000000000b9755d g     O .bss	0000000000000001              __GLEW_ANGLE_translated_shader_source
+0000000000a79268 g     O .data	0000000000000008              single_max_neg
+0000000000b90038 g     O .bss	0000000000000008              __LONG_U
+0000000000b94e00 g     O .bss	0000000000000008              __glewMultiTexCoordP3uiv
+00000000009d5680 g     F .text	0000000000000082              fgCloseWindows
+0000000000b956e0 g     O .bss	0000000000000008              __glewMultiTexCoordPointerEXT
+0000000000b950b0 g     O .bss	0000000000000008              __glewGetArrayObjectivATI
+0000000000b8f1c0 g     O .bss	0000000000000008              __INTEGER_OPTIONSMENUSHOWERRORSIMMEDIATELY
+0000000000000000       F *UND*	0000000000000000              std::istream::gcount() const@GLIBCXX_3.4
+0000000000ba7f88 g     O .bss	0000000000000004              exit_ok
+0000000000a78e14 g     O .data	0000000000000004              qbs_malloc_freed_size
+00000000009190ca g     F .text	0000000000000116              func__connected(int)
+0000000000b97ab8 g     O .bss	0000000000000001              __GLXEW_NV_multisample_coverage
+0000000000b93640 g     O .bss	0000000000000008              __glewUniform2fv
+0000000000b944c0 g     O .bss	0000000000000008              __glewCreateShaderProgramv
+000000000095609e g     F .text	0000000000000059              cff_sid_to_glyph_name
+0000000000b95a18 g     O .bss	0000000000000008              __glewVertexArrayNormalOffsetEXT
+0000000000b95c08 g     O .bss	0000000000000008              __glewBindFragDataLocationEXT
+0000000000b94960 g     O .bss	0000000000000008              __glewTextureStorage2DMultisampleEXT
+0000000000b8f658 g     O .bss	0000000000000008              __LONG_REGINTERNALSUBFUNC
+0000000000b97948 g     O .bss	0000000000000008              __glewXGetMscRateOML
+00000000009d3ff0 g     F .text	000000000000019b              fgSpaceballHandleXEvent
+0000000000950f1a g     F .text	000000000000000f              cff_driver_init
+0000000000b97a38 g     O .bss	0000000000000008              __glewXQueryChannelDeltasSGIX
+0000000000b944a0 g     O .bss	0000000000000008              __glewSamplerParameteri
+0000000000b90180 g     O .bss	0000000000000008              __LONG_ARGNELEREQ
+0000000000b94e30 g     O .bss	0000000000000008              __glewSecondaryColorP3uiv
+0000000000a78ed0 g     O .data	0000000000000004              MACVK_ANSI_3
+0000000000b9767a g     O .bss	0000000000000001              __GLEW_HP_image_transform
+00000000008d5a7a g     F .text	0000000000000014              get_hardware_img_index(int)
+00000000009796f0 g     F .text	0000000000000130              pcf_cmap_char_next
+0000000000b93840 g     O .bss	0000000000000008              __glewClearBufferfv
+0000000000982d45 g     F .text	0000000000000040              t1_decrypt
+0000000000406219 g     F .text	000000000000008b              swap_string(qbs*, qbs*)
+0000000000b97644 g     O .bss	0000000000000001              __GLEW_EXT_pixel_transform
+00000000009a129d g     F .text	00000000000002a0              tt_face_get_location
+0000000000b97676 g     O .bss	0000000000000001              __GLEW_EXT_x11_sync_object
+0000000000b93a50 g     O .bss	0000000000000008              __glewDebugMessageInsertAMD
+0000000000b97e98 g     O .bss	0000000000000008              NPO2_buffer
+0000000000b8f3f0 g     O .bss	0000000000000008              __LONG_WARNINGLISTITEMS
+0000000000000000       F *UND*	0000000000000000              std::ios_base::Init::~Init()@GLIBCXX_3.4
+000000000095ed78 g     F .text	00000000000000cd              FT_Remove_Module
+0000000000b941e0 g     O .bss	0000000000000008              __glewBindVertexBuffers
+0000000000b90178 g     O .bss	0000000000000008              __LONG_M
+00000000009d0f50 g     F .text	0000000000000037              glutJoystickGetNumAxes
+0000000000b97ea8 g     O .bss	0000000000000008              display_lock_confirmed
+0000000000b93ee8 g     O .bss	0000000000000008              __glewFramebufferTexture1D
+00000000009dba50 g     F .text	000000000000025e              glutWireCylinder
+000000000091bcbb g     F .text	000000000000077f              gfs_open(qbs*, int, int, int)
+0000000000b96f78 g     O .bss	0000000000000008              __glewVertexAttribs3fvNV
+0000000000b96210 g     O .bss	0000000000000008              __glewMultiModeDrawArraysIBM
+000000000087dc36 g     F .text	0000000000000b02              FUNC_FINDPROPOSEDTITLE()
+0000000000b97601 g     O .bss	0000000000000001              __GLEW_ATIX_vertex_shader_output_point_size
+0000000000b953f8 g     O .bss	0000000000000008              __glewCompressedTextureImage3DEXT
+0000000000b8ef38 g     O .bss	0000000000000008              __LONG_IDECPINDEX
+0000000000a72580 g     O .data.rel.ro	0000000000000050              t1_cmap_standard_class_rec
+0000000000b95390 g     O .bss	0000000000000008              __glewPushGroupMarkerEXT
+00000000009d9eb0 g     F .text	000000000000009a              glutLeaveGameMode
+0000000000b8ffe8 g     O .bss	0000000000000008              __STRING_N
+00000000009bdc2f g     F .text	000000000000008a              T1_Done_Metrics
+00000000008c2be9 g     F .text	000000000000005b              glewGetExtension
+0000000000b946e8 g     O .bss	0000000000000008              __glewGetHandleARB
+0000000000b906e8 g     O .bss	0000000000000008              __STRING_ST
+0000000000b935d0 g     O .bss	0000000000000008              __glewGetVertexAttribfv
+0000000000b9772a g     O .bss	0000000000000001              __GLEW_WIN_swap_hint
+
+
+Contents of section .interp:
+ 400318 2f6c6962 36342f6c 642d6c69 6e75782d  /lib64/ld-linux-
+ 400328 7838362d 36342e73 6f2e3200           x86-64.so.2.    
+Contents of section .note.gnu.property:
+ 400338 04000000 30000000 05000000 474e5500  ....0.......GNU.
+ 400348 028000c0 04000000 01000000 00000000  ................
+ 400358 010001c0 04000000 0b000000 00000000  ................
+ 400368 020001c0 04000000 01000000 00000000  ................
+Contents of section .note.gnu.build-id:
+ 400378 04000000 14000000 03000000 474e5500  ............GNU.
+ 400388 5fa7101c 92b961c4 1a59a630 5104bffb  _.....a..Y.0Q...
+ 400398 6dcdde48                             m..H            
+Contents of section .note.ABI-tag:
+ 40039c 04000000 10000000 01000000 474e5500  ............GNU.
+ 4003ac 00000000 04000000 04000000 00000000  ................
+Contents of section .gnu.hash:
+ 4003c0 03000000 13010000 01000000 06000000  ................
+ 4003d0 b8413011 c100400a 13010000 17010000  .A0...@.........
+ 4003e0 1c010000 4245d5ec c4890590 bae3927c  ....BE.........|
+ 4003f0 a7dda36b 0217b375 c4b99c40 66556110  ...k...u...@fUa.
+ 400400 38f28b1c d971581c 15980c43           8....qX....C    
+Contents of section .dynsym:
+ 400410 00000000 00000000 00000000 00000000  ................
+ 400420 00000000 00000000 b00d0000 12000000  ................
+ 400430 00000000 00000000 00000000 00000000  ................
+ 400440 98000000 12000000 00000000 00000000  ................
+ 400450 00000000 00000000 72070000 12000000  ........r.......
+ 400460 00000000 00000000 00000000 00000000  ................
+ 400470 44060000 12000000 00000000 00000000  D...............
+ 400480 00000000 00000000 630f0000 12000000  ........c.......
+ 400490 00000000 00000000 00000000 00000000  ................
+ 4004a0 5e0b0000 12000000 00000000 00000000  ^...............
+ 4004b0 00000000 00000000 5c020000 12000000  ........\.......
+ 4004c0 00000000 00000000 00000000 00000000  ................
+ 4004d0 910a0000 12000000 00000000 00000000  ................
+ 4004e0 00000000 00000000 730e0000 12000000  ........s.......
+ 4004f0 00000000 00000000 00000000 00000000  ................
+ 400500 8b0e0000 12000000 00000000 00000000  ................
+ 400510 00000000 00000000 2e0d0000 12000000  ................
+ 400520 00000000 00000000 00000000 00000000  ................
+ 400530 6f010000 12000000 00000000 00000000  o...............
+ 400540 00000000 00000000 6c0d0000 12000000  ........l.......
+ 400550 00000000 00000000 00000000 00000000  ................
+ 400560 380d0000 12000000 00000000 00000000  8...............
+ 400570 00000000 00000000 df0c0000 12000000  ................
+ 400580 00000000 00000000 00000000 00000000  ................
+ 400590 180d0000 12000000 00000000 00000000  ................
+ 4005a0 00000000 00000000 6c0e0000 12000000  ........l.......
+ 4005b0 00000000 00000000 00000000 00000000  ................
+ 4005c0 a5000000 12000000 00000000 00000000  ................
+ 4005d0 00000000 00000000 53030000 12000000  ........S.......
+ 4005e0 00000000 00000000 00000000 00000000  ................
+ 4005f0 b1000000 12000000 00000000 00000000  ................
+ 400600 00000000 00000000 650d0000 12000000  ........e.......
+ 400610 00000000 00000000 00000000 00000000  ................
+ 400620 cd050000 12000000 00000000 00000000  ................
+ 400630 00000000 00000000 23030000 12000000  ........#.......
+ 400640 00000000 00000000 00000000 00000000  ................
+ 400650 a6020000 12000000 00000000 00000000  ................
+ 400660 00000000 00000000 77000000 12000000  ........w.......
+ 400670 00000000 00000000 00000000 00000000  ................
+ 400680 76040000 12000000 00000000 00000000  v...............
+ 400690 00000000 00000000 be0d0000 12000000  ................
+ 4006a0 00000000 00000000 00000000 00000000  ................
+ 4006b0 3f050000 12000000 00000000 00000000  ?...............
+ 4006c0 00000000 00000000 f0020000 12000000  ................
+ 4006d0 00000000 00000000 00000000 00000000  ................
+ 4006e0 a60d0000 12000000 00000000 00000000  ................
+ 4006f0 00000000 00000000 2d040000 12000000  ........-.......
+ 400700 00000000 00000000 00000000 00000000  ................
+ 400710 96070000 12000000 00000000 00000000  ................
+ 400720 00000000 00000000 6d070000 12000000  ........m.......
+ 400730 00000000 00000000 00000000 00000000  ................
+ 400740 7f020000 12000000 00000000 00000000  ................
+ 400750 00000000 00000000 06060000 12000000  ................
+ 400760 00000000 00000000 00000000 00000000  ................
+ 400770 230f0000 12000000 00000000 00000000  #...............
+ 400780 00000000 00000000 a2030000 12000000  ................
+ 400790 00000000 00000000 00000000 00000000  ................
+ 4007a0 5b0f0000 12000000 00000000 00000000  [...............
+ 4007b0 00000000 00000000 a30e0000 12000000  ................
+ 4007c0 00000000 00000000 00000000 00000000  ................
+ 4007d0 bd020000 12000000 00000000 00000000  ................
+ 4007e0 00000000 00000000 05030000 12000000  ................
+ 4007f0 00000000 00000000 00000000 00000000  ................
+ 400800 7b0e0000 12000000 00000000 00000000  {...............
+ 400810 00000000 00000000 640e0000 12000000  ........d.......
+ 400820 00000000 00000000 00000000 00000000  ................
+ 400830 310e0000 12000000 00000000 00000000  1...............
+ 400840 00000000 00000000 9c0e0000 12000000  ................
+ 400850 00000000 00000000 00000000 00000000  ................
+ 400860 69050000 12000000 00000000 00000000  i...............
+ 400870 00000000 00000000 e20d0000 12000000  ................
+ 400880 00000000 00000000 00000000 00000000  ................
+ 400890 81040000 12000000 00000000 00000000  ................
+ 4008a0 00000000 00000000 7a0d0000 12000000  ........z.......
+ 4008b0 00000000 00000000 00000000 00000000  ................
+ 4008c0 45090000 12000000 00000000 00000000  E...............
+ 4008d0 00000000 00000000 55070000 12000000  ........U.......
+ 4008e0 00000000 00000000 00000000 00000000  ................
+ 4008f0 b1010000 12000000 00000000 00000000  ................
+ 400900 00000000 00000000 46070000 12000000  ........F.......
+ 400910 00000000 00000000 00000000 00000000  ................
+ 400920 1b0f0000 12000000 00000000 00000000  ................
+ 400930 00000000 00000000 b60d0000 12000000  ................
+ 400940 00000000 00000000 00000000 00000000  ................
+ 400950 e5020000 12000000 00000000 00000000  ................
+ 400960 00000000 00000000 10030000 12000000  ................
+ 400970 00000000 00000000 00000000 00000000  ................
+ 400980 5d0e0000 12000000 00000000 00000000  ]...............
+ 400990 00000000 00000000 3e0d0000 12000000  ........>.......
+ 4009a0 00000000 00000000 00000000 00000000  ................
+ 4009b0 e1060000 12000000 00000000 00000000  ................
+ 4009c0 00000000 00000000 3e040000 12000000  ........>.......
+ 4009d0 00000000 00000000 00000000 00000000  ................
+ 4009e0 9d070000 12000000 00000000 00000000  ................
+ 4009f0 00000000 00000000 870f0000 12000000  ................
+ 400a00 00000000 00000000 00000000 00000000  ................
+ 400a10 b3030000 12000000 00000000 00000000  ................
+ 400a20 00000000 00000000 470d0000 12000000  ........G.......
+ 400a30 00000000 00000000 00000000 00000000  ................
+ 400a40 5b030000 12000000 00000000 00000000  [...............
+ 400a50 00000000 00000000 180e0000 12000000  ................
+ 400a60 00000000 00000000 00000000 00000000  ................
+ 400a70 bd000000 12000000 00000000 00000000  ................
+ 400a80 00000000 00000000 25020000 12000000  ........%.......
+ 400a90 00000000 00000000 00000000 00000000  ................
+ 400aa0 220d0000 12000000 00000000 00000000  "...............
+ 400ab0 00000000 00000000 2f0f0000 12000000  ......../.......
+ 400ac0 00000000 00000000 00000000 00000000  ................
+ 400ad0 bf010000 12000000 00000000 00000000  ................
+ 400ae0 00000000 00000000 4c0d0000 12000000  ........L.......
+ 400af0 00000000 00000000 00000000 00000000  ................
+ 400b00 d4030000 12000000 00000000 00000000  ................
+ 400b10 00000000 00000000 d3070000 12000000  ................
+ 400b20 00000000 00000000 00000000 00000000  ................
+ 400b30 e1010000 12000000 00000000 00000000  ................
+ 400b40 00000000 00000000 d40a0000 12000000  ................
+ 400b50 00000000 00000000 00000000 00000000  ................
+ 400b60 e8030000 12000000 00000000 00000000  ................
+ 400b70 00000000 00000000 350b0000 12000000  ........5.......
+ 400b80 00000000 00000000 00000000 00000000  ................
+ 400b90 fe000000 12000000 00000000 00000000  ................
+ 400ba0 00000000 00000000 2a0e0000 12000000  ........*.......
+ 400bb0 00000000 00000000 00000000 00000000  ................
+ 400bc0 77030000 12000000 00000000 00000000  w...............
+ 400bd0 00000000 00000000 83060000 12000000  ................
+ 400be0 00000000 00000000 00000000 00000000  ................
+ 400bf0 750d0000 12000000 00000000 00000000  u...............
+ 400c00 00000000 00000000 510f0000 12000000  ........Q.......
+ 400c10 00000000 00000000 00000000 00000000  ................
+ 400c20 50040000 12000000 00000000 00000000  P...............
+ 400c30 00000000 00000000 be070000 12000000  ................
+ 400c40 00000000 00000000 00000000 00000000  ................
+ 400c50 d5080000 12000000 00000000 00000000  ................
+ 400c60 00000000 00000000 290d0000 12000000  ........).......
+ 400c70 00000000 00000000 00000000 00000000  ................
+ 400c80 96030000 12000000 00000000 00000000  ................
+ 400c90 00000000 00000000 520d0000 12000000  ........R.......
+ 400ca0 00000000 00000000 00000000 00000000  ................
+ 400cb0 6c060000 12000000 00000000 00000000  l...............
+ 400cc0 00000000 00000000 f1060000 12000000  ................
+ 400cd0 00000000 00000000 00000000 00000000  ................
+ 400ce0 d2000000 12000000 00000000 00000000  ................
+ 400cf0 00000000 00000000 c90e0000 12000000  ................
+ 400d00 00000000 00000000 00000000 00000000  ................
+ 400d10 b6070000 12000000 00000000 00000000  ................
+ 400d20 00000000 00000000 3d0d0000 12000000  ........=.......
+ 400d30 00000000 00000000 00000000 00000000  ................
+ 400d40 68020000 12000000 00000000 00000000  h...............
+ 400d50 00000000 00000000 3a070000 12000000  ........:.......
+ 400d60 00000000 00000000 00000000 00000000  ................
+ 400d70 8a0d0000 12000000 00000000 00000000  ................
+ 400d80 00000000 00000000 7a0c0000 12000000  ........z.......
+ 400d90 00000000 00000000 00000000 00000000  ................
+ 400da0 0b0f0000 12000000 00000000 00000000  ................
+ 400db0 00000000 00000000 0e070000 12000000  ................
+ 400dc0 00000000 00000000 00000000 00000000  ................
+ 400dd0 15050000 12000000 00000000 00000000  ................
+ 400de0 00000000 00000000 b0060000 12000000  ................
+ 400df0 00000000 00000000 00000000 00000000  ................
+ 400e00 380e0000 12000000 00000000 00000000  8...............
+ 400e10 00000000 00000000 df030000 12000000  ................
+ 400e20 00000000 00000000 00000000 00000000  ................
+ 400e30 910d0000 12000000 00000000 00000000  ................
+ 400e40 00000000 00000000 94090000 12000000  ................
+ 400e50 00000000 00000000 00000000 00000000  ................
+ 400e60 360f0000 12000000 00000000 00000000  6...............
+ 400e70 00000000 00000000 560f0000 12000000  ........V.......
+ 400e80 00000000 00000000 00000000 00000000  ................
+ 400e90 1c010000 12000000 00000000 00000000  ................
+ 400ea0 00000000 00000000 82000000 12000000  ................
+ 400eb0 00000000 00000000 00000000 00000000  ................
+ 400ec0 91050000 12000000 00000000 00000000  ................
+ 400ed0 00000000 00000000 db0d0000 12000000  ................
+ 400ee0 00000000 00000000 00000000 00000000  ................
+ 400ef0 dc020000 12000000 00000000 00000000  ................
+ 400f00 00000000 00000000 df000000 12000000  ................
+ 400f10 00000000 00000000 00000000 00000000  ................
+ 400f20 69040000 12000000 00000000 00000000  i...............
+ 400f30 00000000 00000000 960d0000 12000000  ................
+ 400f40 00000000 00000000 00000000 00000000  ................
+ 400f50 160c0000 12000000 00000000 00000000  ................
+ 400f60 00000000 00000000 88080000 12000000  ................
+ 400f70 00000000 00000000 00000000 00000000  ................
+ 400f80 d00e0000 12000000 00000000 00000000  ................
+ 400f90 00000000 00000000 5c0c0000 12000000  ........\.......
+ 400fa0 00000000 00000000 00000000 00000000  ................
+ 400fb0 06040000 12000000 00000000 00000000  ................
+ 400fc0 00000000 00000000 1a090000 12000000  ................
+ 400fd0 00000000 00000000 00000000 00000000  ................
+ 400fe0 23050000 12000000 00000000 00000000  #...............
+ 400ff0 00000000 00000000 25010000 12000000  ........%.......
+ 401000 00000000 00000000 00000000 00000000  ................
+ 401010 a1010000 12000000 00000000 00000000  ................
+ 401020 00000000 00000000 c30a0000 12000000  ................
+ 401030 00000000 00000000 00000000 00000000  ................
+ 401040 120f0000 12000000 00000000 00000000  ................
+ 401050 00000000 00000000 97060000 12000000  ................
+ 401060 00000000 00000000 00000000 00000000  ................
+ 401070 bc0e0000 12000000 00000000 00000000  ................
+ 401080 00000000 00000000 8d0f0000 12000000  ................
+ 401090 00000000 00000000 00000000 00000000  ................
+ 4010a0 82050000 12000000 00000000 00000000  ................
+ 4010b0 00000000 00000000 820d0000 12000000  ................
+ 4010c0 00000000 00000000 00000000 00000000  ................
+ 4010d0 900e0000 12000000 00000000 00000000  ................
+ 4010e0 00000000 00000000 fc0d0000 12000000  ................
+ 4010f0 00000000 00000000 00000000 00000000  ................
+ 401100 c30d0000 12000000 00000000 00000000  ................
+ 401110 00000000 00000000 700f0000 12000000  ........p.......
+ 401120 00000000 00000000 00000000 00000000  ................
+ 401130 0a050000 12000000 00000000 00000000  ................
+ 401140 00000000 00000000 1e070000 12000000  ................
+ 401150 00000000 00000000 00000000 00000000  ................
+ 401160 e0050000 12000000 00000000 00000000  ................
+ 401170 00000000 00000000 d40d0000 12000000  ................
+ 401180 00000000 00000000 00000000 00000000  ................
+ 401190 a6080000 12000000 00000000 00000000  ................
+ 4011a0 00000000 00000000 16060000 12000000  ................
+ 4011b0 00000000 00000000 00000000 00000000  ................
+ 4011c0 740d0000 12000000 00000000 00000000  t...............
+ 4011d0 00000000 00000000 49010000 12000000  ........I.......
+ 4011e0 00000000 00000000 00000000 00000000  ................
+ 4011f0 2e0a0000 12000000 00000000 00000000  ................
+ 401200 00000000 00000000 ca0f0000 12000000  ................
+ 401210 00000000 00000000 00000000 00000000  ................
+ 401220 c5030000 12000000 00000000 00000000  ................
+ 401230 00000000 00000000 e60a0000 12000000  ................
+ 401240 00000000 00000000 00000000 00000000  ................
+ 401250 0f020000 12000000 00000000 00000000  ................
+ 401260 00000000 00000000 4d0d0000 12000000  ........M.......
+ 401270 00000000 00000000 00000000 00000000  ................
+ 401280 4c0f0000 12000000 00000000 00000000  L...............
+ 401290 00000000 00000000 f70d0000 12000000  ................
+ 4012a0 00000000 00000000 00000000 00000000  ................
+ 4012b0 f70e0000 12000000 00000000 00000000  ................
+ 4012c0 00000000 00000000 32050000 12000000  ........2.......
+ 4012d0 00000000 00000000 00000000 00000000  ................
+ 4012e0 2c060000 12000000 00000000 00000000  ,...............
+ 4012f0 00000000 00000000 f0040000 12000000  ................
+ 401300 00000000 00000000 00000000 00000000  ................
+ 401310 cb010000 12000000 00000000 00000000  ................
+ 401320 00000000 00000000 c30e0000 12000000  ................
+ 401330 00000000 00000000 00000000 00000000  ................
+ 401340 450e0000 12000000 00000000 00000000  E...............
+ 401350 00000000 00000000 ac070000 12000000  ................
+ 401360 00000000 00000000 00000000 00000000  ................
+ 401370 510e0000 12000000 00000000 00000000  Q...............
+ 401380 00000000 00000000 1a020000 12000000  ................
+ 401390 00000000 00000000 00000000 00000000  ................
+ 4013a0 50020000 12000000 00000000 00000000  P...............
+ 4013b0 00000000 00000000 ad050000 12000000  ................
+ 4013c0 00000000 00000000 00000000 00000000  ................
+ 4013d0 070a0000 12000000 00000000 00000000  ................
+ 4013e0 00000000 00000000 810e0000 12000000  ................
+ 4013f0 00000000 00000000 00000000 00000000  ................
+ 401400 22090000 12000000 00000000 00000000  "...............
+ 401410 00000000 00000000 cb040000 12000000  ................
+ 401420 00000000 00000000 00000000 00000000  ................
+ 401430 5b010000 12000000 00000000 00000000  [...............
+ 401440 00000000 00000000 7a0f0000 12000000  ........z.......
+ 401450 00000000 00000000 00000000 00000000  ................
+ 401460 3a010000 12000000 00000000 00000000  :...............
+ 401470 00000000 00000000 96010000 12000000  ................
+ 401480 00000000 00000000 00000000 00000000  ................
+ 401490 ad030000 12000000 00000000 00000000  ................
+ 4014a0 00000000 00000000 a30b0000 12000000  ................
+ 4014b0 00000000 00000000 00000000 00000000  ................
+ 4014c0 e20e0000 12000000 00000000 00000000  ................
+ 4014d0 00000000 00000000 93040000 12000000  ................
+ 4014e0 00000000 00000000 00000000 00000000  ................
+ 4014f0 880c0000 12000000 00000000 00000000  ................
+ 401500 00000000 00000000 ed000000 12000000  ................
+ 401510 00000000 00000000 00000000 00000000  ................
+ 401520 35020000 12000000 00000000 00000000  5...............
+ 401530 00000000 00000000 72020000 12000000  ........r.......
+ 401540 00000000 00000000 00000000 00000000  ................
+ 401550 34030000 12000000 00000000 00000000  4...............
+ 401560 00000000 00000000 20040000 12000000  ........ .......
+ 401570 00000000 00000000 00000000 00000000  ................
+ 401580 ab0e0000 12000000 00000000 00000000  ................
+ 401590 00000000 00000000 88010000 12000000  ................
+ 4015a0 00000000 00000000 00000000 00000000  ................
+ 4015b0 c2060000 12000000 00000000 00000000  ................
+ 4015c0 00000000 00000000 67030000 12000000  ........g.......
+ 4015d0 00000000 00000000 00000000 00000000  ................
+ 4015e0 a80f0000 12000000 00000000 00000000  ................
+ 4015f0 00000000 00000000 050f0000 12000000  ................
+ 401600 00000000 00000000 00000000 00000000  ................
+ 401610 8d020000 12000000 00000000 00000000  ................
+ 401620 00000000 00000000 46030000 12000000  ........F.......
+ 401630 00000000 00000000 00000000 00000000  ................
+ 401640 b40b0000 12000000 00000000 00000000  ................
+ 401650 00000000 00000000 78060000 12000000  ........x.......
+ 401660 00000000 00000000 00000000 00000000  ................
+ 401670 620f0000 12000000 00000000 00000000  b...............
+ 401680 00000000 00000000 5b000000 12000000  ........[.......
+ 401690 00000000 00000000 00000000 00000000  ................
+ 4016a0 f5010000 12000000 00000000 00000000  ................
+ 4016b0 00000000 00000000 bd040000 12000000  ................
+ 4016c0 00000000 00000000 00000000 00000000  ................
+ 4016d0 2a0f0000 12000000 00000000 00000000  *...............
+ 4016e0 00000000 00000000 b40e0000 12000000  ................
+ 4016f0 00000000 00000000 00000000 00000000  ................
+ 401700 030e0000 12000000 00000000 00000000  ................
+ 401710 00000000 00000000 8a030000 12000000  ................
+ 401720 00000000 00000000 00000000 00000000  ................
+ 401730 f8030000 12000000 00000000 00000000  ................
+ 401740 00000000 00000000 83070000 12000000  ................
+ 401750 00000000 00000000 00000000 00000000  ................
+ 401760 960e0000 12000000 00000000 00000000  ................
+ 401770 00000000 00000000 b00c0000 12000000  ................
+ 401780 00000000 00000000 00000000 00000000  ................
+ 401790 f9050000 12000000 00000000 00000000  ................
+ 4017a0 00000000 00000000 5a070000 12000000  ........Z.......
+ 4017b0 00000000 00000000 00000000 00000000  ................
+ 4017c0 290f0000 12000000 00000000 00000000  )...............
+ 4017d0 00000000 00000000 5c040000 12000000  ........\.......
+ 4017e0 00000000 00000000 00000000 00000000  ................
+ 4017f0 45020000 12000000 00000000 00000000  E...............
+ 401800 00000000 00000000 440f0000 12000000  ........D.......
+ 401810 00000000 00000000 00000000 00000000  ................
+ 401820 130d0000 12000000 00000000 00000000  ................
+ 401830 00000000 00000000 2b030000 12000000  ........+.......
+ 401840 00000000 00000000 00000000 00000000  ................
+ 401850 620c0000 12000000 00000000 00000000  b...............
+ 401860 00000000 00000000 52050000 12000000  ........R.......
+ 401870 00000000 00000000 00000000 00000000  ................
+ 401880 7b010000 12000000 00000000 00000000  {...............
+ 401890 00000000 00000000 2c070000 12000000  ........,.......
+ 4018a0 00000000 00000000 00000000 00000000  ................
+ 4018b0 110e0000 12000000 00000000 00000000  ................
+ 4018c0 00000000 00000000 240e0000 12000000  ........$.......
+ 4018d0 00000000 00000000 00000000 00000000  ................
+ 4018e0 01070000 12000000 00000000 00000000  ................
+ 4018f0 00000000 00000000 fd010000 12000000  ................
+ 401900 00000000 00000000 00000000 00000000  ................
+ 401910 b0020000 12000000 00000000 00000000  ................
+ 401920 00000000 00000000 fb040000 12000000  ................
+ 401930 00000000 00000000 00000000 00000000  ................
+ 401940 a0050000 12000000 00000000 00000000  ................
+ 401950 00000000 00000000 c10f0000 12000000  ................
+ 401960 00000000 00000000 00000000 00000000  ................
+ 401970 5c0a0000 12000000 00000000 00000000  \...............
+ 401980 00000000 00000000 56060000 12000000  ........V.......
+ 401990 00000000 00000000 00000000 00000000  ................
+ 4019a0 990f0000 12000000 00000000 00000000  ................
+ 4019b0 00000000 00000000 f60d0000 12000000  ................
+ 4019c0 00000000 00000000 00000000 00000000  ................
+ 4019d0 59050000 12000000 00000000 00000000  Y...............
+ 4019e0 00000000 00000000 e80d0000 12000000  ................
+ 4019f0 00000000 00000000 00000000 00000000  ................
+ 401a00 490b0000 12000000 00000000 00000000  I...............
+ 401a10 00000000 00000000 120d0000 12000000  ................
+ 401a20 00000000 00000000 00000000 00000000  ................
+ 401a30 a10f0000 12000000 00000000 00000000  ................
+ 401a40 00000000 00000000 330d0000 12000000  ........3.......
+ 401a50 00000000 00000000 00000000 00000000  ................
+ 401a60 460d0000 12000000 00000000 00000000  F...............
+ 401a70 00000000 00000000 1c0d0000 12000000  ................
+ 401a80 00000000 00000000 00000000 00000000  ................
+ 401a90 4c080000 12000000 00000000 00000000  L...............
+ 401aa0 00000000 00000000 d8090000 12000000  ................
+ 401ab0 00000000 00000000 00000000 00000000  ................
+ 401ac0 18080000 12000000 00000000 00000000  ................
+ 401ad0 00000000 00000000 4e0c0000 12000000  ........N.......
+ 401ae0 00000000 00000000 00000000 00000000  ................
+ 401af0 74050000 12000000 00000000 00000000  t...............
+ 401b00 00000000 00000000 01000000 20000000  ............ ...
+ 401b10 00000000 00000000 00000000 00000000  ................
+ 401b20 560d0000 12000000 00000000 00000000  V...............
+ 401b30 00000000 00000000 e90e0000 12000000  ................
+ 401b40 00000000 00000000 00000000 00000000  ................
+ 401b50 d70e0000 12000000 00000000 00000000  ................
+ 401b60 00000000 00000000 db040000 12000000  ................
+ 401b70 00000000 00000000 00000000 00000000  ................
+ 401b80 ed050000 12000000 00000000 00000000  ................
+ 401b90 00000000 00000000 420d0000 12000000  ........B.......
+ 401ba0 00000000 00000000 00000000 00000000  ................
+ 401bb0 f00e0000 12000000 00000000 00000000  ................
+ 401bc0 00000000 00000000 090b0000 12000000  ................
+ 401bd0 00000000 00000000 00000000 00000000  ................
+ 401be0 80090000 12000000 00000000 00000000  ................
+ 401bf0 00000000 00000000 0a0e0000 12000000  ................
+ 401c00 00000000 00000000 00000000 00000000  ................
+ 401c10 68000000 12000000 00000000 00000000  h...............
+ 401c20 00000000 00000000 10010000 12000000  ................
+ 401c30 00000000 00000000 00000000 00000000  ................
+ 401c40 250d0000 12000000 00000000 00000000  %...............
+ 401c50 00000000 00000000 af0f0000 12000000  ................
+ 401c60 00000000 00000000 00000000 00000000  ................
+ 401c70 d9010000 12000000 00000000 00000000  ................
+ 401c80 00000000 00000000 1d000000 20000000  ............ ...
+ 401c90 00000000 00000000 00000000 00000000  ................
+ 401ca0 46000000 12000000 00000000 00000000  F...............
+ 401cb0 00000000 00000000 aa040000 12000000  ................
+ 401cc0 00000000 00000000 00000000 00000000  ................
+ 401cd0 6a0f0000 12000000 00000000 00000000  j...............
+ 401ce0 00000000 00000000 bf050000 12000000  ................
+ 401cf0 00000000 00000000 00000000 00000000  ................
+ 401d00 aa060000 12000000 00000000 00000000  ................
+ 401d10 00000000 00000000 2c000000 20000000  ........,... ...
+ 401d20 00000000 00000000 00000000 00000000  ................
+ 401d30 b3050000 12000000 00000000 00000000  ................
+ 401d40 00000000 00000000 220f0000 12000000  ........".......
+ 401d50 00000000 00000000 00000000 00000000  ................
+ 401d60 d10e0000 12000000 00000000 00000000  ................
+ 401d70 00000000 00000000 ca020000 12000000  ................
+ 401d80 00000000 00000000 00000000 00000000  ................
+ 401d90 d3060000 12000000 00000000 00000000  ................
+ 401da0 00000000 00000000 0a090000 12000000  ................
+ 401db0 00000000 00000000 00000000 00000000  ................
+ 401dc0 160a0000 12000000 00000000 00000000  ................
+ 401dd0 00000000 00000000 53100000 10001b00  ........S.......
+ 401de0 20daa700 00000000 00000000 00000000   ...............
+ 401df0 d00f0000 21001c00 40daa700 00000000  ....!...@.......
+ 401e00 08000000 00000000 66100000 10001c00  ........f.......
+ 401e10 c09b1001 00000000 00000000 00000000  ................
+ 401e20 d10f0000 21001c00 40daa700 00000000  ....!...@.......
+ 401e30 08000000 00000000 e70b0000 12000000  ................
+ 401e40 00000000 00000000 00000000 00000000  ................
+ 401e50 cf0f0000 11001c00 40daa700 00000000  ........@.......
+ 401e60 08000000 00000000 f00d0000 11001c00  ................
+ 401e70 50daa700 00000000 08000000 00000000  P...............
+ 401e80 fe0e0000 11001c00 a0dba700 00000000  ................
+ 401e90 08000000 00000000 5a100000 10001c00  ........Z.......
+ 401ea0 20daa700 00000000 00000000 00000000   ...............
+ 401eb0 a60c0000 11001c00 80daa700 00000000  ................
+ 401ec0 10010000 00000000                    ........        
+Contents of section .dynstr:
+ 401ec8 005f4954 4d5f6465 72656769 73746572  ._ITM_deregister
+ 401ed8 544d436c 6f6e6554 61626c65 005f5f67  TMCloneTable.__g
+ 401ee8 6d6f6e5f 73746172 745f5f00 5f49544d  mon_start__._ITM
+ 401ef8 5f726567 69737465 72544d43 6c6f6e65  _registerTMClone
+ 401f08 5461626c 6500676c 58476574 43757272  Table.glXGetCurr
+ 401f18 656e7443 6f6e7465 78740067 6c447261  entContext.glDra
+ 401f28 77427566 66657200 676c5853 77617042  wBuffer.glXSwapB
+ 401f38 75666665 72730067 6c566965 77706f72  uffers.glViewpor
+ 401f48 7400676c 584d616b 65436f6e 74657874  t.glXMakeContext
+ 401f58 43757272 656e7400 676c4472 61774172  Current.glDrawAr
+ 401f68 72617973 00676c41 6c706861 46756e63  rays.glAlphaFunc
+ 401f78 00676c56 65727465 78336476 00676c44  .glVertex3dv.glD
+ 401f88 69736162 6c65436c 69656e74 53746174  isableClientStat
+ 401f98 6500676c 52656164 42756666 65720067  e.glReadBuffer.g
+ 401fa8 6c476574 496e7465 67657276 00676c44  lGetIntegerv.glD
+ 401fb8 656c6574 65546578 74757265 7300676c  eleteTextures.gl
+ 401fc8 58446573 74726f79 436f6e74 65787400  XDestroyContext.
+ 401fd8 676c506f 704d6174 72697800 676c456e  glPopMatrix.glEn
+ 401fe8 61626c65 00676c58 47657450 726f6341  able.glXGetProcA
+ 401ff8 64647265 73734152 4200676c 4c6f6164  ddressARB.glLoad
+ 402008 4964656e 74697479 00676c50 6f70436c  Identity.glPopCl
+ 402018 69656e74 41747472 69620067 6c584372  ientAttrib.glXCr
+ 402028 65617465 4e657743 6f6e7465 78740067  eateNewContext.g
+ 402038 6c46726f 6e744661 63650067 6c547261  lFrontFace.glTra
+ 402048 6e736c61 74656600 676c4765 6e546578  nslatef.glGenTex
+ 402058 74757265 7300676c 43756c6c 46616365  tures.glCullFace
+ 402068 00676c56 65727465 78506f69 6e746572  .glVertexPointer
+ 402078 00676c50 6978656c 53746f72 65690067  .glPixelStorei.g
+ 402088 6c476574 53747269 6e670067 6c42696e  lGetString.glBin
+ 402098 64546578 74757265 00676c4f 7274686f  dTexture.glOrtho
+ 4020a8 00676c45 6e61626c 65436c69 656e7453  .glEnableClientS
+ 4020b8 74617465 00676c46 6c757368 00676c58  tate.glFlush.glX
+ 4020c8 51756572 79457874 656e7369 6f6e0067  QueryExtension.g
+ 4020d8 6c566572 74657832 6600676c 56657274  lVertex2f.glVert
+ 4020e8 65783269 00676c54 65785061 72616d65  ex2i.glTexParame
+ 4020f8 74657266 00676c54 65785061 72616d65  terf.glTexParame
+ 402108 74657269 00676c56 65727465 78336400  teri.glVertex3d.
+ 402118 676c5849 73446972 65637400 676c506f  glXIsDirect.glPo
+ 402128 70417474 72696200 676c436f 6c6f7234  pAttrib.glColor4
+ 402138 6600676c 4d617472 69784d6f 64650067  f.glMatrixMode.g
+ 402148 6c526173 74657250 6f733269 00676c58  lRasterPos2i.glX
+ 402158 47657456 69737561 6c46726f 6d464243  GetVisualFromFBC
+ 402168 6f6e6669 6700676c 44697361 626c6500  onfig.glDisable.
+ 402178 676c5075 73684d61 74726978 00676c54  glPushMatrix.glT
+ 402188 6578496d 61676532 4400676c 54657843  exImage2D.glTexC
+ 402198 6f6f7264 506f696e 74657200 676c4269  oordPointer.glBi
+ 4021a8 746d6170 00676c47 65744572 726f7200  tmap.glGetError.
+ 4021b8 676c5847 65744642 436f6e66 69674174  glXGetFBConfigAt
+ 4021c8 74726962 00676c43 6f6c6f72 34667600  trib.glColor4fv.
+ 4021d8 676c5847 6574436c 69656e74 53747269  glXGetClientStri
+ 4021e8 6e670067 6c436c65 61720067 6c536361  ng.glClear.glSca
+ 4021f8 6c656600 676c5843 686f6f73 65464243  lef.glXChooseFBC
+ 402208 6f6e6669 6700676c 50757368 41747472  onfig.glPushAttr
+ 402218 69620067 6c426567 696e0067 6c446570  ib.glBegin.glDep
+ 402228 74684d61 736b0067 6c585175 65727956  thMask.glXQueryV
+ 402238 65727369 6f6e0067 6c507573 68436c69  ersion.glPushCli
+ 402248 656e7441 74747269 6200676c 4e6f726d  entAttrib.glNorm
+ 402258 616c3364 7600676c 426c656e 6446756e  al3dv.glBlendFun
+ 402268 6300676c 4e6f726d 616c3364 00676c45  c.glNormal3d.glE
+ 402278 6e640067 6c754275 696c6432 444d6970  nd.gluBuild2DMip
+ 402288 6d617073 00676c75 50657273 70656374  maps.gluPerspect
+ 402298 69766500 676c754f 7274686f 32440058  ive.gluOrtho2D.X
+ 4022a8 50656e64 696e6700 58437265 61746543  Pending.XCreateC
+ 4022b8 6f6c6f72 6d617000 58526573 697a6557  olormap.XResizeW
+ 4022c8 696e646f 77005853 7472696e 674c6973  indow.XStringLis
+ 4022d8 74546f54 65787450 726f7065 72747900  tToTextProperty.
+ 4022e8 584f7065 6e446973 706c6179 00585365  XOpenDisplay.XSe
+ 4022f8 74457272 6f724861 6e646c65 72005843  tErrorHandler.XC
+ 402308 72656174 65466f6e 74437572 736f7200  reateFontCursor.
+ 402318 58496e74 65726e41 746f6d00 58576172  XInternAtom.XWar
+ 402328 70506f69 6e746572 00585065 656b4966  pPointer.XPeekIf
+ 402338 4576656e 74005853 656e6445 76656e74  Event.XSendEvent
+ 402348 00585365 74436c6f 7365446f 776e4d6f  .XSetCloseDownMo
+ 402358 64650058 43686563 6b547970 65645769  de.XCheckTypedWi
+ 402368 6e646f77 4576656e 74005847 65745365  ndowEvent.XGetSe
+ 402378 6c656374 696f6e4f 776e6572 00584765  lectionOwner.XGe
+ 402388 74457272 6f725465 78740058 556e6772  tErrorText.XUngr
+ 402398 61624b65 79626f61 72640058 47657457  abKeyboard.XGetW
+ 4023a8 696e646f 77417474 72696275 74657300  indowAttributes.
+ 4023b8 58536574 574d4e61 6d650058 44657374  XSetWMName.XDest
+ 4023c8 726f7957 696e646f 7700584d 61705769  royWindow.XMapWi
+ 4023d8 6e646f77 00584c6f 6f6b7570 53747269  ndow.XLookupStri
+ 4023e8 6e670058 50617273 6547656f 6d657472  ng.XParseGeometr
+ 4023f8 79005851 75657279 4b65796d 61700058  y.XQueryKeymap.X
+ 402408 47657457 696e646f 7750726f 70657274  GetWindowPropert
+ 402418 79005846 6c757368 00584465 6c657465  y.XFlush.XDelete
+ 402428 50726f70 65727479 00584765 74574d4e  Property.XGetWMN
+ 402438 616d6500 58446566 696e6543 7572736f  ame.XDefineCurso
+ 402448 72005853 6574574d 49636f6e 4e616d65  r.XSetWMIconName
+ 402458 0058556e 67726162 506f696e 74657200  .XUngrabPointer.
+ 402468 584c6f77 65725769 6e646f77 00584672  XLowerWindow.XFr
+ 402478 65650058 53746f72 65427974 65730058  ee.XStoreBytes.X
+ 402488 436c6f73 65446973 706c6179 00584765  CloseDisplay.XGe
+ 402498 74506f69 6e746572 4d617070 696e6700  tPointerMapping.
+ 4024a8 58526169 73655769 6e646f77 00584672  XRaiseWindow.XFr
+ 4024b8 65655069 786d6170 0058556e 6d617057  eePixmap.XUnmapW
+ 4024c8 696e646f 77005855 6e646566 696e6543  indow.XUndefineC
+ 4024d8 7572736f 72005843 72656174 65426974  ursor.XCreateBit
+ 4024e8 6d617046 726f6d44 61746100 58526566  mapFromData.XRef
+ 4024f8 72657368 4b657962 6f617264 4d617070  reshKeyboardMapp
+ 402508 696e6700 58436f6e 76657274 53656c65  ing.XConvertSele
+ 402518 6374696f 6e005854 72616e73 6c617465  ction.XTranslate
+ 402528 436f6f72 64696e61 74657300 58466574  Coordinates.XFet
+ 402538 63684279 74657300 584e6578 74457665  chBytes.XNextEve
+ 402548 6e740058 43726561 74655069 786d6170  nt.XCreatePixmap
+ 402558 43757273 6f720058 53657453 656c6563  Cursor.XSetSelec
+ 402568 74696f6e 4f776e65 72005853 796e6300  tionOwner.XSync.
+ 402578 584d6f76 65526573 697a6557 696e646f  XMoveResizeWindo
+ 402588 77005853 6574574d 50726f70 65727469  w.XSetWMProperti
+ 402598 65730058 43686563 6b496645 76656e74  es.XCheckIfEvent
+ 4025a8 00585365 74574d50 726f746f 636f6c73  .XSetWMProtocols
+ 4025b8 00585769 74686472 61775769 6e646f77  .XWithdrawWindow
+ 4025c8 00584469 73706c61 794e616d 65005843  .XDisplayName.XC
+ 4025d8 68616e67 6550726f 70657274 79005851  hangeProperty.XQ
+ 4025e8 75657279 506f696e 74657200 58437265  ueryPointer.XCre
+ 4025f8 61746557 696e646f 7700584d 6f766557  ateWindow.XMoveW
+ 402608 696e646f 77005849 636f6e69 66795769  indow.XIconifyWi
+ 402618 6e646f77 0073656e 64007074 68726561  ndow.send.pthrea
+ 402628 645f6d75 7465785f 696e6974 00726563  d_mutex_init.rec
+ 402638 76005f5f 6572726e 6f5f6c6f 63617469  v.__errno_locati
+ 402648 6f6e0070 74687265 61645f6d 75746578  on.pthread_mutex
+ 402658 5f6c6f63 6b006163 63657074 00707468  _lock.accept.pth
+ 402668 72656164 5f637265 61746500 73696761  read_create.siga
+ 402678 6374696f 6e00636f 6e6e6563 74007074  ction.connect.pt
+ 402688 68726561 645f6d75 7465785f 756e6c6f  hread_mutex_unlo
+ 402698 636b005f 5a4e5374 31346261 7369635f  ck._ZNSt14basic_
+ 4026a8 69667374 7265616d 49635374 31316368  ifstreamIcSt11ch
+ 4026b8 61725f74 72616974 73496345 45346f70  ar_traitsIcEE4op
+ 4026c8 656e4550 4b635374 31335f49 6f735f4f  enEPKcSt13_Ios_O
+ 4026d8 70656e6d 6f646500 5f5a4e53 74313362  penmode._ZNSt13b
+ 4026e8 61736963 5f667374 7265616d 49635374  asic_fstreamIcSt
+ 4026f8 31316368 61725f74 72616974 73496345  11char_traitsIcE
+ 402708 45376973 5f6f7065 6e457600 5f5a4e53  E7is_openEv._ZNS
+ 402718 74396261 7369635f 696f7349 63537431  t9basic_iosIcSt1
+ 402728 31636861 725f7472 61697473 49634545  1char_traitsIcEE
+ 402738 35636c65 61724553 7431325f 496f735f  5clearESt12_Ios_
+ 402748 496f7374 61746500 5f5a4e53 6f357365  Iostate._ZNSo5se
+ 402758 656b7045 6c537431 325f496f 735f5365  ekpElSt12_Ios_Se
+ 402768 656b6469 72005f5a 4e537431 34626173  ekdir._ZNSt14bas
+ 402778 69635f69 66737472 65616d49 63537431  ic_ifstreamIcSt1
+ 402788 31636861 725f7472 61697473 49634545  1char_traitsIcEE
+ 402798 43314576 005f5a4e 53743134 62617369  C1Ev._ZNSt14basi
+ 4027a8 635f6f66 73747265 616d4963 53743131  c_ofstreamIcSt11
+ 4027b8 63686172 5f747261 69747349 63454537  char_traitsIcEE7
+ 4027c8 69735f6f 70656e45 76005f5a 4e4b5369  is_openEv._ZNKSi
+ 4027d8 3667636f 756e7445 76005f5a 646c5076  6gcountEv._ZdlPv
+ 4027e8 6d005f5a 4e536935 7365656b 67455374  m._ZNSi5seekgESt
+ 4027f8 3466706f 73493131 5f5f6d62 73746174  4fposI11__mbstat
+ 402808 655f7445 005f5a53 7434656e 646c4963  e_tE._ZSt4endlIc
+ 402818 53743131 63686172 5f747261 69747349  St11char_traitsI
+ 402828 63454552 53743133 62617369 635f6f73  cEERSt13basic_os
+ 402838 74726561 6d49545f 54305f45 53365f00  treamIT_T0_ES6_.
+ 402848 5f5f6378 615f6775 6172645f 61637175  __cxa_guard_acqu
+ 402858 69726500 5f5a4e53 74313362 61736963  ire._ZNSt13basic
+ 402868 5f667374 7265616d 49635374 31316368  _fstreamIcSt11ch
+ 402878 61725f74 72616974 73496345 45346f70  ar_traitsIcEE4op
+ 402888 656e4550 4b635374 31335f49 6f735f4f  enEPKcSt13_Ios_O
+ 402898 70656e6d 6f646500 5f5a4e53 74313462  penmode._ZNSt14b
+ 4028a8 61736963 5f6f6673 74726561 6d496353  asic_ofstreamIcS
+ 4028b8 74313163 6861725f 74726169 74734963  t11char_traitsIc
+ 4028c8 45454331 4576005f 5a4e5369 34726561  EEC1Ev._ZNSi4rea
+ 4028d8 64455063 6c005f5a 4e537438 696f735f  dEPcl._ZNSt8ios_
+ 4028e8 62617365 34496e69 74443145 76005f5a  base4InitD1Ev._Z
+ 4028f8 4e537431 33626173 69635f66 73747265  NSt13basic_fstre
+ 402908 616d4963 53743131 63686172 5f747261  amIcSt11char_tra
+ 402918 69747349 63454543 31457600 5f5a4e53  itsIcEEC1Ev._ZNS
+ 402928 74313462 61736963 5f696673 74726561  t14basic_ifstrea
+ 402938 6d496353 74313163 6861725f 74726169  mIcSt11char_trai
+ 402948 74734963 45453769 735f6f70 656e4576  tsIcEE7is_openEv
+ 402958 005f5a4e 53743133 62617369 635f6673  ._ZNSt13basic_fs
+ 402968 74726561 6d496353 74313163 6861725f  treamIcSt11char_
+ 402978 74726169 74734963 45453563 6c6f7365  traitsIcEE5close
+ 402988 4576005f 5a4e536f 6c734550 4652536f  Ev._ZNSolsEPFRSo
+ 402998 535f4500 5f5f6378 615f6775 6172645f  S_E.__cxa_guard_
+ 4029a8 61626f72 74005f5a 4e536f35 7365656b  abort._ZNSo5seek
+ 4029b8 70455374 3466706f 73493131 5f5f6d62  pESt4fposI11__mb
+ 4029c8 73746174 655f7445 005f5a4e 4b537439  state_tE._ZNKSt9
+ 4029d8 62617369 635f696f 73496353 74313163  basic_iosIcSt11c
+ 4029e8 6861725f 74726169 74734963 45453362  har_traitsIcEE3b
+ 4029f8 61644576 005f5f63 78615f67 75617264  adEv.__cxa_guard
+ 402a08 5f72656c 65617365 005f5f67 78785f70  _release.__gxx_p
+ 402a18 6572736f 6e616c69 74795f76 30005f5a  ersonality_v0._Z
+ 402a28 4e537431 34626173 69635f6f 66737472  NSt14basic_ofstr
+ 402a38 65616d49 63537431 31636861 725f7472  eamIcSt11char_tr
+ 402a48 61697473 49634545 346f7065 6e45504b  aitsIcEE4openEPK
+ 402a58 63537431 335f496f 735f4f70 656e6d6f  cSt13_Ios_Openmo
+ 402a68 6465005f 5a4e536f 35777269 74654550  de._ZNSo5writeEP
+ 402a78 4b636c00 5f5a4e53 74313462 61736963  Kcl._ZNSt14basic
+ 402a88 5f6f6673 74726561 6d496353 74313163  _ofstreamIcSt11c
+ 402a98 6861725f 74726169 74734963 45453563  har_traitsIcEE5c
+ 402aa8 6c6f7365 4576005f 5a4e5374 31346261  loseEv._ZNSt14ba
+ 402ab8 7369635f 69667374 7265616d 49635374  sic_ifstreamIcSt
+ 402ac8 31316368 61725f74 72616974 73496345  11char_traitsIcE
+ 402ad8 45443145 76005f5a 53746c73 49537431  ED1Ev._ZStlsISt1
+ 402ae8 31636861 725f7472 61697473 49634545  1char_traitsIcEE
+ 402af8 52537431 33626173 69635f6f 73747265  RSt13basic_ostre
+ 402b08 616d4963 545f4553 355f504b 63005f5a  amIcT_ES5_PKc._Z
+ 402b18 4e536935 74656c6c 67457600 5f5a6e77  NSi5tellgEv._Znw
+ 402b28 6d005f5a 4e537438 696f735f 62617365  m._ZNSt8ios_base
+ 402b38 34496e69 74433145 76005f5a 4e536f35  4InitC1Ev._ZNSo5
+ 402b48 74656c6c 70457600 5f5a4e53 69357365  tellpEv._ZNSi5se
+ 402b58 656b6745 6c537431 325f496f 735f5365  ekgElSt12_Ios_Se
+ 402b68 656b6469 72005f5a 53743463 6f757400  ekdir._ZSt4cout.
+ 402b78 5f5a4e53 74313462 61736963 5f6f6673  _ZNSt14basic_ofs
+ 402b88 74726561 6d496353 74313163 6861725f  treamIcSt11char_
+ 402b98 74726169 74734963 45454431 4576005f  traitsIcEED1Ev._
+ 402ba8 5a4e5374 31346261 7369635f 69667374  ZNSt14basic_ifst
+ 402bb8 7265616d 49635374 31316368 61725f74  reamIcSt11char_t
+ 402bc8 72616974 73496345 4535636c 6f736545  raitsIcEE5closeE
+ 402bd8 76006173 696e6c00 73696e00 666c6f6f  v.asinl.sin.floo
+ 402be8 72007369 6e636f73 00737172 74006365  r.sincos.sqrt.ce
+ 402bf8 696c0070 6f776c00 6578706c 00617461  il.powl.expl.ata
+ 402c08 6e006578 70006174 616e6c00 61636f73  n.exp.atanl.acos
+ 402c18 6c006c6f 67005f55 6e77696e 645f5265  l.log._Unwind_Re
+ 402c28 73756d65 00736f63 6b657400 73707269  sume.socket.spri
+ 402c38 6e746600 666f7065 6e007374 726e636d  ntf.fopen.strncm
+ 402c48 70007374 72726368 72007065 72726f72  p.strrchr.perror
+ 402c58 00737461 74005f5f 69736f63 39395f73  .stat.__isoc99_s
+ 402c68 7363616e 66006e61 6e6f736c 65657000  scanf.nanosleep.
+ 402c78 6674656c 6c007374 726e6370 7900666f  ftell.strncpy.fo
+ 402c88 726b005f 5f737461 636b5f63 686b5f66  rk.__stack_chk_f
+ 402c98 61696c00 6c697374 656e0073 656c6563  ail.listen.selec
+ 402ca8 74006d6b 64697200 7265616c 6c6f6300  t.mkdir.realloc.
+ 402cb8 73746469 6e005f65 78697400 6d656d63  stdin._exit.memc
+ 402cc8 68720067 65747069 64007374 72647570  hr.getpid.strdup
+ 402cd8 00737472 746f6b00 63667365 74697370  .strtok.cfsetisp
+ 402ce8 65656400 66676574 63006361 6c6c6f63  eed.fgetc.calloc
+ 402cf8 00737472 6c656e00 5f5f6378 615f6174  .strlen.__cxa_at
+ 402d08 65786974 00736967 656d7074 79736574  exit.sigemptyset
+ 402d18 00676574 61646472 696e666f 006d656d  .getaddrinfo.mem
+ 402d28 73657400 6469726e 616d6500 73747273  set.dirname.strs
+ 402d38 74720073 74726373 706e0072 6d646972  tr.strcspn.rmdir
+ 402d48 00746373 65746174 74720062 696e6400  .tcsetattr.bind.
+ 402d58 66736565 6b006368 64697200 6d656d63  fseek.chdir.memc
+ 402d68 6d70006c 6f6e676a 6d700073 68757464  mp.longjmp.shutd
+ 402d78 6f776e00 5f736574 6a6d7000 70757465  own._setjmp.pute
+ 402d88 6e760066 70757463 006d656d 63707900  nv.fputc.memcpy.
+ 402d98 66636c6f 73650073 6574736f 636b6f70  fclose.setsockop
+ 402da8 74006d61 6c6c6f63 00737472 63617400  t.malloc.strcat.
+ 402db8 72656d6f 76650067 6574656e 76007374  remove.getenv.st
+ 402dc8 64657272 00696f63 746c0073 79737465  derr.ioctl.syste
+ 402dd8 6d007265 61646c69 6e6b0067 65746377  m.readlink.getcw
+ 402de8 64006677 72697465 00667265 61640072  d.fwrite.fread.r
+ 402df8 656e616d 6500636c 6f636b5f 67657474  ename.clock_gett
+ 402e08 696d6500 7463666c 75736800 61746f6c  ime.tcflush.atol
+ 402e18 006c6f63 616c7469 6d650073 74726368  .localtime.strch
+ 402e28 72006670 72696e74 66007173 6f727400  r.fprintf.qsort.
+ 402e38 74636765 74617474 72006672 65656164  tcgetattr.freead
+ 402e48 6472696e 666f0066 636e746c 00636673  drinfo.fcntl.cfs
+ 402e58 65746f73 70656564 006d656d 6d6f7665  etospeed.memmove
+ 402e68 00616363 65737300 73747263 6d70005f  .access.strcmp._
+ 402e78 5f6c6962 635f7374 6172745f 6d61696e  _libc_start_main
+ 402e88 00736e70 72696e74 66006672 6565005f  .snprintf.free._
+ 402e98 5f656e76 69726f6e 006c6962 474c2e73  _environ.libGL.s
+ 402ea8 6f2e3100 6c696247 4c552e73 6f2e3100  o.1.libGLU.so.1.
+ 402eb8 6c696258 31312e73 6f2e3600 6c696270  libX11.so.6.libp
+ 402ec8 74687265 61642e73 6f2e3000 6c696264  thread.so.0.libd
+ 402ed8 6c2e736f 2e32006c 69627274 2e736f2e  l.so.2.librt.so.
+ 402ee8 31006c69 62737464 632b2b2e 736f2e36  1.libstdc++.so.6
+ 402ef8 006c6962 6d2e736f 2e36006c 69626763  .libm.so.6.libgc
+ 402f08 635f732e 736f2e31 006c6962 632e736f  c_s.so.1.libc.so
+ 402f18 2e36005f 65646174 61005f5f 6273735f  .6._edata.__bss_
+ 402f28 73746172 74005f65 6e640047 43435f33  start._end.GCC_3
+ 402f38 2e300047 4c494243 5f322e32 3900474c  .0.GLIBC_2.29.GL
+ 402f48 4942435f 322e322e 35004358 58414249  IBC_2.2.5.CXXABI
+ 402f58 5f312e33 2e390043 58584142 495f312e  _1.3.9.CXXABI_1.
+ 402f68 3300474c 49424358 585f332e 3400474c  3.GLIBCXX_3.4.GL
+ 402f78 4942435f 322e3400 474c4942 435f322e  IBC_2.4.GLIBC_2.
+ 402f88 3700474c 4942435f 322e3137 00474c49  7.GLIBC_2.17.GLI
+ 402f98 42435f32 2e333300 474c4942 435f322e  BC_2.33.GLIBC_2.
+ 402fa8 313400                               14.             
+Contents of section .gnu.version:
+ 402fac 00000200 00000300 00000200 04000000  ................
+ 402fbc 04000200 02000500 00000200 05000400  ................
+ 402fcc 05000200 00000000 00000200 00000000  ................
+ 402fdc 00000000 00000200 00000000 02000000  ................
+ 402fec 03000300 00000000 03000000 02000200  ................
+ 402ffc 00000000 02000200 02000200 00000200  ................
+ 40300c 00000200 04000300 00000000 02000200  ................
+ 40301c 00000000 02000500 00000000 03000200  ................
+ 40302c 00000500 00000200 00000000 05000200  ................
+ 40303c 00000500 00000400 00000600 00000600  ................
+ 40304c 00000200 00000000 03000200 00000300  ................
+ 40305c 04000500 00000700 00000000 00000800  ................
+ 40306c 03000500 00000000 02000400 02000000  ................
+ 40307c 00000000 02000000 09000400 0a000200  ................
+ 40308c 00000000 00000200 00000000 00000b00  ................
+ 40309c 04000400 02000400 00000c00 00000000  ................
+ 4030ac 00000400 02000000 02000200 00000200  ................
+ 4030bc 02000200 0d000200 00000000 00000200  ................
+ 4030cc 04000000 02000000 04000200 00000400  ................
+ 4030dc 00000500 02000200 02000000 00000000  ................
+ 4030ec 00000200 02000300 02000000 00000000  ................
+ 4030fc 04000200 04000000 00000200 00000000  ................
+ 40310c 00000400 02000000 04000000 00000000  ................
+ 40311c 00000000 02000000 00000000 02000200  ................
+ 40312c 00000000 04000000 02000000 00000000  ................
+ 40313c 03000200 02000000 00000300 02000400  ................
+ 40314c 00000300 02000000 00000200 05000000  ................
+ 40315c 04000000 00000000 02000200 00000000  ................
+ 40316c 00000000 00000200 04000000 02000200  ................
+ 40317c 00000200 06000500 02000500 05000500  ................
+ 40318c 04000400 04000400 00000000 0e000200  ................
+ 40319c 02000000 00000700 02000400 06000200  ................
+ 4031ac 00000000 05000200 00000000 00000000  ................
+ 4031bc 02000000 00000000 00000200 03000000  ................
+ 4031cc 00000400 04000100 02000100 02000400  ................
+ 4031dc 02000200 02000100 0400               ..........      
+Contents of section .gnu.version_r:
+ 4031e8 01000100 3b100000 10000000 20000000  ....;....... ...
+ 4031f8 5026790b 00000e00 6b100000 00000000  P&y.....k.......
+ 403208 01000200 31100000 10000000 30000000  ....1.......0...
+ 403218 89919606 00000700 73100000 10000000  ........s.......
+ 403228 751a6909 00000500 7e100000 00000000  u.i.....~.......
+ 403238 01000300 22100000 10000000 40000000  ....".......@...
+ 403248 79d1af0b 00000c00 8a100000 10000000  y...............
+ 403258 d3af6b05 00000600 97100000 10000000  ..k.............
+ 403268 74299208 00000400 a2100000 00000000  t)..............
+ 403278 01000100 fc0f0000 10000000 20000000  ............ ...
+ 403288 751a6909 00000300 7e100000 00000000  u.i.....~.......
+ 403298 01000600 49100000 10000000 00000000  ....I...........
+ 4032a8 1469690d 00000d00 ae100000 10000000  .ii.............
+ 4032b8 1769690d 00000b00 b8100000 10000000  .ii.............
+ 4032c8 97919606 00000a00 c2100000 10000000  ................
+ 4032d8 b3919606 00000900 cd100000 10000000  ................
+ 4032e8 94919606 00000800 d8100000 10000000  ................
+ 4032f8 751a6909 00000200 7e100000 00000000  u.i.....~.......
+Contents of section .rela.dyn:
+ 403308 b07fa700 00000000 06000000 17010000  ................
+ 403318 00000000 00000000 b87fa700 00000000  ................
+ 403328 06000000 32000000 00000000 00000000  ....2...........
+ 403338 c07fa700 00000000 06000000 cf000000  ................
+ 403348 00000000 00000000 c87fa700 00000000  ................
+ 403358 06000000 f5000000 00000000 00000000  ................
+ 403368 d07fa700 00000000 06000000 03010000  ................
+ 403378 00000000 00000000 d87fa700 00000000  ................
+ 403388 06000000 05010000 00000000 00000000  ................
+ 403398 e07fa700 00000000 06000000 0b010000  ................
+ 4033a8 00000000 00000000 e87fa700 00000000  ................
+ 4033b8 06000000 12010000 00000000 00000000  ................
+ 4033c8 d088a700 00000000 01000000 ea000000  ................
+ 4033d8 00000000 00000000 40daa700 00000000  ........@.......
+ 4033e8 05000000 18010000 00000000 00000000  ................
+ 4033f8 50daa700 00000000 05000000 19010000  P...............
+ 403408 00000000 00000000 80daa700 00000000  ................
+ 403418 05000000 1c010000 00000000 00000000  ................
+ 403428 a0dba700 00000000 05000000 1a010000  ................
+ 403438 00000000 00000000                    ........        
+Contents of section .rela.plt:
+ 403440 1880a700 00000000 07000000 01000000  ................
+ 403450 00000000 00000000 2080a700 00000000  ........ .......
+ 403460 07000000 02000000 00000000 00000000  ................
+ 403470 2880a700 00000000 07000000 03000000  (...............
+ 403480 00000000 00000000 3080a700 00000000  ........0.......
+ 403490 07000000 04000000 00000000 00000000  ................
+ 4034a0 3880a700 00000000 07000000 05000000  8...............
+ 4034b0 00000000 00000000 4080a700 00000000  ........@.......
+ 4034c0 07000000 06000000 00000000 00000000  ................
+ 4034d0 4880a700 00000000 07000000 07000000  H...............
+ 4034e0 00000000 00000000 5080a700 00000000  ........P.......
+ 4034f0 07000000 08000000 00000000 00000000  ................
+ 403500 5880a700 00000000 07000000 09000000  X...............
+ 403510 00000000 00000000 6080a700 00000000  ........`.......
+ 403520 07000000 0a000000 00000000 00000000  ................
+ 403530 6880a700 00000000 07000000 0b000000  h...............
+ 403540 00000000 00000000 7080a700 00000000  ........p.......
+ 403550 07000000 0c000000 00000000 00000000  ................
+ 403560 7880a700 00000000 07000000 0d000000  x...............
+ 403570 00000000 00000000 8080a700 00000000  ................
+ 403580 07000000 0e000000 00000000 00000000  ................
+ 403590 8880a700 00000000 07000000 0f000000  ................
+ 4035a0 00000000 00000000 9080a700 00000000  ................
+ 4035b0 07000000 10000000 00000000 00000000  ................
+ 4035c0 9880a700 00000000 07000000 11000000  ................
+ 4035d0 00000000 00000000 a080a700 00000000  ................
+ 4035e0 07000000 12000000 00000000 00000000  ................
+ 4035f0 a880a700 00000000 07000000 13000000  ................
+ 403600 00000000 00000000 b080a700 00000000  ................
+ 403610 07000000 14000000 00000000 00000000  ................
+ 403620 b880a700 00000000 07000000 15000000  ................
+ 403630 00000000 00000000 c080a700 00000000  ................
+ 403640 07000000 16000000 00000000 00000000  ................
+ 403650 c880a700 00000000 07000000 17000000  ................
+ 403660 00000000 00000000 d080a700 00000000  ................
+ 403670 07000000 18000000 00000000 00000000  ................
+ 403680 d880a700 00000000 07000000 19000000  ................
+ 403690 00000000 00000000 e080a700 00000000  ................
+ 4036a0 07000000 1a000000 00000000 00000000  ................
+ 4036b0 e880a700 00000000 07000000 1b000000  ................
+ 4036c0 00000000 00000000 f080a700 00000000  ................
+ 4036d0 07000000 1c000000 00000000 00000000  ................
+ 4036e0 f880a700 00000000 07000000 1d000000  ................
+ 4036f0 00000000 00000000 0081a700 00000000  ................
+ 403700 07000000 1e000000 00000000 00000000  ................
+ 403710 0881a700 00000000 07000000 1f000000  ................
+ 403720 00000000 00000000 1081a700 00000000  ................
+ 403730 07000000 20000000 00000000 00000000  .... ...........
+ 403740 1881a700 00000000 07000000 21000000  ............!...
+ 403750 00000000 00000000 2081a700 00000000  ........ .......
+ 403760 07000000 22000000 00000000 00000000  ...."...........
+ 403770 2881a700 00000000 07000000 23000000  (...........#...
+ 403780 00000000 00000000 3081a700 00000000  ........0.......
+ 403790 07000000 24000000 00000000 00000000  ....$...........
+ 4037a0 3881a700 00000000 07000000 25000000  8...........%...
+ 4037b0 00000000 00000000 4081a700 00000000  ........@.......
+ 4037c0 07000000 26000000 00000000 00000000  ....&...........
+ 4037d0 4881a700 00000000 07000000 27000000  H...........'...
+ 4037e0 00000000 00000000 5081a700 00000000  ........P.......
+ 4037f0 07000000 28000000 00000000 00000000  ....(...........
+ 403800 5881a700 00000000 07000000 29000000  X...........)...
+ 403810 00000000 00000000 6081a700 00000000  ........`.......
+ 403820 07000000 2a000000 00000000 00000000  ....*...........
+ 403830 6881a700 00000000 07000000 2b000000  h...........+...
+ 403840 00000000 00000000 7081a700 00000000  ........p.......
+ 403850 07000000 2c000000 00000000 00000000  ....,...........
+ 403860 7881a700 00000000 07000000 2d000000  x...........-...
+ 403870 00000000 00000000 8081a700 00000000  ................
+ 403880 07000000 2e000000 00000000 00000000  ................
+ 403890 8881a700 00000000 07000000 2f000000  ............/...
+ 4038a0 00000000 00000000 9081a700 00000000  ................
+ 4038b0 07000000 30000000 00000000 00000000  ....0...........
+ 4038c0 9881a700 00000000 07000000 31000000  ............1...
+ 4038d0 00000000 00000000 a081a700 00000000  ................
+ 4038e0 07000000 33000000 00000000 00000000  ....3...........
+ 4038f0 a881a700 00000000 07000000 34000000  ............4...
+ 403900 00000000 00000000 b081a700 00000000  ................
+ 403910 07000000 35000000 00000000 00000000  ....5...........
+ 403920 b881a700 00000000 07000000 36000000  ............6...
+ 403930 00000000 00000000 c081a700 00000000  ................
+ 403940 07000000 37000000 00000000 00000000  ....7...........
+ 403950 c881a700 00000000 07000000 38000000  ............8...
+ 403960 00000000 00000000 d081a700 00000000  ................
+ 403970 07000000 39000000 00000000 00000000  ....9...........
+ 403980 d881a700 00000000 07000000 3a000000  ............:...
+ 403990 00000000 00000000 e081a700 00000000  ................
+ 4039a0 07000000 3b000000 00000000 00000000  ....;...........
+ 4039b0 e881a700 00000000 07000000 3c000000  ............<...
+ 4039c0 00000000 00000000 f081a700 00000000  ................
+ 4039d0 07000000 3d000000 00000000 00000000  ....=...........
+ 4039e0 f881a700 00000000 07000000 3e000000  ............>...
+ 4039f0 00000000 00000000 0082a700 00000000  ................
+ 403a00 07000000 3f000000 00000000 00000000  ....?...........
+ 403a10 0882a700 00000000 07000000 40000000  ............@...
+ 403a20 00000000 00000000 1082a700 00000000  ................
+ 403a30 07000000 41000000 00000000 00000000  ....A...........
+ 403a40 1882a700 00000000 07000000 42000000  ............B...
+ 403a50 00000000 00000000 2082a700 00000000  ........ .......
+ 403a60 07000000 43000000 00000000 00000000  ....C...........
+ 403a70 2882a700 00000000 07000000 44000000  (...........D...
+ 403a80 00000000 00000000 3082a700 00000000  ........0.......
+ 403a90 07000000 45000000 00000000 00000000  ....E...........
+ 403aa0 3882a700 00000000 07000000 46000000  8...........F...
+ 403ab0 00000000 00000000 4082a700 00000000  ........@.......
+ 403ac0 07000000 47000000 00000000 00000000  ....G...........
+ 403ad0 4882a700 00000000 07000000 48000000  H...........H...
+ 403ae0 00000000 00000000 5082a700 00000000  ........P.......
+ 403af0 07000000 49000000 00000000 00000000  ....I...........
+ 403b00 5882a700 00000000 07000000 4a000000  X...........J...
+ 403b10 00000000 00000000 6082a700 00000000  ........`.......
+ 403b20 07000000 4b000000 00000000 00000000  ....K...........
+ 403b30 6882a700 00000000 07000000 4c000000  h...........L...
+ 403b40 00000000 00000000 7082a700 00000000  ........p.......
+ 403b50 07000000 4d000000 00000000 00000000  ....M...........
+ 403b60 7882a700 00000000 07000000 4e000000  x...........N...
+ 403b70 00000000 00000000 8082a700 00000000  ................
+ 403b80 07000000 4f000000 00000000 00000000  ....O...........
+ 403b90 8882a700 00000000 07000000 50000000  ............P...
+ 403ba0 00000000 00000000 9082a700 00000000  ................
+ 403bb0 07000000 51000000 00000000 00000000  ....Q...........
+ 403bc0 9882a700 00000000 07000000 52000000  ............R...
+ 403bd0 00000000 00000000 a082a700 00000000  ................
+ 403be0 07000000 53000000 00000000 00000000  ....S...........
+ 403bf0 a882a700 00000000 07000000 54000000  ............T...
+ 403c00 00000000 00000000 b082a700 00000000  ................
+ 403c10 07000000 55000000 00000000 00000000  ....U...........
+ 403c20 b882a700 00000000 07000000 56000000  ............V...
+ 403c30 00000000 00000000 c082a700 00000000  ................
+ 403c40 07000000 57000000 00000000 00000000  ....W...........
+ 403c50 c882a700 00000000 07000000 58000000  ............X...
+ 403c60 00000000 00000000 d082a700 00000000  ................
+ 403c70 07000000 59000000 00000000 00000000  ....Y...........
+ 403c80 d882a700 00000000 07000000 5a000000  ............Z...
+ 403c90 00000000 00000000 e082a700 00000000  ................
+ 403ca0 07000000 5b000000 00000000 00000000  ....[...........
+ 403cb0 e882a700 00000000 07000000 5c000000  ............\...
+ 403cc0 00000000 00000000 f082a700 00000000  ................
+ 403cd0 07000000 5d000000 00000000 00000000  ....]...........
+ 403ce0 f882a700 00000000 07000000 5e000000  ............^...
+ 403cf0 00000000 00000000 0083a700 00000000  ................
+ 403d00 07000000 5f000000 00000000 00000000  ...._...........
+ 403d10 0883a700 00000000 07000000 60000000  ............`...
+ 403d20 00000000 00000000 1083a700 00000000  ................
+ 403d30 07000000 61000000 00000000 00000000  ....a...........
+ 403d40 1883a700 00000000 07000000 62000000  ............b...
+ 403d50 00000000 00000000 2083a700 00000000  ........ .......
+ 403d60 07000000 63000000 00000000 00000000  ....c...........
+ 403d70 2883a700 00000000 07000000 64000000  (...........d...
+ 403d80 00000000 00000000 3083a700 00000000  ........0.......
+ 403d90 07000000 65000000 00000000 00000000  ....e...........
+ 403da0 3883a700 00000000 07000000 66000000  8...........f...
+ 403db0 00000000 00000000 4083a700 00000000  ........@.......
+ 403dc0 07000000 67000000 00000000 00000000  ....g...........
+ 403dd0 4883a700 00000000 07000000 68000000  H...........h...
+ 403de0 00000000 00000000 5083a700 00000000  ........P.......
+ 403df0 07000000 69000000 00000000 00000000  ....i...........
+ 403e00 5883a700 00000000 07000000 6a000000  X...........j...
+ 403e10 00000000 00000000 6083a700 00000000  ........`.......
+ 403e20 07000000 6b000000 00000000 00000000  ....k...........
+ 403e30 6883a700 00000000 07000000 6c000000  h...........l...
+ 403e40 00000000 00000000 7083a700 00000000  ........p.......
+ 403e50 07000000 6d000000 00000000 00000000  ....m...........
+ 403e60 7883a700 00000000 07000000 6e000000  x...........n...
+ 403e70 00000000 00000000 8083a700 00000000  ................
+ 403e80 07000000 6f000000 00000000 00000000  ....o...........
+ 403e90 8883a700 00000000 07000000 70000000  ............p...
+ 403ea0 00000000 00000000 9083a700 00000000  ................
+ 403eb0 07000000 71000000 00000000 00000000  ....q...........
+ 403ec0 9883a700 00000000 07000000 72000000  ............r...
+ 403ed0 00000000 00000000 a083a700 00000000  ................
+ 403ee0 07000000 73000000 00000000 00000000  ....s...........
+ 403ef0 a883a700 00000000 07000000 74000000  ............t...
+ 403f00 00000000 00000000 b083a700 00000000  ................
+ 403f10 07000000 75000000 00000000 00000000  ....u...........
+ 403f20 b883a700 00000000 07000000 76000000  ............v...
+ 403f30 00000000 00000000 c083a700 00000000  ................
+ 403f40 07000000 77000000 00000000 00000000  ....w...........
+ 403f50 c883a700 00000000 07000000 78000000  ............x...
+ 403f60 00000000 00000000 d083a700 00000000  ................
+ 403f70 07000000 79000000 00000000 00000000  ....y...........
+ 403f80 d883a700 00000000 07000000 7a000000  ............z...
+ 403f90 00000000 00000000 e083a700 00000000  ................
+ 403fa0 07000000 7b000000 00000000 00000000  ....{...........
+ 403fb0 e883a700 00000000 07000000 7c000000  ............|...
+ 403fc0 00000000 00000000 f083a700 00000000  ................
+ 403fd0 07000000 7d000000 00000000 00000000  ....}...........
+ 403fe0 f883a700 00000000 07000000 7e000000  ............~...
+ 403ff0 00000000 00000000 0084a700 00000000  ................
+ 404000 07000000 7f000000 00000000 00000000  ................
+ 404010 0884a700 00000000 07000000 80000000  ................
+ 404020 00000000 00000000 1084a700 00000000  ................
+ 404030 07000000 81000000 00000000 00000000  ................
+ 404040 1884a700 00000000 07000000 82000000  ................
+ 404050 00000000 00000000 2084a700 00000000  ........ .......
+ 404060 07000000 83000000 00000000 00000000  ................
+ 404070 2884a700 00000000 07000000 84000000  (...............
+ 404080 00000000 00000000 3084a700 00000000  ........0.......
+ 404090 07000000 85000000 00000000 00000000  ................
+ 4040a0 3884a700 00000000 07000000 86000000  8...............
+ 4040b0 00000000 00000000 4084a700 00000000  ........@.......
+ 4040c0 07000000 87000000 00000000 00000000  ................
+ 4040d0 4884a700 00000000 07000000 88000000  H...............
+ 4040e0 00000000 00000000 5084a700 00000000  ........P.......
+ 4040f0 07000000 89000000 00000000 00000000  ................
+ 404100 5884a700 00000000 07000000 8a000000  X...............
+ 404110 00000000 00000000 6084a700 00000000  ........`.......
+ 404120 07000000 8b000000 00000000 00000000  ................
+ 404130 6884a700 00000000 07000000 8c000000  h...............
+ 404140 00000000 00000000 7084a700 00000000  ........p.......
+ 404150 07000000 8d000000 00000000 00000000  ................
+ 404160 7884a700 00000000 07000000 8e000000  x...............
+ 404170 00000000 00000000 8084a700 00000000  ................
+ 404180 07000000 8f000000 00000000 00000000  ................
+ 404190 8884a700 00000000 07000000 90000000  ................
+ 4041a0 00000000 00000000 9084a700 00000000  ................
+ 4041b0 07000000 91000000 00000000 00000000  ................
+ 4041c0 9884a700 00000000 07000000 92000000  ................
+ 4041d0 00000000 00000000 a084a700 00000000  ................
+ 4041e0 07000000 93000000 00000000 00000000  ................
+ 4041f0 a884a700 00000000 07000000 94000000  ................
+ 404200 00000000 00000000 b084a700 00000000  ................
+ 404210 07000000 95000000 00000000 00000000  ................
+ 404220 b884a700 00000000 07000000 96000000  ................
+ 404230 00000000 00000000 c084a700 00000000  ................
+ 404240 07000000 97000000 00000000 00000000  ................
+ 404250 c884a700 00000000 07000000 98000000  ................
+ 404260 00000000 00000000 d084a700 00000000  ................
+ 404270 07000000 99000000 00000000 00000000  ................
+ 404280 d884a700 00000000 07000000 9a000000  ................
+ 404290 00000000 00000000 e084a700 00000000  ................
+ 4042a0 07000000 9b000000 00000000 00000000  ................
+ 4042b0 e884a700 00000000 07000000 9c000000  ................
+ 4042c0 00000000 00000000 f084a700 00000000  ................
+ 4042d0 07000000 9d000000 00000000 00000000  ................
+ 4042e0 f884a700 00000000 07000000 9e000000  ................
+ 4042f0 00000000 00000000 0085a700 00000000  ................
+ 404300 07000000 9f000000 00000000 00000000  ................
+ 404310 0885a700 00000000 07000000 a0000000  ................
+ 404320 00000000 00000000 1085a700 00000000  ................
+ 404330 07000000 a1000000 00000000 00000000  ................
+ 404340 1885a700 00000000 07000000 a2000000  ................
+ 404350 00000000 00000000 2085a700 00000000  ........ .......
+ 404360 07000000 a3000000 00000000 00000000  ................
+ 404370 2885a700 00000000 07000000 a4000000  (...............
+ 404380 00000000 00000000 3085a700 00000000  ........0.......
+ 404390 07000000 a5000000 00000000 00000000  ................
+ 4043a0 3885a700 00000000 07000000 a6000000  8...............
+ 4043b0 00000000 00000000 4085a700 00000000  ........@.......
+ 4043c0 07000000 a7000000 00000000 00000000  ................
+ 4043d0 4885a700 00000000 07000000 a8000000  H...............
+ 4043e0 00000000 00000000 5085a700 00000000  ........P.......
+ 4043f0 07000000 a9000000 00000000 00000000  ................
+ 404400 5885a700 00000000 07000000 aa000000  X...............
+ 404410 00000000 00000000 6085a700 00000000  ........`.......
+ 404420 07000000 ab000000 00000000 00000000  ................
+ 404430 6885a700 00000000 07000000 ac000000  h...............
+ 404440 00000000 00000000 7085a700 00000000  ........p.......
+ 404450 07000000 ad000000 00000000 00000000  ................
+ 404460 7885a700 00000000 07000000 ae000000  x...............
+ 404470 00000000 00000000 8085a700 00000000  ................
+ 404480 07000000 af000000 00000000 00000000  ................
+ 404490 8885a700 00000000 07000000 b0000000  ................
+ 4044a0 00000000 00000000 9085a700 00000000  ................
+ 4044b0 07000000 b1000000 00000000 00000000  ................
+ 4044c0 9885a700 00000000 07000000 b2000000  ................
+ 4044d0 00000000 00000000 a085a700 00000000  ................
+ 4044e0 07000000 b3000000 00000000 00000000  ................
+ 4044f0 a885a700 00000000 07000000 b4000000  ................
+ 404500 00000000 00000000 b085a700 00000000  ................
+ 404510 07000000 b5000000 00000000 00000000  ................
+ 404520 b885a700 00000000 07000000 b6000000  ................
+ 404530 00000000 00000000 c085a700 00000000  ................
+ 404540 07000000 b7000000 00000000 00000000  ................
+ 404550 c885a700 00000000 07000000 b8000000  ................
+ 404560 00000000 00000000 d085a700 00000000  ................
+ 404570 07000000 b9000000 00000000 00000000  ................
+ 404580 d885a700 00000000 07000000 ba000000  ................
+ 404590 00000000 00000000 e085a700 00000000  ................
+ 4045a0 07000000 bb000000 00000000 00000000  ................
+ 4045b0 e885a700 00000000 07000000 bc000000  ................
+ 4045c0 00000000 00000000 f085a700 00000000  ................
+ 4045d0 07000000 bd000000 00000000 00000000  ................
+ 4045e0 f885a700 00000000 07000000 be000000  ................
+ 4045f0 00000000 00000000 0086a700 00000000  ................
+ 404600 07000000 bf000000 00000000 00000000  ................
+ 404610 0886a700 00000000 07000000 c0000000  ................
+ 404620 00000000 00000000 1086a700 00000000  ................
+ 404630 07000000 c1000000 00000000 00000000  ................
+ 404640 1886a700 00000000 07000000 c2000000  ................
+ 404650 00000000 00000000 2086a700 00000000  ........ .......
+ 404660 07000000 c3000000 00000000 00000000  ................
+ 404670 2886a700 00000000 07000000 c4000000  (...............
+ 404680 00000000 00000000 3086a700 00000000  ........0.......
+ 404690 07000000 c5000000 00000000 00000000  ................
+ 4046a0 3886a700 00000000 07000000 c6000000  8...............
+ 4046b0 00000000 00000000 4086a700 00000000  ........@.......
+ 4046c0 07000000 c7000000 00000000 00000000  ................
+ 4046d0 4886a700 00000000 07000000 c8000000  H...............
+ 4046e0 00000000 00000000 5086a700 00000000  ........P.......
+ 4046f0 07000000 c9000000 00000000 00000000  ................
+ 404700 5886a700 00000000 07000000 ca000000  X...............
+ 404710 00000000 00000000 6086a700 00000000  ........`.......
+ 404720 07000000 cb000000 00000000 00000000  ................
+ 404730 6886a700 00000000 07000000 cc000000  h...............
+ 404740 00000000 00000000 7086a700 00000000  ........p.......
+ 404750 07000000 cd000000 00000000 00000000  ................
+ 404760 7886a700 00000000 07000000 ce000000  x...............
+ 404770 00000000 00000000 8086a700 00000000  ................
+ 404780 07000000 d0000000 00000000 00000000  ................
+ 404790 8886a700 00000000 07000000 d1000000  ................
+ 4047a0 00000000 00000000 9086a700 00000000  ................
+ 4047b0 07000000 d2000000 00000000 00000000  ................
+ 4047c0 9886a700 00000000 07000000 d3000000  ................
+ 4047d0 00000000 00000000 a086a700 00000000  ................
+ 4047e0 07000000 d4000000 00000000 00000000  ................
+ 4047f0 a886a700 00000000 07000000 d5000000  ................
+ 404800 00000000 00000000 b086a700 00000000  ................
+ 404810 07000000 d6000000 00000000 00000000  ................
+ 404820 b886a700 00000000 07000000 d7000000  ................
+ 404830 00000000 00000000 c086a700 00000000  ................
+ 404840 07000000 d8000000 00000000 00000000  ................
+ 404850 c886a700 00000000 07000000 d9000000  ................
+ 404860 00000000 00000000 d086a700 00000000  ................
+ 404870 07000000 da000000 00000000 00000000  ................
+ 404880 d886a700 00000000 07000000 db000000  ................
+ 404890 00000000 00000000 e086a700 00000000  ................
+ 4048a0 07000000 dc000000 00000000 00000000  ................
+ 4048b0 e886a700 00000000 07000000 dd000000  ................
+ 4048c0 00000000 00000000 f086a700 00000000  ................
+ 4048d0 07000000 de000000 00000000 00000000  ................
+ 4048e0 f886a700 00000000 07000000 df000000  ................
+ 4048f0 00000000 00000000 0087a700 00000000  ................
+ 404900 07000000 e0000000 00000000 00000000  ................
+ 404910 0887a700 00000000 07000000 e1000000  ................
+ 404920 00000000 00000000 1087a700 00000000  ................
+ 404930 07000000 e2000000 00000000 00000000  ................
+ 404940 1887a700 00000000 07000000 e3000000  ................
+ 404950 00000000 00000000 2087a700 00000000  ........ .......
+ 404960 07000000 e4000000 00000000 00000000  ................
+ 404970 2887a700 00000000 07000000 e5000000  (...............
+ 404980 00000000 00000000 3087a700 00000000  ........0.......
+ 404990 07000000 e6000000 00000000 00000000  ................
+ 4049a0 3887a700 00000000 07000000 e7000000  8...............
+ 4049b0 00000000 00000000 4087a700 00000000  ........@.......
+ 4049c0 07000000 e8000000 00000000 00000000  ................
+ 4049d0 4887a700 00000000 07000000 e9000000  H...............
+ 4049e0 00000000 00000000 5087a700 00000000  ........P.......
+ 4049f0 07000000 eb000000 00000000 00000000  ................
+ 404a00 5887a700 00000000 07000000 ec000000  X...............
+ 404a10 00000000 00000000 6087a700 00000000  ........`.......
+ 404a20 07000000 ed000000 00000000 00000000  ................
+ 404a30 6887a700 00000000 07000000 ee000000  h...............
+ 404a40 00000000 00000000 7087a700 00000000  ........p.......
+ 404a50 07000000 ef000000 00000000 00000000  ................
+ 404a60 7887a700 00000000 07000000 f0000000  x...............
+ 404a70 00000000 00000000 8087a700 00000000  ................
+ 404a80 07000000 f1000000 00000000 00000000  ................
+ 404a90 8887a700 00000000 07000000 f2000000  ................
+ 404aa0 00000000 00000000 9087a700 00000000  ................
+ 404ab0 07000000 f3000000 00000000 00000000  ................
+ 404ac0 9887a700 00000000 07000000 f4000000  ................
+ 404ad0 00000000 00000000 a087a700 00000000  ................
+ 404ae0 07000000 f6000000 00000000 00000000  ................
+ 404af0 a887a700 00000000 07000000 f7000000  ................
+ 404b00 00000000 00000000 b087a700 00000000  ................
+ 404b10 07000000 f8000000 00000000 00000000  ................
+ 404b20 b887a700 00000000 07000000 f9000000  ................
+ 404b30 00000000 00000000 c087a700 00000000  ................
+ 404b40 07000000 fa000000 00000000 00000000  ................
+ 404b50 c887a700 00000000 07000000 fb000000  ................
+ 404b60 00000000 00000000 d087a700 00000000  ................
+ 404b70 07000000 fc000000 00000000 00000000  ................
+ 404b80 d887a700 00000000 07000000 fd000000  ................
+ 404b90 00000000 00000000 e087a700 00000000  ................
+ 404ba0 07000000 fe000000 00000000 00000000  ................
+ 404bb0 e887a700 00000000 07000000 ff000000  ................
+ 404bc0 00000000 00000000 f087a700 00000000  ................
+ 404bd0 07000000 00010000 00000000 00000000  ................
+ 404be0 f887a700 00000000 07000000 01010000  ................
+ 404bf0 00000000 00000000 0088a700 00000000  ................
+ 404c00 07000000 02010000 00000000 00000000  ................
+ 404c10 0888a700 00000000 07000000 04010000  ................
+ 404c20 00000000 00000000 1088a700 00000000  ................
+ 404c30 07000000 06010000 00000000 00000000  ................
+ 404c40 1888a700 00000000 07000000 07010000  ................
+ 404c50 00000000 00000000 2088a700 00000000  ........ .......
+ 404c60 07000000 08010000 00000000 00000000  ................
+ 404c70 2888a700 00000000 07000000 09010000  (...............
+ 404c80 00000000 00000000 3088a700 00000000  ........0.......
+ 404c90 07000000 0a010000 00000000 00000000  ................
+ 404ca0 3888a700 00000000 07000000 0c010000  8...............
+ 404cb0 00000000 00000000 4088a700 00000000  ........@.......
+ 404cc0 07000000 0d010000 00000000 00000000  ................
+ 404cd0 4888a700 00000000 07000000 0e010000  H...............
+ 404ce0 00000000 00000000 5088a700 00000000  ........P.......
+ 404cf0 07000000 0f010000 00000000 00000000  ................
+ 404d00 5888a700 00000000 07000000 10010000  X...............
+ 404d10 00000000 00000000 6088a700 00000000  ........`.......
+ 404d20 07000000 11010000 00000000 00000000  ................
+Contents of section .init:
+ 405000 f30f1efa 4883ec08 488b05c9 2f670048  ....H...H.../g.H
+ 405010 85c07402 ffd04883 c408c3             ..t...H....     
+Contents of section .plt:
+ 405020 ff35e22f 6700ff25 e42f6700 0f1f4000  .5./g..%./g...@.
+ 405030 ff25e22f 67006800 000000e9 e0ffffff  .%./g.h.........
+ 405040 ff25da2f 67006801 000000e9 d0ffffff  .%./g.h.........
+ 405050 ff25d22f 67006802 000000e9 c0ffffff  .%./g.h.........
+ 405060 ff25ca2f 67006803 000000e9 b0ffffff  .%./g.h.........
+ 405070 ff25c22f 67006804 000000e9 a0ffffff  .%./g.h.........
+ 405080 ff25ba2f 67006805 000000e9 90ffffff  .%./g.h.........
+ 405090 ff25b22f 67006806 000000e9 80ffffff  .%./g.h.........
+ 4050a0 ff25aa2f 67006807 000000e9 70ffffff  .%./g.h.....p...
+ 4050b0 ff25a22f 67006808 000000e9 60ffffff  .%./g.h.....`...
+ 4050c0 ff259a2f 67006809 000000e9 50ffffff  .%./g.h.....P...
+ 4050d0 ff25922f 6700680a 000000e9 40ffffff  .%./g.h.....@...
+ 4050e0 ff258a2f 6700680b 000000e9 30ffffff  .%./g.h.....0...
+ 4050f0 ff25822f 6700680c 000000e9 20ffffff  .%./g.h..... ...
+ 405100 ff257a2f 6700680d 000000e9 10ffffff  .%z/g.h.........
+ 405110 ff25722f 6700680e 000000e9 00ffffff  .%r/g.h.........
+ 405120 ff256a2f 6700680f 000000e9 f0feffff  .%j/g.h.........
+ 405130 ff25622f 67006810 000000e9 e0feffff  .%b/g.h.........
+ 405140 ff255a2f 67006811 000000e9 d0feffff  .%Z/g.h.........
+ 405150 ff25522f 67006812 000000e9 c0feffff  .%R/g.h.........
+ 405160 ff254a2f 67006813 000000e9 b0feffff  .%J/g.h.........
+ 405170 ff25422f 67006814 000000e9 a0feffff  .%B/g.h.........
+ 405180 ff253a2f 67006815 000000e9 90feffff  .%:/g.h.........
+ 405190 ff25322f 67006816 000000e9 80feffff  .%2/g.h.........
+ 4051a0 ff252a2f 67006817 000000e9 70feffff  .%*/g.h.....p...
+ 4051b0 ff25222f 67006818 000000e9 60feffff  .%"/g.h.....`...
+ 4051c0 ff251a2f 67006819 000000e9 50feffff  .%./g.h.....P...
+ 4051d0 ff25122f 6700681a 000000e9 40feffff  .%./g.h.....@...
+ 4051e0 ff250a2f 6700681b 000000e9 30feffff  .%./g.h.....0...
+ 4051f0 ff25022f 6700681c 000000e9 20feffff  .%./g.h..... ...
+ 405200 ff25fa2e 6700681d 000000e9 10feffff  .%..g.h.........
+ 405210 ff25f22e 6700681e 000000e9 00feffff  .%..g.h.........
+ 405220 ff25ea2e 6700681f 000000e9 f0fdffff  .%..g.h.........
+ 405230 ff25e22e 67006820 000000e9 e0fdffff  .%..g.h ........
+ 405240 ff25da2e 67006821 000000e9 d0fdffff  .%..g.h!........
+ 405250 ff25d22e 67006822 000000e9 c0fdffff  .%..g.h"........
+ 405260 ff25ca2e 67006823 000000e9 b0fdffff  .%..g.h#........
+ 405270 ff25c22e 67006824 000000e9 a0fdffff  .%..g.h$........
+ 405280 ff25ba2e 67006825 000000e9 90fdffff  .%..g.h%........
+ 405290 ff25b22e 67006826 000000e9 80fdffff  .%..g.h&........
+ 4052a0 ff25aa2e 67006827 000000e9 70fdffff  .%..g.h'....p...
+ 4052b0 ff25a22e 67006828 000000e9 60fdffff  .%..g.h(....`...
+ 4052c0 ff259a2e 67006829 000000e9 50fdffff  .%..g.h)....P...
+ 4052d0 ff25922e 6700682a 000000e9 40fdffff  .%..g.h*....@...
+ 4052e0 ff258a2e 6700682b 000000e9 30fdffff  .%..g.h+....0...
+ 4052f0 ff25822e 6700682c 000000e9 20fdffff  .%..g.h,.... ...
+ 405300 ff257a2e 6700682d 000000e9 10fdffff  .%z.g.h-........
+ 405310 ff25722e 6700682e 000000e9 00fdffff  .%r.g.h.........
+ 405320 ff256a2e 6700682f 000000e9 f0fcffff  .%j.g.h/........
+ 405330 ff25622e 67006830 000000e9 e0fcffff  .%b.g.h0........
+ 405340 ff255a2e 67006831 000000e9 d0fcffff  .%Z.g.h1........
+ 405350 ff25522e 67006832 000000e9 c0fcffff  .%R.g.h2........
+ 405360 ff254a2e 67006833 000000e9 b0fcffff  .%J.g.h3........
+ 405370 ff25422e 67006834 000000e9 a0fcffff  .%B.g.h4........
+ 405380 ff253a2e 67006835 000000e9 90fcffff  .%:.g.h5........
+ 405390 ff25322e 67006836 000000e9 80fcffff  .%2.g.h6........
+ 4053a0 ff252a2e 67006837 000000e9 70fcffff  .%*.g.h7....p...
+ 4053b0 ff25222e 67006838 000000e9 60fcffff  .%".g.h8....`...
+ 4053c0 ff251a2e 67006839 000000e9 50fcffff  .%..g.h9....P...
+ 4053d0 ff25122e 6700683a 000000e9 40fcffff  .%..g.h:....@...
+ 4053e0 ff250a2e 6700683b 000000e9 30fcffff  .%..g.h;....0...
+ 4053f0 ff25022e 6700683c 000000e9 20fcffff  .%..g.h<.... ...
+ 405400 ff25fa2d 6700683d 000000e9 10fcffff  .%.-g.h=........
+ 405410 ff25f22d 6700683e 000000e9 00fcffff  .%.-g.h>........
+ 405420 ff25ea2d 6700683f 000000e9 f0fbffff  .%.-g.h?........
+ 405430 ff25e22d 67006840 000000e9 e0fbffff  .%.-g.h@........
+ 405440 ff25da2d 67006841 000000e9 d0fbffff  .%.-g.hA........
+ 405450 ff25d22d 67006842 000000e9 c0fbffff  .%.-g.hB........
+ 405460 ff25ca2d 67006843 000000e9 b0fbffff  .%.-g.hC........
+ 405470 ff25c22d 67006844 000000e9 a0fbffff  .%.-g.hD........
+ 405480 ff25ba2d 67006845 000000e9 90fbffff  .%.-g.hE........
+ 405490 ff25b22d 67006846 000000e9 80fbffff  .%.-g.hF........
+ 4054a0 ff25aa2d 67006847 000000e9 70fbffff  .%.-g.hG....p...
+ 4054b0 ff25a22d 67006848 000000e9 60fbffff  .%.-g.hH....`...
+ 4054c0 ff259a2d 67006849 000000e9 50fbffff  .%.-g.hI....P...
+ 4054d0 ff25922d 6700684a 000000e9 40fbffff  .%.-g.hJ....@...
+ 4054e0 ff258a2d 6700684b 000000e9 30fbffff  .%.-g.hK....0...
+ 4054f0 ff25822d 6700684c 000000e9 20fbffff  .%.-g.hL.... ...
+ 405500 ff257a2d 6700684d 000000e9 10fbffff  .%z-g.hM........
+ 405510 ff25722d 6700684e 000000e9 00fbffff  .%r-g.hN........
+ 405520 ff256a2d 6700684f 000000e9 f0faffff  .%j-g.hO........
+ 405530 ff25622d 67006850 000000e9 e0faffff  .%b-g.hP........
+ 405540 ff255a2d 67006851 000000e9 d0faffff  .%Z-g.hQ........
+ 405550 ff25522d 67006852 000000e9 c0faffff  .%R-g.hR........
+ 405560 ff254a2d 67006853 000000e9 b0faffff  .%J-g.hS........
+ 405570 ff25422d 67006854 000000e9 a0faffff  .%B-g.hT........
+ 405580 ff253a2d 67006855 000000e9 90faffff  .%:-g.hU........
+ 405590 ff25322d 67006856 000000e9 80faffff  .%2-g.hV........
+ 4055a0 ff252a2d 67006857 000000e9 70faffff  .%*-g.hW....p...
+ 4055b0 ff25222d 67006858 000000e9 60faffff  .%"-g.hX....`...
+ 4055c0 ff251a2d 67006859 000000e9 50faffff  .%.-g.hY....P...
+ 4055d0 ff25122d 6700685a 000000e9 40faffff  .%.-g.hZ....@...
+ 4055e0 ff250a2d 6700685b 000000e9 30faffff  .%.-g.h[....0...
+ 4055f0 ff25022d 6700685c 000000e9 20faffff  .%.-g.h\.... ...
+ 405600 ff25fa2c 6700685d 000000e9 10faffff  .%.,g.h]........
+ 405610 ff25f22c 6700685e 000000e9 00faffff  .%.,g.h^........
+ 405620 ff25ea2c 6700685f 000000e9 f0f9ffff  .%.,g.h_........
+ 405630 ff25e22c 67006860 000000e9 e0f9ffff  .%.,g.h`........
+ 405640 ff25da2c 67006861 000000e9 d0f9ffff  .%.,g.ha........
+ 405650 ff25d22c 67006862 000000e9 c0f9ffff  .%.,g.hb........
+ 405660 ff25ca2c 67006863 000000e9 b0f9ffff  .%.,g.hc........
+ 405670 ff25c22c 67006864 000000e9 a0f9ffff  .%.,g.hd........
+ 405680 ff25ba2c 67006865 000000e9 90f9ffff  .%.,g.he........
+ 405690 ff25b22c 67006866 000000e9 80f9ffff  .%.,g.hf........
+ 4056a0 ff25aa2c 67006867 000000e9 70f9ffff  .%.,g.hg....p...
+ 4056b0 ff25a22c 67006868 000000e9 60f9ffff  .%.,g.hh....`...
+ 4056c0 ff259a2c 67006869 000000e9 50f9ffff  .%.,g.hi....P...
+ 4056d0 ff25922c 6700686a 000000e9 40f9ffff  .%.,g.hj....@...
+ 4056e0 ff258a2c 6700686b 000000e9 30f9ffff  .%.,g.hk....0...
+ 4056f0 ff25822c 6700686c 000000e9 20f9ffff  .%.,g.hl.... ...
+ 405700 ff257a2c 6700686d 000000e9 10f9ffff  .%z,g.hm........
+ 405710 ff25722c 6700686e 000000e9 00f9ffff  .%r,g.hn........
+ 405720 ff256a2c 6700686f 000000e9 f0f8ffff  .%j,g.ho........
+ 405730 ff25622c 67006870 000000e9 e0f8ffff  .%b,g.hp........
+ 405740 ff255a2c 67006871 000000e9 d0f8ffff  .%Z,g.hq........
+ 405750 ff25522c 67006872 000000e9 c0f8ffff  .%R,g.hr........
+ 405760 ff254a2c 67006873 000000e9 b0f8ffff  .%J,g.hs........
+ 405770 ff25422c 67006874 000000e9 a0f8ffff  .%B,g.ht........
+ 405780 ff253a2c 67006875 000000e9 90f8ffff  .%:,g.hu........
+ 405790 ff25322c 67006876 000000e9 80f8ffff  .%2,g.hv........
+ 4057a0 ff252a2c 67006877 000000e9 70f8ffff  .%*,g.hw....p...
+ 4057b0 ff25222c 67006878 000000e9 60f8ffff  .%",g.hx....`...
+ 4057c0 ff251a2c 67006879 000000e9 50f8ffff  .%.,g.hy....P...
+ 4057d0 ff25122c 6700687a 000000e9 40f8ffff  .%.,g.hz....@...
+ 4057e0 ff250a2c 6700687b 000000e9 30f8ffff  .%.,g.h{....0...
+ 4057f0 ff25022c 6700687c 000000e9 20f8ffff  .%.,g.h|.... ...
+ 405800 ff25fa2b 6700687d 000000e9 10f8ffff  .%.+g.h}........
+ 405810 ff25f22b 6700687e 000000e9 00f8ffff  .%.+g.h~........
+ 405820 ff25ea2b 6700687f 000000e9 f0f7ffff  .%.+g.h.........
+ 405830 ff25e22b 67006880 000000e9 e0f7ffff  .%.+g.h.........
+ 405840 ff25da2b 67006881 000000e9 d0f7ffff  .%.+g.h.........
+ 405850 ff25d22b 67006882 000000e9 c0f7ffff  .%.+g.h.........
+ 405860 ff25ca2b 67006883 000000e9 b0f7ffff  .%.+g.h.........
+ 405870 ff25c22b 67006884 000000e9 a0f7ffff  .%.+g.h.........
+ 405880 ff25ba2b 67006885 000000e9 90f7ffff  .%.+g.h.........
+ 405890 ff25b22b 67006886 000000e9 80f7ffff  .%.+g.h.........
+ 4058a0 ff25aa2b 67006887 000000e9 70f7ffff  .%.+g.h.....p...
+ 4058b0 ff25a22b 67006888 000000e9 60f7ffff  .%.+g.h.....`...
+ 4058c0 ff259a2b 67006889 000000e9 50f7ffff  .%.+g.h.....P...
+ 4058d0 ff25922b 6700688a 000000e9 40f7ffff  .%.+g.h.....@...
+ 4058e0 ff258a2b 6700688b 000000e9 30f7ffff  .%.+g.h.....0...
+ 4058f0 ff25822b 6700688c 000000e9 20f7ffff  .%.+g.h..... ...
+ 405900 ff257a2b 6700688d 000000e9 10f7ffff  .%z+g.h.........
+ 405910 ff25722b 6700688e 000000e9 00f7ffff  .%r+g.h.........
+ 405920 ff256a2b 6700688f 000000e9 f0f6ffff  .%j+g.h.........
+ 405930 ff25622b 67006890 000000e9 e0f6ffff  .%b+g.h.........
+ 405940 ff255a2b 67006891 000000e9 d0f6ffff  .%Z+g.h.........
+ 405950 ff25522b 67006892 000000e9 c0f6ffff  .%R+g.h.........
+ 405960 ff254a2b 67006893 000000e9 b0f6ffff  .%J+g.h.........
+ 405970 ff25422b 67006894 000000e9 a0f6ffff  .%B+g.h.........
+ 405980 ff253a2b 67006895 000000e9 90f6ffff  .%:+g.h.........
+ 405990 ff25322b 67006896 000000e9 80f6ffff  .%2+g.h.........
+ 4059a0 ff252a2b 67006897 000000e9 70f6ffff  .%*+g.h.....p...
+ 4059b0 ff25222b 67006898 000000e9 60f6ffff  .%"+g.h.....`...
+ 4059c0 ff251a2b 67006899 000000e9 50f6ffff  .%.+g.h.....P...
+ 4059d0 ff25122b 6700689a 000000e9 40f6ffff  .%.+g.h.....@...
+ 4059e0 ff250a2b 6700689b 000000e9 30f6ffff  .%.+g.h.....0...
+ 4059f0 ff25022b 6700689c 000000e9 20f6ffff  .%.+g.h..... ...
+ 405a00 ff25fa2a 6700689d 000000e9 10f6ffff  .%.*g.h.........
+ 405a10 ff25f22a 6700689e 000000e9 00f6ffff  .%.*g.h.........
+ 405a20 ff25ea2a 6700689f 000000e9 f0f5ffff  .%.*g.h.........
+ 405a30 ff25e22a 670068a0 000000e9 e0f5ffff  .%.*g.h.........
+ 405a40 ff25da2a 670068a1 000000e9 d0f5ffff  .%.*g.h.........
+ 405a50 ff25d22a 670068a2 000000e9 c0f5ffff  .%.*g.h.........
+ 405a60 ff25ca2a 670068a3 000000e9 b0f5ffff  .%.*g.h.........
+ 405a70 ff25c22a 670068a4 000000e9 a0f5ffff  .%.*g.h.........
+ 405a80 ff25ba2a 670068a5 000000e9 90f5ffff  .%.*g.h.........
+ 405a90 ff25b22a 670068a6 000000e9 80f5ffff  .%.*g.h.........
+ 405aa0 ff25aa2a 670068a7 000000e9 70f5ffff  .%.*g.h.....p...
+ 405ab0 ff25a22a 670068a8 000000e9 60f5ffff  .%.*g.h.....`...
+ 405ac0 ff259a2a 670068a9 000000e9 50f5ffff  .%.*g.h.....P...
+ 405ad0 ff25922a 670068aa 000000e9 40f5ffff  .%.*g.h.....@...
+ 405ae0 ff258a2a 670068ab 000000e9 30f5ffff  .%.*g.h.....0...
+ 405af0 ff25822a 670068ac 000000e9 20f5ffff  .%.*g.h..... ...
+ 405b00 ff257a2a 670068ad 000000e9 10f5ffff  .%z*g.h.........
+ 405b10 ff25722a 670068ae 000000e9 00f5ffff  .%r*g.h.........
+ 405b20 ff256a2a 670068af 000000e9 f0f4ffff  .%j*g.h.........
+ 405b30 ff25622a 670068b0 000000e9 e0f4ffff  .%b*g.h.........
+ 405b40 ff255a2a 670068b1 000000e9 d0f4ffff  .%Z*g.h.........
+ 405b50 ff25522a 670068b2 000000e9 c0f4ffff  .%R*g.h.........
+ 405b60 ff254a2a 670068b3 000000e9 b0f4ffff  .%J*g.h.........
+ 405b70 ff25422a 670068b4 000000e9 a0f4ffff  .%B*g.h.........
+ 405b80 ff253a2a 670068b5 000000e9 90f4ffff  .%:*g.h.........
+ 405b90 ff25322a 670068b6 000000e9 80f4ffff  .%2*g.h.........
+ 405ba0 ff252a2a 670068b7 000000e9 70f4ffff  .%**g.h.....p...
+ 405bb0 ff25222a 670068b8 000000e9 60f4ffff  .%"*g.h.....`...
+ 405bc0 ff251a2a 670068b9 000000e9 50f4ffff  .%.*g.h.....P...
+ 405bd0 ff25122a 670068ba 000000e9 40f4ffff  .%.*g.h.....@...
+ 405be0 ff250a2a 670068bb 000000e9 30f4ffff  .%.*g.h.....0...
+ 405bf0 ff25022a 670068bc 000000e9 20f4ffff  .%.*g.h..... ...
+ 405c00 ff25fa29 670068bd 000000e9 10f4ffff  .%.)g.h.........
+ 405c10 ff25f229 670068be 000000e9 00f4ffff  .%.)g.h.........
+ 405c20 ff25ea29 670068bf 000000e9 f0f3ffff  .%.)g.h.........
+ 405c30 ff25e229 670068c0 000000e9 e0f3ffff  .%.)g.h.........
+ 405c40 ff25da29 670068c1 000000e9 d0f3ffff  .%.)g.h.........
+ 405c50 ff25d229 670068c2 000000e9 c0f3ffff  .%.)g.h.........
+ 405c60 ff25ca29 670068c3 000000e9 b0f3ffff  .%.)g.h.........
+ 405c70 ff25c229 670068c4 000000e9 a0f3ffff  .%.)g.h.........
+ 405c80 ff25ba29 670068c5 000000e9 90f3ffff  .%.)g.h.........
+ 405c90 ff25b229 670068c6 000000e9 80f3ffff  .%.)g.h.........
+ 405ca0 ff25aa29 670068c7 000000e9 70f3ffff  .%.)g.h.....p...
+ 405cb0 ff25a229 670068c8 000000e9 60f3ffff  .%.)g.h.....`...
+ 405cc0 ff259a29 670068c9 000000e9 50f3ffff  .%.)g.h.....P...
+ 405cd0 ff259229 670068ca 000000e9 40f3ffff  .%.)g.h.....@...
+ 405ce0 ff258a29 670068cb 000000e9 30f3ffff  .%.)g.h.....0...
+ 405cf0 ff258229 670068cc 000000e9 20f3ffff  .%.)g.h..... ...
+ 405d00 ff257a29 670068cd 000000e9 10f3ffff  .%z)g.h.........
+ 405d10 ff257229 670068ce 000000e9 00f3ffff  .%r)g.h.........
+ 405d20 ff256a29 670068cf 000000e9 f0f2ffff  .%j)g.h.........
+ 405d30 ff256229 670068d0 000000e9 e0f2ffff  .%b)g.h.........
+ 405d40 ff255a29 670068d1 000000e9 d0f2ffff  .%Z)g.h.........
+ 405d50 ff255229 670068d2 000000e9 c0f2ffff  .%R)g.h.........
+ 405d60 ff254a29 670068d3 000000e9 b0f2ffff  .%J)g.h.........
+ 405d70 ff254229 670068d4 000000e9 a0f2ffff  .%B)g.h.........
+ 405d80 ff253a29 670068d5 000000e9 90f2ffff  .%:)g.h.........
+ 405d90 ff253229 670068d6 000000e9 80f2ffff  .%2)g.h.........
+ 405da0 ff252a29 670068d7 000000e9 70f2ffff  .%*)g.h.....p...
+ 405db0 ff252229 670068d8 000000e9 60f2ffff  .%")g.h.....`...
+ 405dc0 ff251a29 670068d9 000000e9 50f2ffff  .%.)g.h.....P...
+ 405dd0 ff251229 670068da 000000e9 40f2ffff  .%.)g.h.....@...
+ 405de0 ff250a29 670068db 000000e9 30f2ffff  .%.)g.h.....0...
+ 405df0 ff250229 670068dc 000000e9 20f2ffff  .%.)g.h..... ...
+ 405e00 ff25fa28 670068dd 000000e9 10f2ffff  .%.(g.h.........
+ 405e10 ff25f228 670068de 000000e9 00f2ffff  .%.(g.h.........
+ 405e20 ff25ea28 670068df 000000e9 f0f1ffff  .%.(g.h.........
+ 405e30 ff25e228 670068e0 000000e9 e0f1ffff  .%.(g.h.........
+ 405e40 ff25da28 670068e1 000000e9 d0f1ffff  .%.(g.h.........
+ 405e50 ff25d228 670068e2 000000e9 c0f1ffff  .%.(g.h.........
+ 405e60 ff25ca28 670068e3 000000e9 b0f1ffff  .%.(g.h.........
+ 405e70 ff25c228 670068e4 000000e9 a0f1ffff  .%.(g.h.........
+ 405e80 ff25ba28 670068e5 000000e9 90f1ffff  .%.(g.h.........
+ 405e90 ff25b228 670068e6 000000e9 80f1ffff  .%.(g.h.........
+ 405ea0 ff25aa28 670068e7 000000e9 70f1ffff  .%.(g.h.....p...
+ 405eb0 ff25a228 670068e8 000000e9 60f1ffff  .%.(g.h.....`...
+ 405ec0 ff259a28 670068e9 000000e9 50f1ffff  .%.(g.h.....P...
+ 405ed0 ff259228 670068ea 000000e9 40f1ffff  .%.(g.h.....@...
+ 405ee0 ff258a28 670068eb 000000e9 30f1ffff  .%.(g.h.....0...
+ 405ef0 ff258228 670068ec 000000e9 20f1ffff  .%.(g.h..... ...
+ 405f00 ff257a28 670068ed 000000e9 10f1ffff  .%z(g.h.........
+ 405f10 ff257228 670068ee 000000e9 00f1ffff  .%r(g.h.........
+ 405f20 ff256a28 670068ef 000000e9 f0f0ffff  .%j(g.h.........
+ 405f30 ff256228 670068f0 000000e9 e0f0ffff  .%b(g.h.........
+ 405f40 ff255a28 670068f1 000000e9 d0f0ffff  .%Z(g.h.........
+ 405f50 ff255228 670068f2 000000e9 c0f0ffff  .%R(g.h.........
+ 405f60 ff254a28 670068f3 000000e9 b0f0ffff  .%J(g.h.........
+ 405f70 ff254228 670068f4 000000e9 a0f0ffff  .%B(g.h.........
+ 405f80 ff253a28 670068f5 000000e9 90f0ffff  .%:(g.h.........
+ 405f90 ff253228 670068f6 000000e9 80f0ffff  .%2(g.h.........
+ 405fa0 ff252a28 670068f7 000000e9 70f0ffff  .%*(g.h.....p...
+ 405fb0 ff252228 670068f8 000000e9 60f0ffff  .%"(g.h.....`...
+ 405fc0 ff251a28 670068f9 000000e9 50f0ffff  .%.(g.h.....P...
+ 405fd0 ff251228 670068fa 000000e9 40f0ffff  .%.(g.h.....@...
+ 405fe0 ff250a28 670068fb 000000e9 30f0ffff  .%.(g.h.....0...
+ 405ff0 ff250228 670068fc 000000e9 20f0ffff  .%.(g.h..... ...
+ 406000 ff25fa27 670068fd 000000e9 10f0ffff  .%.'g.h.........
+ 406010 ff25f227 670068fe 000000e9 00f0ffff  .%.'g.h.........
+ 406020 ff25ea27 670068ff 000000e9 f0efffff  .%.'g.h.........
+ 406030 ff25e227 67006800 010000e9 e0efffff  .%.'g.h.........
+ 406040 ff25da27 67006801 010000e9 d0efffff  .%.'g.h.........
+ 406050 ff25d227 67006802 010000e9 c0efffff  .%.'g.h.........
+ 406060 ff25ca27 67006803 010000e9 b0efffff  .%.'g.h.........
+ 406070 ff25c227 67006804 010000e9 a0efffff  .%.'g.h.........
+ 406080 ff25ba27 67006805 010000e9 90efffff  .%.'g.h.........
+ 406090 ff25b227 67006806 010000e9 80efffff  .%.'g.h.........
+ 4060a0 ff25aa27 67006807 010000e9 70efffff  .%.'g.h.....p...
+ 4060b0 ff25a227 67006808 010000e9 60efffff  .%.'g.h.....`...
+ 4060c0 ff259a27 67006809 010000e9 50efffff  .%.'g.h.....P...
+Contents of section .plt.got:
+ 4060d0 ff25da1e 67006690                    .%..g.f.        
+Contents of section .text:
+ 4060e0 488d3d31 58630031 c0e892b4 5c004889  H.=1Xc.1....\.H.
+ 4060f0 2c251800 00000f0b 488d15bc 61630048  ,%......H...ac.H
+ 406100 8d35c861 630031c0 488d3d81 5b6300e8  .5.ac.1.H.=.[c..
+ 406110 6cb45c00 c6042528 00000000 0f0b6690  l.\...%(......f.
+ 406120 f30f1efa 31ed4989 d15e4889 e24883e4  ....1.I..^H..H..
+ 406130 f0505449 c7c0b0f0 9d0048c7 c140f09d  .PTI......H..@..
+ 406140 0048c7c7 73199300 ff15821e 6700f490  .H..s.......g...
+ 406150 f30f1efa c3662e0f 1f840000 00000090  .....f..........
+ 406160 b820daa7 00483d20 daa70074 13488b05  . ...H= ...t.H..
+ 406170 541e6700 4885c074 07bf20da a700ffe0  T.g.H..t.. .....
+ 406180 c366662e 0f1f8400 00000000 0f1f4000  .ff...........@.
+ 406190 be20daa7 004881ee 20daa700 4889f048  . ...H.. ...H..H
+ 4061a0 c1ee3f48 c1f80348 01c648d1 fe741948  ..?H...H..H..t.H
+ 4061b0 8b052a1e 67004885 c0740dbf 20daa700  ..*.g.H..t.. ...
+ 4061c0 ffe0660f 1f440000 c30f1f80 00000000  ..f..D..........
+ 4061d0 f30f1efa 803dcd79 67000075 13554889  .....=.yg..u.UH.
+ 4061e0 e5e87aff ffffc605 bb796700 015dc390  ..z......yg..]..
+ 4061f0 c366662e 0f1f8400 00000000 0f1f4000  .ff...........@.
+ 406200 f30f1efa eb8a5548 89e5897d fc8b45fc  ......UH...}..E.
+ 406210 89057a1c 7900905d c3554889 e54883ec  ..z.y..].UH..H..
+ 406220 1048897d f8488975 f0488b45 f88b4008  .H.}.H.u.H.E..@.
+ 406230 be000000 0089c7e8 cdeb4d00 48890525  ..........M.H..%
+ 406240 a9780048 8b45f88b 40084863 d0488b45  .x.H.E..@.Hc.H.E
+ 406250 f8488b08 488b050d a9780048 8b004889  .H..H....x.H..H.
+ 406260 ce4889c7 e897f3ff ff488b55 f0488b45  .H.......H.U.H.E
+ 406270 f84889d6 4889c7e8 3bed4d00 488b15e5  .H..H...;.M.H...
+ 406280 a8780048 8b45f048 89d64889 c7e825ed  .x.H.E.H..H...%.
+ 406290 4d00488b 05cfa878 004889c7 e80bdf4d  M.H....x.H.....M
+ 4062a0 0090c9c3 554889e5 48897df8 488975f0  ....UH..H.}.H.u.
+ 4062b0 8955ec8b 45ecc1e8 028905b1 a8780048  .U..E........x.H
+ 4062c0 8b45f848 8905aea8 7800488b 45f04889  .E.H....x.H.E.H.
+ 4062d0 05aba878 00eb4648 8b059aa8 78008b00  ...x..FH....x...
+ 4062e0 8905a2a8 7800488b 0593a878 008b1048  ....x.H....x...H
+ 4062f0 8b0582a8 7800488d 48044889 0d77a878  ....x.H.H.H..w.x
+ 406300 0089108b 157fa878 00488b05 70a87800  .......x.H..p.x.
+ 406310 488d4804 48890d65 a8780089 108b054d  H.H.H..e.x.....M
+ 406320 a878008d 50ff8915 44a87800 85c00f95  .x..P...D.x.....
+ 406330 c084c075 a28365ec 03488b05 38a87800  ...u..e..H..8.x.
+ 406340 48890549 a8780048 8b0532a8 78004889  H..I.x.H..2.x.H.
+ 406350 0543a878 00eb4948 8b0532a8 78000fb6  .C.x..IH..2.x...
+ 406360 00880539 a8780048 8b052aa8 78000fb6  ...9.x.H..*.x...
+ 406370 10488b05 18a87800 488d4801 48890d0d  .H....x.H.H.H...
+ 406380 a8780088 100fb615 14a87800 488b0505  .x........x.H...
+ 406390 a8780048 8d480148 890dfaa7 78008810  .x.H.H.H....x...
+ 4063a0 8b45ec8d 50ff8955 ec85c00f 95c084c0  .E..P..U........
+ 4063b0 75a59090 5dc35548 89e5c705 cc197900  u...].UH......y.
+ 4063c0 01000000 905dc355 4889e548 83ec1089  .....].UH..H....
+ 4063d0 7dfc8975 f88955f4 894df048 8b05ae87  }..u..U..M.H....
+ 4063e0 7800c740 08000000 00488b05 a8877800  x..@.....H....x.
+ 4063f0 c7400800 00000048 8b05a287 7800c740  .@.....H....x..@
+ 406400 08000000 00488b05 9c877800 c7000000  .....H....x.....
+ 406410 0000488b 05978778 00488b00 ba010000  ..H....x.H......
+ 406420 00be0000 00004889 c7e882ef ffff488b  ......H.......H.
+ 406430 05838778 00488b00 ba010000 00be0000  ...x.H..........
+ 406440 00004889 c7e866ef ffff488b 056f8778  ..H...f...H..o.x
+ 406450 00488b00 ba010000 00be0000 00004889  .H............H.
+ 406460 c7e84aef ffff488b 055b8778 00c70000  ..J...H..[.x....
+ 406470 00000048 8b055687 7800c700 00000000  ...H..V.x.......
+ 406480 488b0551 877800c7 00000000 00488b05  H..Q.x.......H..
+ 406490 4c877800 c7400800 00000048 8b054687  L.x..@.....H..F.
+ 4064a0 7800c740 08000000 00488b05 40877800  x..@.....H..@.x.
+ 4064b0 c7400800 00000048 8b053a87 78004883  .@.....H..:.x.H.
+ 4064c0 c010488b 0083e001 4885c00f 84fe0000  ..H.....H.......
+ 4064d0 00488b05 20877800 4883c010 488b0083  .H.. .x.H...H...
+ 4064e0 e0024885 c0744548 8b050a87 78004883  ..H..tEH....x.H.
+ 4064f0 c028488b 104889d0 4801c048 01d0488d  .(H..H..H..H..H.
+ 406500 14c50000 00004801 d048c1e0 034889c2  ......H..H...H..
+ 406510 488b05e1 86780048 8b00be00 00000048  H....x.H.......H
+ 406520 89c7e889 eeffffe9 a3000000 488b05c5  ............H...
+ 406530 86780048 83c01048 8b0083e0 044885c0  .x.H...H.....H..
+ 406540 7414488b 05af8678 00488b00 4889c7e8  t.H....x.H..H...
+ 406550 b2d84d00 eb12488b 059b8678 00488b00  ..M...H....x.H..
+ 406560 4889c7e8 f8f3ffff 488b0589 86780048  H.......H....x.H
+ 406570 83c01048 8b10488b 057b8678 004883c0  ...H..H..{.x.H..
+ 406580 104883f2 01488910 488b0569 86780048  .H...H..H..i.x.H
+ 406590 83c02048 c700ffff ff7f488b 05578678  .. H......H..W.x
+ 4065a0 004883c0 2848c700 00000000 488b0545  .H..(H......H..E
+ 4065b0 86780048 83c03048 c7000000 0000488b  .x.H..0H......H.
+ 4065c0 155b7867 00488b05 2c867800 48891048  .[xg.H..,.x.H..H
+ 4065d0 8b052a86 7800c740 08000000 00488b05  ..*.x..@.....H..
+ 4065e0 24867800 c7000000 0000488b 051f8678  $.x.......H....x
+ 4065f0 004883c0 10488b00 83e00148 85c00f84  .H...H.....H....
+ 406600 41010000 488b0505 86780048 83c01048  A...H....x.H...H
+ 406610 8b0083e0 024885c0 745b488b 05ef8578  .....H..t[H....x
+ 406620 00488b40 28488905 7ca57800 eb26488b  .H.@(H..|.x..&H.
+ 406630 0573a578 00488d14 c5000000 00488b05  .s.x.H.......H..
+ 406640 cc857800 488b0048 01d0488b 00c74008  ..x.H..H..H...@.
+ 406650 00000000 488b054d a5780048 8d50ff48  ....H..M.x.H.P.H
+ 406660 891542a5 78004885 c00f95c0 84c075be  ..B.x.H.......u.
+ 406670 e9d00000 00488b05 94857800 488b4028  .....H....x.H.@(
+ 406680 48890521 a57800eb 27488b05 18a57800  H..!.x..'H....x.
+ 406690 488d14c5 00000000 488b0571 85780048  H.......H..q.x.H
+ 4066a0 8b004801 d0488b00 4889c7e8 fcda4d00  ..H..H..H.....M.
+ 4066b0 488b05f1 a4780048 8d50ff48 8915e6a4  H....x.H.P.H....
+ 4066c0 78004885 c00f95c0 84c075bd 488b053d  x.H.......u.H..=
+ 4066d0 85780048 8b004889 c7e882f2 ffff488b  .x.H..H.......H.
+ 4066e0 052b8578 004883c0 10488b10 488b051d  .+.x.H...H..H...
+ 4066f0 85780048 83c01048 83f20148 8910488b  .x.H...H...H..H.
+ 406700 050b8578 004883c0 2048c700 ffffff7f  ...x.H.. H......
+ 406710 488b05f9 84780048 83c02848 c7000000  H....x.H..(H....
+ 406720 0000488b 05e78478 004883c0 3048c700  ..H....x.H..0H..
+ 406730 00000000 488b05d5 84780048 8d15fe76  ....H....x.H...v
+ 406740 67004889 10488b05 cc847800 4883c010  g.H..H....x.H...
+ 406750 488b0083 e0014885 c00f84ea 00000048  H.....H........H
+ 406760 8b05b284 78004883 c010488b 0083e002  ....x.H...H.....
+ 406770 4885c074 31488b05 9c847800 4883c028  H..t1H....x.H..(
+ 406780 488b0048 c1e00348 89c2488b 05878478  H..H...H..H....x
+ 406790 00488b00 be000000 004889c7 e80fecff  .H.......H......
+ 4067a0 ffe9a300 0000488b 056b8478 004883c0  ......H..k.x.H..
+ 4067b0 10488b00 83e00448 85c07414 488b0555  .H.....H..t.H..U
+ 4067c0 84780048 8b004889 c7e838d6 4d00eb12  .x.H..H...8.M...
+ 4067d0 488b0541 84780048 8b004889 c7e87ef1  H..A.x.H..H...~.
+ 4067e0 ffff488b 052f8478 004883c0 10488b10  ..H../.x.H...H..
+ 4067f0 488b0521 84780048 83c01048 83f20148  H..!.x.H...H...H
+ 406800 8910488b 050f8478 004883c0 2048c700  ..H....x.H.. H..
+ 406810 ffffff7f 488b05fd 83780048 83c02848  ....H....x.H..(H
+ 406820 c7000000 0000488b 05eb8378 004883c0  ......H....x.H..
+ 406830 3048c700 00000000 488b15e1 75670048  0H......H...ug.H
+ 406840 8b05d283 78004889 10488b05 d0837800  ....x.H..H....x.
+ 406850 c7000000 0000488b 05cb8378 00c70000  ......H....x....
+ 406860 00000048 8b05c683 7800c740 08000000  ...H....x..@....
+ 406870 00488b05 c0837800 c7000000 0000488b  .H....x.......H.
+ 406880 05bb8378 00c74008 00000000 488b05b5  ...x..@.....H...
+ 406890 837800c7 40080000 0000488b 05af8378  .x..@.....H....x
+ 4068a0 00c70000 00000048 8b05aa83 7800c740  .......H....x..@
+ 4068b0 08000000 00488b05 a4837800 c7400800  .....H....x..@..
+ 4068c0 00000048 8b059e83 7800c740 08000000  ...H....x..@....
+ 4068d0 00488b05 98837800 c7400800 00000048  .H....x..@.....H
+ 4068e0 8b059283 7800c700 00000000 488b058d  ....x.......H...
+ 4068f0 837800c7 00000000 00488b05 88837800  .x.......H....x.
+ 406900 c7000000 0000488b 05838378 00c70000  ......H....x....
+ 406910 00000048 8b057e83 7800c700 00000000  ...H..~.x.......
+ 406920 488b0579 837800c7 40080000 0000488b  H..y.x..@.....H.
+ 406930 05738378 00c70000 00000048 8b056e83  .s.x.......H..n.
+ 406940 7800c700 00000000 488b0569 837800c7  x.......H..i.x..
+ 406950 00000000 00488b05 64837800 c7000000  .....H..d.x.....
+ 406960 0000488b 055f8378 00c70000 00000048  ..H.._.x.......H
+ 406970 8b055a83 7800c700 00000000 488b0555  ..Z.x.......H..U
+ 406980 837800c7 00000000 00488b05 50837800  .x.......H..P.x.
+ 406990 c7000000 0000488b 054b8378 00c70000  ......H..K.x....
+ 4069a0 00000048 8b054683 7800c700 00000000  ...H..F.x.......
+ 4069b0 488b0541 837800c7 00000000 00488b05  H..A.x.......H..
+ 4069c0 3c837800 c7000000 0000488b 05378378  <.x.......H..7.x
+ 4069d0 00c70000 00000048 8b053283 7800c700  .......H..2.x...
+ 4069e0 00000000 488b052d 837800c7 00000000  ....H..-.x......
+ 4069f0 00488b05 28837800 c7000000 0000488b  .H..(.x.......H.
+ 406a00 05238378 00c70000 00000048 8b051e83  .#.x.......H....
+ 406a10 7800c700 00000000 488b0519 837800c7  x.......H....x..
+ 406a20 00000000 00488b05 14837800 c7000000  .....H....x.....
+ 406a30 0000488b 050f8378 00c74008 00000000  ..H....x..@.....
+ 406a40 488b0509 837800c7 00000000 00488b05  H....x.......H..
+ 406a50 04837800 c7400800 00000048 8b05fe82  ..x..@.....H....
+ 406a60 7800c740 08000000 00488b05 f8827800  x..@.....H....x.
+ 406a70 c7400800 00000048 8b05f282 7800c700  .@.....H....x...
+ 406a80 00000000 488b05ed 827800c7 00000000  ....H....x......
+ 406a90 00488b05 e8827800 c7000000 0000488b  .H....x.......H.
+ 406aa0 05e38278 00c70000 00000048 8b05de82  ...x.......H....
+ 406ab0 7800c700 00000000 488b05d9 827800c7  x.......H....x..
+ 406ac0 00000000 00488b05 d4827800 c7000000  .....H....x.....
+ 406ad0 0000488b 05cf8278 00c70000 00000048  ..H....x.......H
+ 406ae0 8b05ca82 7800c700 00000000 488b05c5  ....x.......H...
+ 406af0 827800c7 00000000 00488b05 c0827800  .x.......H....x.
+ 406b00 c7000000 0000488b 05bb8278 00c70000  ......H....x....
+ 406b10 00000048 8b05b682 7800c700 00000000  ...H....x.......
+ 406b20 488b05b1 827800c7 00000000 00488b05  H....x.......H..
+ 406b30 ac827800 4883c010 488b0083 e0014885  ..x.H...H.....H.
+ 406b40 c00f84ea 00000048 8b059282 78004883  .......H....x.H.
+ 406b50 c010488b 0083e002 4885c074 31488b05  ..H.....H..t1H..
+ 406b60 7c827800 4883c028 488b0048 c1e00248  |.x.H..(H..H...H
+ 406b70 89c2488b 05678278 00488b00 be000000  ..H..g.x.H......
+ 406b80 004889c7 e827e8ff ffe9a300 0000488b  .H...'........H.
+ 406b90 054b8278 004883c0 10488b00 83e00448  .K.x.H...H.....H
+ 406ba0 85c07414 488b0535 82780048 8b004889  ..t.H..5.x.H..H.
+ 406bb0 c7e850d2 4d00eb12 488b0521 82780048  ..P.M...H..!.x.H
+ 406bc0 8b004889 c7e896ed ffff488b 050f8278  ..H.......H....x
+ 406bd0 004883c0 10488b10 488b0501 82780048  .H...H..H....x.H
+ 406be0 83c01048 83f20148 8910488b 05ef8178  ...H...H..H....x
+ 406bf0 004883c0 2048c700 ffffff7f 488b05dd  .H.. H......H...
+ 406c00 81780048 83c02848 c7000000 0000488b  .x.H..(H......H.
+ 406c10 05cb8178 004883c0 3048c700 00000000  ...x.H..0H......
+ 406c20 488b15f9 71670048 8b05b281 78004889  H...qg.H....x.H.
+ 406c30 10488b05 b0817800 4883c010 488b0083  .H....x.H...H...
+ 406c40 e0014885 c00f8441 01000048 8b059681  ..H....A...H....
+ 406c50 78004883 c010488b 0083e002 4885c074  x.H...H.....H..t
+ 406c60 5b488b05 80817800 488b4028 48890535  [H....x.H.@(H..5
+ 406c70 9f7800eb 26488b05 2c9f7800 488d14c5  .x..&H..,.x.H...
+ 406c80 00000000 488b055d 81780048 8b004801  ....H..].x.H..H.
+ 406c90 d0488b00 c7400800 00000048 8b05069f  .H...@.....H....
+ 406ca0 7800488d 50ff4889 15fb9e78 004885c0  x.H.P.H....x.H..
+ 406cb0 0f95c084 c075bee9 d0000000 488b0525  .....u......H..%
+ 406cc0 81780048 8b402848 8905da9e 7800eb27  .x.H.@(H....x..'
+ 406cd0 488b05d1 9e780048 8d14c500 00000048  H....x.H.......H
+ 406ce0 8b050281 7800488b 004801d0 488b0048  ....x.H..H..H..H
+ 406cf0 89c7e8b5 d44d0048 8b05aa9e 7800488d  .....M.H....x.H.
+ 406d00 50ff4889 159f9e78 004885c0 0f95c084  P.H....x.H......
+ 406d10 c075bd48 8b05ce80 7800488b 004889c7  .u.H....x.H..H..
+ 406d20 e83becff ff488b05 bc807800 4883c010  .;...H....x.H...
+ 406d30 488b1048 8b05ae80 78004883 c0104883  H..H....x.H...H.
+ 406d40 f2014889 10488b05 9c807800 4883c020  ..H..H....x.H.. 
+ 406d50 48c700ff ffff7f48 8b058a80 78004883  H......H....x.H.
+ 406d60 c02848c7 00000000 00488b05 78807800  .(H......H..x.x.
+ 406d70 4883c030 48c70000 00000048 8b056680  H..0H......H..f.
+ 406d80 7800488d 15b77067 00488910 488b055d  x.H...pg.H..H..]
+ 406d90 80780048 83c01048 8b0083e0 014885c0  .x.H...H.....H..
+ 406da0 0f844101 0000488b 05438078 004883c0  ..A...H..C.x.H..
+ 406db0 10488b00 83e00248 85c0745b 488b052d  .H.....H..t[H..-
+ 406dc0 80780048 8b402848 8905da9d 7800eb26  .x.H.@(H....x..&
+ 406dd0 488b05d1 9d780048 8d14c500 00000048  H....x.H.......H
+ 406de0 8b050a80 7800488b 004801d0 488b00c7  ....x.H..H..H...
+ 406df0 40080000 0000488b 05ab9d78 00488d50  @.....H....x.H.P
+ 406e00 ff488915 a09d7800 4885c00f 95c084c0  .H....x.H.......
+ 406e10 75bee9d0 00000048 8b05d27f 7800488b  u......H....x.H.
+ 406e20 40284889 057f9d78 00eb2748 8b05769d  @(H....x..'H..v.
+ 406e30 7800488d 14c50000 0000488b 05af7f78  x.H.......H....x
+ 406e40 00488b00 4801d048 8b004889 c7e85ad3  .H..H..H..H...Z.
+ 406e50 4d00488b 054f9d78 00488d50 ff488915  M.H..O.x.H.P.H..
+ 406e60 449d7800 4885c00f 95c084c0 75bd488b  D.x.H.......u.H.
+ 406e70 057b7f78 00488b00 4889c7e8 e0eaffff  .{.x.H..H.......
+ 406e80 488b0569 7f780048 83c01048 8b10488b  H..i.x.H...H..H.
+ 406e90 055b7f78 004883c0 104883f2 01488910  .[.x.H...H...H..
+ 406ea0 488b0549 7f780048 83c02048 c700ffff  H..I.x.H.. H....
+ 406eb0 ff7f488b 05377f78 004883c0 2848c700  ..H..7.x.H..(H..
+ 406ec0 00000000 488b0525 7f780048 83c03048  ....H..%.x.H..0H
+ 406ed0 c7000000 0000488b 05137f78 00488d15  ......H....x.H..
+ 406ee0 5c6f6700 48891048 8b050a7f 78004883  \og.H..H....x.H.
+ 406ef0 c010488b 0083e001 4885c00f 84ea0000  ..H.....H.......
+ 406f00 00488b05 f07e7800 4883c010 488b0083  .H...~x.H...H...
+ 406f10 e0024885 c0743148 8b05da7e 78004883  ..H..t1H...~x.H.
+ 406f20 c028488b 0048c1e0 044889c2 488b05c5  .(H..H...H..H...
+ 406f30 7e780048 8b00be00 00000048 89c7e86d  ~x.H.......H...m
+ 406f40 e4ffffe9 a3000000 488b05a9 7e780048  ........H...~x.H
+ 406f50 83c01048 8b0083e0 044885c0 7414488b  ...H.....H..t.H.
+ 406f60 05937e78 00488b00 4889c7e8 96ce4d00  ..~x.H..H.....M.
+ 406f70 eb12488b 057f7e78 00488b00 4889c7e8  ..H...~x.H..H...
+ 406f80 dce9ffff 488b056d 7e780048 83c01048  ....H..m~x.H...H
+ 406f90 8b10488b 055f7e78 004883c0 104883f2  ..H.._~x.H...H..
+ 406fa0 01488910 488b054d 7e780048 83c02048  .H..H..M~x.H.. H
+ 406fb0 c700ffff ff7f488b 053b7e78 004883c0  ......H..;~x.H..
+ 406fc0 2848c700 00000000 488b0529 7e780048  (H......H..)~x.H
+ 406fd0 83c03048 c7000000 0000488b 153f6e67  ..0H......H..?ng
+ 406fe0 00488b05 107e7800 48891048 8b050e7e  .H...~x.H..H...~
+ 406ff0 7800c700 00000000 488b0509 7e780066  x.......H...~x.f
+ 407000 0fefc0f2 0f110048 8b05027e 7800c740  .......H...~x..@
+ 407010 08000000 00488b05 fc7d7800 c7400800  .....H...}x..@..
+ 407020 00000048 8b05f67d 7800c700 00000000  ...H...}x.......
+ 407030 488b05f1 7d7800c7 00000000 00488b05  H...}x.......H..
+ 407040 ec7d7800 c6000048 8b05ea7d 7800c700  .}x....H...}x...
+ 407050 00000000 488b05e5 7d7800c7 40080000  ....H...}x..@...
+ 407060 0000488b 05df7d78 00c60000 488b05dd  ..H...}x....H...
+ 407070 7d7800c7 00000000 00488b05 d87d7800  }x.......H...}x.
+ 407080 4883c010 488b0083 e0014885 c00f84a1  H...H.....H.....
+ 407090 01000048 8b05be7d 78004883 c010488b  ...H...}x.H...H.
+ 4070a0 0083e002 4885c074 70488b05 a87d7800  ....H..tpH...}x.
+ 4070b0 4883c028 488b1048 8b059a7d 78004883  H..(H..H...}x.H.
+ 4070c0 c048488b 00480faf c2488905 d89a7800  .HH..H...H....x.
+ 4070d0 eb26488b 05cf9a78 00488d14 c5000000  .&H....x.H......
+ 4070e0 00488b05 707d7800 488b0048 01d0488b  .H..p}x.H..H..H.
+ 4070f0 00c74008 00000000 488b05a9 9a780048  ..@.....H....x.H
+ 407100 8d50ff48 89159e9a 78004885 c00f95c0  .P.H....x.H.....
+ 407110 84c075be e91b0100 00488b05 387d7800  ..u......H..8}x.
+ 407120 4883c028 488b1048 8b052a7d 78004883  H..(H..H..*}x.H.
+ 407130 c048488b 00480faf c2488905 689a7800  .HH..H...H..h.x.
+ 407140 eb27488b 055f9a78 00488d14 c5000000  .'H.._.x.H......
+ 407150 00488b05 007d7800 488b0048 01d0488b  .H...}x.H..H..H.
+ 407160 004889c7 e843d04d 00488b05 389a7800  .H...C.M.H..8.x.
+ 407170 488d50ff 4889152d 9a780048 85c00f95  H.P.H..-.x.H....
+ 407180 c084c075 bd488b05 cc7c7800 488b0048  ...u.H...|x.H..H
+ 407190 89c7e8c9 e7ffff48 8b05ba7c 78004883  .......H...|x.H.
+ 4071a0 c010488b 10488b05 ac7c7800 4883c010  ..H..H...|x.H...
+ 4071b0 4883f201 48891048 8b059a7c 78004883  H...H..H...|x.H.
+ 4071c0 c02048c7 00ffffff 7f488b05 887c7800  . H......H...|x.
+ 4071d0 4883c028 48c70000 00000048 8b05767c  H..(H......H..v|
+ 4071e0 78004883 c03048c7 00000000 00488b05  x.H..0H......H..
+ 4071f0 647c7800 4883c040 48c700ff ffff7f48  d|x.H..@H......H
+ 407200 8b05527c 78004883 c04848c7 00000000  ..R|x.H..HH.....
+ 407210 00488b05 407c7800 4883c050 48c70000  .H..@|x.H..PH...
+ 407220 00000048 8b052e7c 7800488d 150f6c67  ...H...|x.H...lg
+ 407230 00488910 488b0525 7c7800c7 40080000  .H..H..%|x..@...
+ 407240 0000488b 051f7c78 004883c0 10488b00  ..H...|x.H...H..
+ 407250 83e00148 85c00f84 ea000000 488b0505  ...H........H...
+ 407260 7c780048 83c01048 8b0083e0 024885c0  |x.H...H.....H..
+ 407270 7431488b 05ef7b78 004883c0 28488b00  t1H...{x.H..(H..
+ 407280 48c1e004 4889c248 8b05da7b 7800488b  H...H..H...{x.H.
+ 407290 00be0000 00004889 c7e812e1 ffffe9a3  ......H.........
+ 4072a0 00000048 8b05be7b 78004883 c010488b  ...H...{x.H...H.
+ 4072b0 0083e004 4885c074 14488b05 a87b7800  ....H..t.H...{x.
+ 4072c0 488b0048 89c7e83b cb4d00eb 12488b05  H..H...;.M...H..
+ 4072d0 947b7800 488b0048 89c7e881 e6ffff48  .{x.H..H.......H
+ 4072e0 8b05827b 78004883 c010488b 10488b05  ...{x.H...H..H..
+ 4072f0 747b7800 4883c010 4883f201 48891048  t{x.H...H...H..H
+ 407300 8b05627b 78004883 c02048c7 00ffffff  ..b{x.H.. H.....
+ 407310 7f488b05 507b7800 4883c028 48c70000  .H..P{x.H..(H...
+ 407320 00000048 8b053e7b 78004883 c03048c7  ...H..>{x.H..0H.
+ 407330 00000000 00488b15 e46a6700 488b0525  .....H...jg.H..%
+ 407340 7b780048 8910488b 05237b78 00c70000  {x.H..H..#{x....
+ 407350 00000048 8b051e7b 7800c700 00000000  ...H...{x.......
+ 407360 488b0519 7b7800c7 00000000 00488b05  H...{x.......H..
+ 407370 147b7800 c7000000 0000488b 050f7b78  .{x.......H...{x
+ 407380 00c70000 00000048 8b050a7b 7800c700  .......H...{x...
+ 407390 00000000 488b0505 7b7800c7 00000000  ....H...{x......
+ 4073a0 00488b05 007b7800 c7000000 0000488b  .H...{x.......H.
+ 4073b0 05fb7a78 00c70000 00000048 8b05f67a  ..zx.......H...z
+ 4073c0 7800c700 00000000 488b05f1 7a7800c7  x.......H...zx..
+ 4073d0 00000000 00488b05 ec7a7800 c7000000  .....H...zx.....
+ 4073e0 0000488b 05e77a78 00c70000 00000048  ..H...zx.......H
+ 4073f0 8b05e27a 7800c700 00000000 488b05dd  ...zx.......H...
+ 407400 7a7800c7 00000000 00488b05 d87a7800  zx.......H...zx.
+ 407410 c7400800 00000048 8b05d27a 7800c700  .@.....H...zx...
+ 407420 00000000 488b05cd 7a7800c7 00000000  ....H...zx......
+ 407430 00488b05 c87a7800 c7000000 0000488b  .H...zx.......H.
+ 407440 05c37a78 00c70000 00000048 8b05be7a  ..zx.......H...z
+ 407450 7800c700 00000000 488b05b9 7a7800c7  x.......H...zx..
+ 407460 00000000 00488b05 b47a7800 c7000000  .....H...zx.....
+ 407470 0000488b 05af7a78 00c70000 00000048  ..H...zx.......H
+ 407480 8b05aa7a 78004883 c010488b 0083e001  ...zx.H...H.....
+ 407490 4885c00f 84e90000 00488b05 907a7800  H........H...zx.
+ 4074a0 4883c010 488b0083 e0024885 c0743048  H...H.....H..t0H
+ 4074b0 8b057a7a 78004883 c028488b 004801c0  ..zzx.H..(H..H..
+ 4074c0 4889c248 8b05667a 7800488b 00be0000  H..H..fzx.H.....
+ 4074d0 00004889 c7e8d6de ffffe9a3 00000048  ..H............H
+ 4074e0 8b054a7a 78004883 c010488b 0083e004  ..Jzx.H...H.....
+ 4074f0 4885c074 14488b05 347a7800 488b0048  H..t.H..4zx.H..H
+ 407500 89c7e8ff c84d00eb 12488b05 207a7800  .....M...H.. zx.
+ 407510 488b0048 89c7e845 e4ffff48 8b050e7a  H..H...E...H...z
+ 407520 78004883 c010488b 10488b05 007a7800  x.H...H..H...zx.
+ 407530 4883c010 4883f201 48891048 8b05ee79  H...H...H..H...y
+ 407540 78004883 c02048c7 00ffffff 7f488b05  x.H.. H......H..
+ 407550 dc797800 4883c028 48c70000 00000048  .yx.H..(H......H
+ 407560 8b05ca79 78004883 c03048c7 00000000  ...yx.H..0H.....
+ 407570 00488b15 a8686700 488b05b1 79780048  .H...hg.H...yx.H
+ 407580 8910488b 05af7978 00c70000 00000048  ..H...yx.......H
+ 407590 8b05aa79 78004883 c010488b 0083e001  ...yx.H...H.....
+ 4075a0 4885c00f 84410100 00488b05 90797800  H....A...H...yx.
+ 4075b0 4883c010 488b0083 e0024885 c0745b48  H...H.....H..t[H
+ 4075c0 8b057a79 7800488b 40284889 05d79578  ..zyx.H.@(H....x
+ 4075d0 00eb2648 8b05ce95 7800488d 14c50000  ..&H....x.H.....
+ 4075e0 0000488b 05577978 00488b00 4801d048  ..H..Wyx.H..H..H
+ 4075f0 8b00c740 08000000 00488b05 a8957800  ...@.....H....x.
+ 407600 488d50ff 4889159d 95780048 85c00f95  H.P.H....x.H....
+ 407610 c084c075 bee9d000 0000488b 051f7978  ...u......H...yx
+ 407620 00488b40 28488905 7c957800 eb27488b  .H.@(H..|.x..'H.
+ 407630 05739578 00488d14 c5000000 00488b05  .s.x.H.......H..
+ 407640 fc787800 488b0048 01d0488b 004889c7  .xx.H..H..H..H..
+ 407650 e857cb4d 00488b05 4c957800 488d50ff  .W.M.H..L.x.H.P.
+ 407660 48891541 95780048 85c00f95 c084c075  H..A.x.H.......u
+ 407670 bd488b05 c8787800 488b0048 89c7e8dd  .H...xx.H..H....
+ 407680 e2ffff48 8b05b678 78004883 c010488b  ...H...xx.H...H.
+ 407690 10488b05 a8787800 4883c010 4883f201  .H...xx.H...H...
+ 4076a0 48891048 8b059678 78004883 c02048c7  H..H...xx.H.. H.
+ 4076b0 00ffffff 7f488b05 84787800 4883c028  .....H...xx.H..(
+ 4076c0 48c70000 00000048 8b057278 78004883  H......H..rxx.H.
+ 4076d0 c03048c7 00000000 00488b05 60787800  .0H......H..`xx.
+ 4076e0 488d1559 67670048 8910488b 05577878  H..Ygg.H..H..Wxx
+ 4076f0 004883c0 10488b00 83e00148 85c00f84  .H...H.....H....
+ 407700 41010000 488b053d 78780048 83c01048  A...H..=xx.H...H
+ 407710 8b0083e0 024885c0 745b488b 05277878  .....H..t[H..'xx
+ 407720 00488b40 28488905 7c947800 eb26488b  .H.@(H..|.x..&H.
+ 407730 05739478 00488d14 c5000000 00488b05  .s.x.H.......H..
+ 407740 04787800 488b0048 01d0488b 00c74008  .xx.H..H..H...@.
+ 407750 00000000 488b054d 94780048 8d50ff48  ....H..M.x.H.P.H
+ 407760 89154294 78004885 c00f95c0 84c075be  ..B.x.H.......u.
+ 407770 e9d00000 00488b05 cc777800 488b4028  .....H...wx.H.@(
+ 407780 48890521 947800eb 27488b05 18947800  H..!.x..'H....x.
+ 407790 488d14c5 00000000 488b05a9 77780048  H.......H...wx.H
+ 4077a0 8b004801 d0488b00 4889c7e8 fcc94d00  ..H..H..H.....M.
+ 4077b0 488b05f1 93780048 8d50ff48 8915e693  H....x.H.P.H....
+ 4077c0 78004885 c00f95c0 84c075bd 488b0575  x.H.......u.H..u
+ 4077d0 77780048 8b004889 c7e882e1 ffff488b  wx.H..H.......H.
+ 4077e0 05637778 004883c0 10488b10 488b0555  .cwx.H...H..H..U
+ 4077f0 77780048 83c01048 83f20148 8910488b  wx.H...H...H..H.
+ 407800 05437778 004883c0 2048c700 ffffff7f  .Cwx.H.. H......
+ 407810 488b0531 77780048 83c02848 c7000000  H..1wx.H..(H....
+ 407820 0000488b 051f7778 004883c0 3048c700  ..H...wx.H..0H..
+ 407830 00000000 488b050d 77780048 8d15fe65  ....H...wx.H...e
+ 407840 67004889 10488b05 04777800 c7400800  g.H..H...wx..@..
+ 407850 00000048 8b05fe76 7800c700 00000000  ...H...vx.......
+ 407860 488b05f9 767800c7 00000000 00488b05  H...vx.......H..
+ 407870 f4767800 c7400800 00000048 8b05ee76  .vx..@.....H...v
+ 407880 7800c740 08000000 00488b05 e8767800  x..@.....H...vx.
+ 407890 c7000000 0000488b 05e37678 00c70000  ......H...vx....
+ 4078a0 00000048 8b05de76 7800c700 00000000  ...H...vx.......
+ 4078b0 488b05d9 76780066 c7000000 488b05d5  H...vx.f....H...
+ 4078c0 767800c7 00000000 00488b05 d0767800  vx.......H...vx.
+ 4078d0 c7400800 00000048 8b05ca76 7800c700  .@.....H...vx...
+ 4078e0 00000000 488b05c5 767800c7 00000000  ....H...vx......
+ 4078f0 00488b05 c0767800 c7000000 0000488b  .H...vx.......H.
+ 407900 05bb7678 00c70000 00000048 8b05b676  ..vx.......H...v
+ 407910 7800c700 00000000 488b05b1 767800c7  x.......H...vx..
+ 407920 00000000 00488b05 ac767800 c7000000  .....H...vx.....
+ 407930 0000488b 05a77678 00c70000 00000048  ..H...vx.......H
+ 407940 8b05a276 7800c700 00000000 488b059d  ...vx.......H...
+ 407950 767800c7 40080000 0000488b 05977678  vx..@.....H...vx
+ 407960 00c70000 00000048 8b059276 7800c700  .......H...vx...
+ 407970 00000000 488b058d 767800c7 00000000  ....H...vx......
+ 407980 00488b05 88767800 c7000000 0000488b  .H...vx.......H.
+ 407990 05837678 00c70000 00000048 8b057e76  ..vx.......H..~v
+ 4079a0 7800c700 00000000 488b0579 767800c7  x.......H..yvx..
+ 4079b0 00000000 00488b05 74767800 c7000000  .....H..tvx.....
+ 4079c0 0000488b 056f7678 00c70000 00000048  ..H..ovx.......H
+ 4079d0 8b056a76 7800c740 08000000 00488b05  ..jvx..@.....H..
+ 4079e0 64767800 c7000000 0000488b 055f7678  dvx.......H.._vx
+ 4079f0 00c74008 00000000 488b0559 76780048  ..@.....H..Yvx.H
+ 407a00 83c01048 8b0083e0 014885c0 0f844101  ...H.....H....A.
+ 407a10 0000488b 053f7678 004883c0 10488b00  ..H..?vx.H...H..
+ 407a20 83e00248 85c0745b 488b0529 76780048  ...H..t[H..)vx.H
+ 407a30 8b402848 89056e91 7800eb26 488b0565  .@(H..n.x..&H..e
+ 407a40 91780048 8d14c500 00000048 8b050676  .x.H.......H...v
+ 407a50 7800488b 004801d0 488b00c7 40080000  x.H..H..H...@...
+ 407a60 0000488b 053f9178 00488d50 ff488915  ..H..?.x.H.P.H..
+ 407a70 34917800 4885c00f 95c084c0 75bee9d0  4.x.H.......u...
+ 407a80 00000048 8b05ce75 7800488b 40284889  ...H...ux.H.@(H.
+ 407a90 05139178 00eb2748 8b050a91 7800488d  ...x..'H....x.H.
+ 407aa0 14c50000 0000488b 05ab7578 00488b00  ......H...ux.H..
+ 407ab0 4801d048 8b004889 c7e8eec6 4d00488b  H..H..H.....M.H.
+ 407ac0 05e39078 00488d50 ff488915 d8907800  ...x.H.P.H....x.
+ 407ad0 4885c00f 95c084c0 75bd488b 05777578  H.......u.H..wux
+ 407ae0 00488b00 4889c7e8 74deffff 488b0565  .H..H...t...H..e
+ 407af0 75780048 83c01048 8b10488b 05577578  ux.H...H..H..Wux
+ 407b00 004883c0 104883f2 01488910 488b0545  .H...H...H..H..E
+ 407b10 75780048 83c02048 c700ffff ff7f488b  ux.H.. H......H.
+ 407b20 05337578 004883c0 2848c700 00000000  .3ux.H..(H......
+ 407b30 488b0521 75780048 83c03048 c7000000  H..!ux.H..0H....
+ 407b40 0000488b 050f7578 00488d15 f0626700  ..H...ux.H...bg.
+ 407b50 48891048 8b050675 780066c7 00000048  H..H...ux.f....H
+ 407b60 8b050275 7800c700 00000000 488b05fd  ...ux.......H...
+ 407b70 747800c7 40080000 0000488b 05f77478  tx..@.....H...tx
+ 407b80 00c74008 00000000 488b05f1 747800c7  ..@.....H...tx..
+ 407b90 40080000 0000488b 05eb7478 0066c700  @.....H...tx.f..
+ 407ba0 0000488b 05e77478 0066c700 0000488b  ..H...tx.f....H.
+ 407bb0 05e37478 0066c700 0000488b 05df7478  ..tx.f....H...tx
+ 407bc0 0066c700 0000488b 05db7478 0066c700  .f....H...tx.f..
+ 407bd0 0000488b 05d77478 0066c700 0000488b  ..H...tx.f....H.
+ 407be0 05d37478 0066c700 0000488b 05cf7478  ..tx.f....H...tx
+ 407bf0 0066c700 0000488b 05cb7478 00c74008  .f....H...tx..@.
+ 407c00 00000000 488b05c5 74780066 c7000000  ....H...tx.f....
+ 407c10 488b05c1 74780066 c7000000 488b05bd  H...tx.f....H...
+ 407c20 74780048 8b00ba01 000000be 00000000  tx.H............
+ 407c30 4889c7e8 78d7ffff 488b05a9 74780048  H...x...H...tx.H
+ 407c40 83c01048 8b0083e0 014885c0 0f844101  ...H.....H....A.
+ 407c50 0000488b 058f7478 004883c0 10488b00  ..H...tx.H...H..
+ 407c60 83e00248 85c0745b 488b0579 74780048  ...H..t[H..ytx.H
+ 407c70 8b402848 89052e8f 7800eb26 488b0525  .@(H....x..&H..%
+ 407c80 8f780048 8d14c500 00000048 8b055674  .x.H.......H..Vt
+ 407c90 7800488b 004801d0 488b00c7 40080000  x.H..H..H...@...
+ 407ca0 0000488b 05ff8e78 00488d50 ff488915  ..H....x.H.P.H..
+ 407cb0 f48e7800 4885c00f 95c084c0 75bee9d0  ..x.H.......u...
+ 407cc0 00000048 8b051e74 7800488b 40284889  ...H...tx.H.@(H.
+ 407cd0 05d38e78 00eb2748 8b05ca8e 7800488d  ...x..'H....x.H.
+ 407ce0 14c50000 0000488b 05fb7378 00488b00  ......H...sx.H..
+ 407cf0 4801d048 8b004889 c7e8aec4 4d00488b  H..H..H.....M.H.
+ 407d00 05a38e78 00488d50 ff488915 988e7800  ...x.H.P.H....x.
+ 407d10 4885c00f 95c084c0 75bd488b 05c77378  H.......u.H...sx
+ 407d20 00488b00 4889c7e8 34dcffff 488b05b5  .H..H...4...H...
+ 407d30 73780048 83c01048 8b10488b 05a77378  sx.H...H..H...sx
+ 407d40 004883c0 104883f2 01488910 488b0595  .H...H...H..H...
+ 407d50 73780048 83c02048 c700ffff ff7f488b  sx.H.. H......H.
+ 407d60 05837378 004883c0 2848c700 00000000  ..sx.H..(H......
+ 407d70 488b0571 73780048 83c03048 c7000000  H..qsx.H..0H....
+ 407d80 0000488b 055f7378 00488d15 b0606700  ..H.._sx.H...`g.
+ 407d90 48891048 8b055673 7800c700 00000000  H..H..Vsx.......
+ 407da0 488b0551 73780048 83c01048 8b0083e0  H..Qsx.H...H....
+ 407db0 014885c0 0f84ea00 0000488b 05377378  .H........H..7sx
+ 407dc0 004883c0 10488b00 83e00248 85c07431  .H...H.....H..t1
+ 407dd0 488b0521 73780048 83c02848 8b0048c1  H..!sx.H..(H..H.
+ 407de0 e0024889 c2488b05 0c737800 488b00be  ..H..H...sx.H...
+ 407df0 00000000 4889c7e8 b4d5ffff e9a30000  ....H...........
+ 407e00 00488b05 f0727800 4883c010 488b0083  .H...rx.H...H...
+ 407e10 e0044885 c0741448 8b05da72 7800488b  ..H..t.H...rx.H.
+ 407e20 004889c7 e8ddbf4d 00eb1248 8b05c672  .H.....M...H...r
+ 407e30 7800488b 004889c7 e823dbff ff488b05  x.H..H...#...H..
+ 407e40 b4727800 4883c010 488b1048 8b05a672  .rx.H...H..H...r
+ 407e50 78004883 c0104883 f2014889 10488b05  x.H...H...H..H..
+ 407e60 94727800 4883c020 48c700ff ffff7f48  .rx.H.. H......H
+ 407e70 8b058272 78004883 c02848c7 00000000  ...rx.H..(H.....
+ 407e80 00488b05 70727800 4883c030 48c70000  .H..prx.H..0H...
+ 407e90 00000048 8b15865f 6700488b 05577278  ...H..._g.H..Wrx
+ 407ea0 00488910 488b0555 727800c7 40080000  .H..H..Urx..@...
+ 407eb0 0000488b 054f7278 00c60000 488b054d  ..H..Orx....H..M
+ 407ec0 727800c7 00000000 00488b05 48727800  rx.......H..Hrx.
+ 407ed0 c7400800 00000048 8b054272 7800c600  .@.....H..Brx...
+ 407ee0 00488b05 40727800 c6000048 8b053e72  .H..@rx....H..>r
+ 407ef0 780066c7 00000048 8b053a72 7800c700  x.f....H..:rx...
+ 407f00 00000000 488b0535 727800c7 00000000  ....H..5rx......
+ 407f10 00488b05 30727800 c7400800 00000048  .H..0rx..@.....H
+ 407f20 8b052a72 7800c740 08000000 00488b05  ..*rx..@.....H..
+ 407f30 24727800 c7000000 0000488b 051f7278  $rx.......H...rx
+ 407f40 00c74008 00000000 488b0519 727800c7  ..@.....H...rx..
+ 407f50 00000000 00488b05 14727800 4883c010  .....H...rx.H...
+ 407f60 488b0083 e0014885 c00f84a1 01000048  H.....H........H
+ 407f70 8b05fa71 78004883 c010488b 0083e002  ...qx.H...H.....
+ 407f80 4885c074 70488b05 e4717800 4883c028  H..tpH...qx.H..(
+ 407f90 488b1048 8b05d671 78004883 c048488b  H..H...qx.H..HH.
+ 407fa0 00480faf c2488905 fc8b7800 eb26488b  .H...H....x..&H.
+ 407fb0 05f38b78 00488d14 c5000000 00488b05  ...x.H.......H..
+ 407fc0 ac717800 488b0048 01d0488b 00c74008  .qx.H..H..H...@.
+ 407fd0 00000000 488b05cd 8b780048 8d50ff48  ....H....x.H.P.H
+ 407fe0 8915c28b 78004885 c00f95c0 84c075be  ....x.H.......u.
+ 407ff0 e91b0100 00488b05 74717800 4883c028  .....H..tqx.H..(
+ 408000 488b1048 8b056671 78004883 c048488b  H..H..fqx.H..HH.
+ 408010 00480faf c2488905 8c8b7800 eb27488b  .H...H....x..'H.
+ 408020 05838b78 00488d14 c5000000 00488b05  ...x.H.......H..
+ 408030 3c717800 488b0048 01d0488b 004889c7  <qx.H..H..H..H..
+ 408040 e867c14d 00488b05 5c8b7800 488d50ff  .g.M.H..\.x.H.P.
+ 408050 48891551 8b780048 85c00f95 c084c075  H..Q.x.H.......u
+ 408060 bd488b05 08717800 488b0048 89c7e8ed  .H...qx.H..H....
+ 408070 d8ffff48 8b05f670 78004883 c010488b  ...H...px.H...H.
+ 408080 10488b05 e8707800 4883c010 4883f201  .H...px.H...H...
+ 408090 48891048 8b05d670 78004883 c02048c7  H..H...px.H.. H.
+ 4080a0 00ffffff 7f488b05 c4707800 4883c028  .....H...px.H..(
+ 4080b0 48c70000 00000048 8b05b270 78004883  H......H...px.H.
+ 4080c0 c03048c7 00000000 00488b05 a0707800  .0H......H...px.
+ 4080d0 4883c040 48c700ff ffff7f48 8b058e70  H..@H......H...p
+ 4080e0 78004883 c04848c7 00000000 00488b05  x.H..HH......H..
+ 4080f0 7c707800 4883c050 48c70000 00000048  |px.H..PH......H
+ 408100 8b056a70 7800488d 15335d67 00488910  ..jpx.H..3]g.H..
+ 408110 488b0561 70780048 83c01048 8b0083e0  H..apx.H...H....
+ 408120 014885c0 0f84a101 0000488b 05477078  .H........H..Gpx
+ 408130 004883c0 10488b00 83e00248 85c07470  .H...H.....H..tp
+ 408140 488b0531 70780048 83c02848 8b10488b  H..1px.H..(H..H.
+ 408150 05237078 004883c0 48488b00 480fafc2  .#px.H..HH..H...
+ 408160 48890541 8a7800eb 26488b05 388a7800  H..A.x..&H..8.x.
+ 408170 488d14c5 00000000 488b05f9 6f780048  H.......H...ox.H
+ 408180 8b004801 d0488b00 c7400800 00000048  ..H..H...@.....H
+ 408190 8b05128a 7800488d 50ff4889 15078a78  ....x.H.P.H....x
+ 4081a0 004885c0 0f95c084 c075bee9 1b010000  .H.......u......
+ 4081b0 488b05c1 6f780048 83c02848 8b10488b  H...ox.H..(H..H.
+ 4081c0 05b36f78 004883c0 48488b00 480fafc2  ..ox.H..HH..H...
+ 4081d0 488905d1 897800eb 27488b05 c8897800  H....x..'H....x.
+ 4081e0 488d14c5 00000000 488b0589 6f780048  H.......H...ox.H
+ 4081f0 8b004801 d0488b00 4889c7e8 acbf4d00  ..H..H..H.....M.
+ 408200 488b05a1 89780048 8d50ff48 89159689  H....x.H.P.H....
+ 408210 78004885 c00f95c0 84c075bd 488b0555  x.H.......u.H..U
+ 408220 6f780048 8b004889 c7e832d7 ffff488b  ox.H..H...2...H.
+ 408230 05436f78 004883c0 10488b10 488b0535  .Cox.H...H..H..5
+ 408240 6f780048 83c01048 83f20148 8910488b  ox.H...H...H..H.
+ 408250 05236f78 004883c0 2048c700 ffffff7f  .#ox.H.. H......
+ 408260 488b0511 6f780048 83c02848 c7000000  H...ox.H..(H....
+ 408270 0000488b 05ff6e78 004883c0 3048c700  ..H...nx.H..0H..
+ 408280 00000000 488b05ed 6e780048 83c04048  ....H...nx.H..@H
+ 408290 c700ffff ff7f488b 05db6e78 004883c0  ......H...nx.H..
+ 4082a0 4848c700 00000000 488b05c9 6e780048  HH......H...nx.H
+ 4082b0 83c05048 c7000000 0000488b 05b76e78  ..PH......H...nx
+ 4082c0 00488d15 785b6700 48891048 8b05ae6e  .H..x[g.H..H...n
+ 4082d0 78004883 c010488b 0083e001 4885c00f  x.H...H.....H...
+ 4082e0 84ea0000 00488b05 946e7800 4883c010  .....H...nx.H...
+ 4082f0 488b0083 e0024885 c0743148 8b057e6e  H.....H..t1H..~n
+ 408300 78004883 c028488b 0048c1e0 024889c2  x.H..(H..H...H..
+ 408310 488b0569 6e780048 8b00be00 00000048  H..inx.H.......H
+ 408320 89c7e889 d0ffffe9 a3000000 488b054d  ............H..M
+ 408330 6e780048 83c01048 8b0083e0 044885c0  nx.H...H.....H..
+ 408340 7414488b 05376e78 00488b00 4889c7e8  t.H..7nx.H..H...
+ 408350 b2ba4d00 eb12488b 05236e78 00488b00  ..M...H..#nx.H..
+ 408360 4889c7e8 f8d5ffff 488b0511 6e780048  H.......H...nx.H
+ 408370 83c01048 8b10488b 05036e78 004883c0  ...H..H...nx.H..
+ 408380 104883f2 01488910 488b05f1 6d780048  .H...H..H...mx.H
+ 408390 83c02048 c700ffff ff7f488b 05df6d78  .. H......H...mx
+ 4083a0 004883c0 2848c700 00000000 488b05cd  .H..(H......H...
+ 4083b0 6d780048 83c03048 c7000000 0000488b  mx.H..0H......H.
+ 4083c0 155b5a67 00488b05 b46d7800 48891048  .[Zg.H...mx.H..H
+ 4083d0 8b05b26d 780066c7 00000048 8b05ae6d  ...mx.f....H...m
+ 4083e0 780066c7 00000048 8b05aa6d 780066c7  x.f....H...mx.f.
+ 4083f0 00000048 8b05a66d 780066c7 00000048  ...H...mx.f....H
+ 408400 8b05a26d 780066c7 00000048 8b059e6d  ...mx.f....H...m
+ 408410 780066c7 00000048 8b059a6d 780066c7  x.f....H...mx.f.
+ 408420 00000048 8b05966d 780066c7 00000048  ...H...mx.f....H
+ 408430 8b05926d 780066c7 00000048 8b058e6d  ...mx.f....H...m
+ 408440 780066c7 00000048 8b058a6d 780066c7  x.f....H...mx.f.
+ 408450 00000048 8b05866d 780066c7 00000048  ...H...mx.f....H
+ 408460 8b05826d 780066c7 00000048 8b057e6d  ...mx.f....H..~m
+ 408470 780066c7 00000048 8b057a6d 780066c7  x.f....H..zmx.f.
+ 408480 00000048 8b05766d 780066c7 00000048  ...H..vmx.f....H
+ 408490 8b05726d 780066c7 00000048 8b056e6d  ..rmx.f....H..nm
+ 4084a0 780066c7 00000048 8b056a6d 780066c7  x.f....H..jmx.f.
+ 4084b0 00000048 8b05666d 780066c7 00000048  ...H..fmx.f....H
+ 4084c0 8b05626d 780066c7 00000048 8b055e6d  ..bmx.f....H..^m
+ 4084d0 780066c7 00000048 8b055a6d 78004883  x.f....H..Zmx.H.
+ 4084e0 c010488b 0083e001 4885c00f 84410100  ..H.....H....A..
+ 4084f0 00488b05 406d7800 4883c010 488b0083  .H..@mx.H...H...
+ 408500 e0024885 c0745b48 8b052a6d 7800488b  ..H..t[H..*mx.H.
+ 408510 40284889 058f8678 00eb2648 8b058686  @(H....x..&H....
+ 408520 7800488d 14c50000 0000488b 05076d78  x.H.......H...mx
+ 408530 00488b00 4801d048 8b00c740 08000000  .H..H..H...@....
+ 408540 00488b05 60867800 488d50ff 48891555  .H..`.x.H.P.H..U
+ 408550 86780048 85c00f95 c084c075 bee9d000  .x.H.......u....
+ 408560 0000488b 05cf6c78 00488b40 28488905  ..H...lx.H.@(H..
+ 408570 34867800 eb27488b 052b8678 00488d14  4.x..'H..+.x.H..
+ 408580 c5000000 00488b05 ac6c7800 488b0048  .....H...lx.H..H
+ 408590 01d0488b 004889c7 e80fbc4d 00488b05  ..H..H.....M.H..
+ 4085a0 04867800 488d50ff 488915f9 85780048  ..x.H.P.H....x.H
+ 4085b0 85c00f95 c084c075 bd488b05 786c7800  .......u.H..xlx.
+ 4085c0 488b0048 89c7e895 d3ffff48 8b05666c  H..H.......H..fl
+ 4085d0 78004883 c010488b 10488b05 586c7800  x.H...H..H..Xlx.
+ 4085e0 4883c010 4883f201 48891048 8b05466c  H...H...H..H..Fl
+ 4085f0 78004883 c02048c7 00ffffff 7f488b05  x.H.. H......H..
+ 408600 346c7800 4883c028 48c70000 00000048  4lx.H..(H......H
+ 408610 8b05226c 78004883 c03048c7 00000000  .."lx.H..0H.....
+ 408620 00488b05 106c7800 488d1511 58670048  .H...lx.H...Xg.H
+ 408630 8910488b 05076c78 0066c700 0000488b  ..H...lx.f....H.
+ 408640 05036c78 00c74008 00000000 488b05fd  ..lx..@.....H...
+ 408650 6b7800c7 40080000 0000488b 05f76b78  kx..@.....H...kx
+ 408660 00c70000 00000048 8b05f26b 7800c700  .......H...kx...
+ 408670 00000000 488b05ed 6b7800c7 00000000  ....H...kx......
+ 408680 00488b05 e86b7800 c7000000 0000488b  .H...kx.......H.
+ 408690 05e36b78 00c70000 00000048 8b05de6b  ..kx.......H...k
+ 4086a0 7800c700 00000000 488b05d9 6b7800c7  x.......H...kx..
+ 4086b0 00000000 00488b05 d46b7800 c7000000  .....H...kx.....
+ 4086c0 0000488b 05cf6b78 00c70000 00000048  ..H...kx.......H
+ 4086d0 8b05ca6b 7800c700 00000000 488b05c5  ...kx.......H...
+ 4086e0 6b7800c7 00000000 00488b05 c06b7800  kx.......H...kx.
+ 4086f0 c7000000 0000488b 05bb6b78 00c70000  ......H...kx....
+ 408700 00000048 8b05b66b 7800c700 00000000  ...H...kx.......
+ 408710 488b05b1 6b7800c7 40080000 0000488b  H...kx..@.....H.
+ 408720 05ab6b78 00c70000 00000048 8b05a66b  ..kx.......H...k
+ 408730 7800c700 00000000 488b05a1 6b7800c7  x.......H...kx..
+ 408740 00000000 00488b05 9c6b7800 c6000048  .....H...kx....H
+ 408750 8b059a6b 78004883 c010488b 0083e001  ...kx.H...H.....
+ 408760 4885c00f 84410100 00488b05 806b7800  H....A...H...kx.
+ 408770 4883c010 488b0083 e0024885 c0745b48  H...H.....H..t[H
+ 408780 8b056a6b 7800488b 40284889 05178478  ..jkx.H.@(H....x
+ 408790 00eb2648 8b050e84 7800488d 14c50000  ..&H....x.H.....
+ 4087a0 0000488b 05476b78 00488b00 4801d048  ..H..Gkx.H..H..H
+ 4087b0 8b00c740 08000000 00488b05 e8837800  ...@.....H....x.
+ 4087c0 488d50ff 488915dd 83780048 85c00f95  H.P.H....x.H....
+ 4087d0 c084c075 bee9d000 0000488b 050f6b78  ...u......H...kx
+ 4087e0 00488b40 28488905 bc837800 eb27488b  .H.@(H....x..'H.
+ 4087f0 05b38378 00488d14 c5000000 00488b05  ...x.H.......H..
+ 408800 ec6a7800 488b0048 01d0488b 004889c7  .jx.H..H..H..H..
+ 408810 e897b94d 00488b05 8c837800 488d50ff  ...M.H....x.H.P.
+ 408820 48891581 83780048 85c00f95 c084c075  H....x.H.......u
+ 408830 bd488b05 b86a7800 488b0048 89c7e81d  .H...jx.H..H....
+ 408840 d1ffff48 8b05a66a 78004883 c010488b  ...H...jx.H...H.
+ 408850 10488b05 986a7800 4883c010 4883f201  .H...jx.H...H...
+ 408860 48891048 8b05866a 78004883 c02048c7  H..H...jx.H.. H.
+ 408870 00ffffff 7f488b05 746a7800 4883c028  .....H..tjx.H..(
+ 408880 48c70000 00000048 8b05626a 78004883  H......H..bjx.H.
+ 408890 c03048c7 00000000 00488b05 506a7800  .0H......H..Pjx.
+ 4088a0 488d1599 55670048 8910488b 05476a78  H...Ug.H..H..Gjx
+ 4088b0 004883c0 10488b00 83e00148 85c00f84  .H...H.....H....
+ 4088c0 e9000000 488b052d 6a780048 83c01048  ....H..-jx.H...H
+ 4088d0 8b0083e0 024885c0 7430488b 05176a78  .....H..t0H...jx
+ 4088e0 004883c0 28488b00 4801c048 89c2488b  .H..(H..H..H..H.
+ 4088f0 05036a78 00488b00 be000000 004889c7  ..jx.H.......H..
+ 408900 e8abcaff ffe9a300 0000488b 05e76978  ..........H...ix
+ 408910 004883c0 10488b00 83e00448 85c07414  .H...H.....H..t.
+ 408920 488b05d1 69780048 8b004889 c7e8d4b4  H...ix.H..H.....
+ 408930 4d00eb12 488b05bd 69780048 8b004889  M...H...ix.H..H.
+ 408940 c7e81ad0 ffff488b 05ab6978 004883c0  ......H...ix.H..
+ 408950 10488b10 488b059d 69780048 83c01048  .H..H...ix.H...H
+ 408960 83f20148 8910488b 058b6978 004883c0  ...H..H...ix.H..
+ 408970 2048c700 ffffff7f 488b0579 69780048   H......H..yix.H
+ 408980 83c02848 c7000000 0000488b 05676978  ..(H......H..gix
+ 408990 004883c0 3048c700 00000000 488b157d  .H..0H......H..}
+ 4089a0 54670048 8b054e69 78004889 10488b05  Tg.H..Nix.H..H..
+ 4089b0 4c697800 4883c010 488b0083 e0014885  Lix.H...H.....H.
+ 4089c0 c00f8441 01000048 8b053269 78004883  ...A...H..2ix.H.
+ 4089d0 c010488b 0083e002 4885c074 5b488b05  ..H.....H..t[H..
+ 4089e0 1c697800 488b4028 488905b9 817800eb  .ix.H.@(H....x..
+ 4089f0 26488b05 b0817800 488d14c5 00000000  &H....x.H.......
+ 408a00 488b05f9 68780048 8b004801 d0488b00  H...hx.H..H..H..
+ 408a10 c7400800 00000048 8b058a81 7800488d  .@.....H....x.H.
+ 408a20 50ff4889 157f8178 004885c0 0f95c084  P.H....x.H......
+ 408a30 c075bee9 d0000000 488b05c1 68780048  .u......H...hx.H
+ 408a40 8b402848 89055e81 7800eb27 488b0555  .@(H..^.x..'H..U
+ 408a50 81780048 8d14c500 00000048 8b059e68  .x.H.......H...h
+ 408a60 7800488b 004801d0 488b0048 89c7e839  x.H..H..H..H...9
+ 408a70 b74d0048 8b052e81 7800488d 50ff4889  .M.H....x.H.P.H.
+ 408a80 15238178 004885c0 0f95c084 c075bd48  .#.x.H.......u.H
+ 408a90 8b056a68 7800488b 004889c7 e8bfceff  ..jhx.H..H......
+ 408aa0 ff488b05 58687800 4883c010 488b1048  .H..Xhx.H...H..H
+ 408ab0 8b054a68 78004883 c0104883 f2014889  ..Jhx.H...H...H.
+ 408ac0 10488b05 38687800 4883c020 48c700ff  .H..8hx.H.. H...
+ 408ad0 ffff7f48 8b052668 78004883 c02848c7  ...H..&hx.H..(H.
+ 408ae0 00000000 00488b05 14687800 4883c030  .....H...hx.H..0
+ 408af0 48c70000 00000048 8b050268 7800488d  H......H...hx.H.
+ 408b00 153b5367 00488910 488b05f9 67780048  .;Sg.H..H...gx.H
+ 408b10 83c01048 8b0083e0 014885c0 0f844101  ...H.....H....A.
+ 408b20 0000488b 05df6778 004883c0 10488b00  ..H...gx.H...H..
+ 408b30 83e00248 85c0745b 488b05c9 67780048  ...H..t[H...gx.H
+ 408b40 8b402848 89055e80 7800eb26 488b0555  .@(H..^.x..&H..U
+ 408b50 80780048 8d14c500 00000048 8b05a667  .x.H.......H...g
+ 408b60 7800488b 004801d0 488b00c7 40080000  x.H..H..H...@...
+ 408b70 0000488b 052f8078 00488d50 ff488915  ..H../.x.H.P.H..
+ 408b80 24807800 4885c00f 95c084c0 75bee9d0  $.x.H.......u...
+ 408b90 00000048 8b056e67 7800488b 40284889  ...H..ngx.H.@(H.
+ 408ba0 05038078 00eb2748 8b05fa7f 7800488d  ...x..'H....x.H.
+ 408bb0 14c50000 0000488b 054b6778 00488b00  ......H..Kgx.H..
+ 408bc0 4801d048 8b004889 c7e8deb5 4d00488b  H..H..H.....M.H.
+ 408bd0 05d37f78 00488d50 ff488915 c87f7800  ...x.H.P.H....x.
+ 408be0 4885c00f 95c084c0 75bd488b 05176778  H.......u.H...gx
+ 408bf0 00488b00 4889c7e8 64cdffff 488b0505  .H..H...d...H...
+ 408c00 67780048 83c01048 8b10488b 05f76678  gx.H...H..H...fx
+ 408c10 004883c0 104883f2 01488910 488b05e5  .H...H...H..H...
+ 408c20 66780048 83c02048 c700ffff ff7f488b  fx.H.. H......H.
+ 408c30 05d36678 004883c0 2848c700 00000000  ..fx.H..(H......
+ 408c40 488b05c1 66780048 83c03048 c7000000  H...fx.H..0H....
+ 408c50 0000488b 05af6678 00488d15 e0516700  ..H...fx.H...Qg.
+ 408c60 48891048 8b05a666 78004883 c010488b  H..H...fx.H...H.
+ 408c70 0083e001 4885c00f 84ea0000 00488b05  ....H........H..
+ 408c80 8c667800 4883c010 488b0083 e0024885  .fx.H...H.....H.
+ 408c90 c0743148 8b057666 78004883 c028488b  .t1H..vfx.H..(H.
+ 408ca0 0048c1e0 024889c2 488b0561 66780048  .H...H..H..afx.H
+ 408cb0 8b00be00 00000048 89c7e8f1 c6ffffe9  .......H........
+ 408cc0 a3000000 488b0545 66780048 83c01048  ....H..Efx.H...H
+ 408cd0 8b0083e0 044885c0 7414488b 052f6678  .....H..t.H../fx
+ 408ce0 00488b00 4889c7e8 1ab14d00 eb12488b  .H..H.....M...H.
+ 408cf0 051b6678 00488b00 4889c7e8 60ccffff  ..fx.H..H...`...
+ 408d00 488b0509 66780048 83c01048 8b10488b  H...fx.H...H..H.
+ 408d10 05fb6578 004883c0 104883f2 01488910  ..ex.H...H...H..
+ 408d20 488b05e9 65780048 83c02048 c700ffff  H...ex.H.. H....
+ 408d30 ff7f488b 05d76578 004883c0 2848c700  ..H...ex.H..(H..
+ 408d40 00000000 488b05c5 65780048 83c03048  ....H...ex.H..0H
+ 408d50 c7000000 0000488b 15c35067 00488b05  ......H...Pg.H..
+ 408d60 ac657800 48891048 8b05aa65 7800c700  .ex.H..H...ex...
+ 408d70 00000000 488b05a5 65780048 83c01048  ....H...ex.H...H
+ 408d80 8b0083e0 014885c0 0f84ea00 0000488b  .....H........H.
+ 408d90 058b6578 004883c0 10488b00 83e00248  ..ex.H...H.....H
+ 408da0 85c07431 488b0575 65780048 83c02848  ..t1H..uex.H..(H
+ 408db0 8b0048c1 e0024889 c2488b05 60657800  ..H...H..H..`ex.
+ 408dc0 488b00be 00000000 4889c7e8 e0c5ffff  H.......H.......
+ 408dd0 e9a30000 00488b05 44657800 4883c010  .....H..Dex.H...
+ 408de0 488b0083 e0044885 c0741448 8b052e65  H.....H..t.H...e
+ 408df0 7800488b 004889c7 e809b04d 00eb1248  x.H..H.....M...H
+ 408e00 8b051a65 7800488b 004889c7 e84fcbff  ...ex.H..H...O..
+ 408e10 ff488b05 08657800 4883c010 488b1048  .H...ex.H...H..H
+ 408e20 8b05fa64 78004883 c0104883 f2014889  ...dx.H...H...H.
+ 408e30 10488b05 e8647800 4883c020 48c700ff  .H...dx.H.. H...
+ 408e40 ffff7f48 8b05d664 78004883 c02848c7  ...H...dx.H..(H.
+ 408e50 00000000 00488b05 c4647800 4883c030  .....H...dx.H..0
+ 408e60 48c70000 00000048 8b15b24f 6700488b  H......H...Og.H.
+ 408e70 05ab6478 00488910 488b05a9 64780048  ..dx.H..H...dx.H
+ 408e80 83c01048 8b0083e0 014885c0 0f84ea00  ...H.....H......
+ 408e90 0000488b 058f6478 004883c0 10488b00  ..H...dx.H...H..
+ 408ea0 83e00248 85c07431 488b0579 64780048  ...H..t1H..ydx.H
+ 408eb0 83c02848 8b0048c1 e0024889 c2488b05  ..(H..H...H..H..
+ 408ec0 64647800 488b00be 00000000 4889c7e8  ddx.H.......H...
+ 408ed0 dcc4ffff e9a30000 00488b05 48647800  .........H..Hdx.
+ 408ee0 4883c010 488b0083 e0044885 c0741448  H...H.....H..t.H
+ 408ef0 8b053264 7800488b 004889c7 e805af4d  ..2dx.H..H.....M
+ 408f00 00eb1248 8b051e64 7800488b 004889c7  ...H...dx.H..H..
+ 408f10 e84bcaff ff488b05 0c647800 4883c010  .K...H...dx.H...
+ 408f20 488b1048 8b05fe63 78004883 c0104883  H..H...cx.H...H.
+ 408f30 f2014889 10488b05 ec637800 4883c020  ..H..H...cx.H.. 
+ 408f40 48c700ff ffff7f48 8b05da63 78004883  H......H...cx.H.
+ 408f50 c02848c7 00000000 00488b05 c8637800  .(H......H...cx.
+ 408f60 4883c030 48c70000 00000048 8b15ae4e  H..0H......H...N
+ 408f70 6700488b 05af6378 00488910 488b05ad  g.H...cx.H..H...
+ 408f80 63780066 c7000000 488b05a9 63780048  cx.f....H...cx.H
+ 408f90 83c01048 8b0083e0 014885c0 0f84a101  ...H.....H......
+ 408fa0 0000488b 058f6378 004883c0 10488b00  ..H...cx.H...H..
+ 408fb0 83e00248 85c07470 488b0579 63780048  ...H..tpH..ycx.H
+ 408fc0 83c02848 8b10488b 056b6378 004883c0  ..(H..H..kcx.H..
+ 408fd0 48488b00 480fafc2 488905c9 7b7800eb  HH..H...H...{x..
+ 408fe0 26488b05 c07b7800 488d14c5 00000000  &H...{x.H.......
+ 408ff0 488b0541 63780048 8b004801 d0488b00  H..Acx.H..H..H..
+ 409000 c7400800 00000048 8b059a7b 7800488d  .@.....H...{x.H.
+ 409010 50ff4889 158f7b78 004885c0 0f95c084  P.H...{x.H......
+ 409020 c075bee9 1b010000 488b0509 63780048  .u......H...cx.H
+ 409030 83c02848 8b10488b 05fb6278 004883c0  ..(H..H...bx.H..
+ 409040 48488b00 480fafc2 48890559 7b7800eb  HH..H...H..Y{x..
+ 409050 27488b05 507b7800 488d14c5 00000000  'H..P{x.H.......
+ 409060 488b05d1 62780048 8b004801 d0488b00  H...bx.H..H..H..
+ 409070 4889c7e8 34b14d00 488b0529 7b780048  H...4.M.H..){x.H
+ 409080 8d50ff48 89151e7b 78004885 c00f95c0  .P.H...{x.H.....
+ 409090 84c075bd 488b059d 62780048 8b004889  ..u.H...bx.H..H.
+ 4090a0 c7e8bac8 ffff488b 058b6278 004883c0  ......H...bx.H..
+ 4090b0 10488b10 488b057d 62780048 83c01048  .H..H..}bx.H...H
+ 4090c0 83f20148 8910488b 056b6278 004883c0  ...H..H..kbx.H..
+ 4090d0 2048c700 ffffff7f 488b0559 62780048   H......H..Ybx.H
+ 4090e0 83c02848 c7000000 0000488b 05476278  ..(H......H..Gbx
+ 4090f0 004883c0 3048c700 00000000 488b0535  .H..0H......H..5
+ 409100 62780048 83c04048 c700ffff ff7f488b  bx.H..@H......H.
+ 409110 05236278 004883c0 4848c700 00000000  .#bx.H..HH......
+ 409120 488b0511 62780048 83c05048 c7000000  H...bx.H..PH....
+ 409130 0000488b 05ff6178 00488d15 004d6700  ..H...ax.H...Mg.
+ 409140 48891048 8b05f661 78004883 c010488b  H..H...ax.H...H.
+ 409150 0083e001 4885c00f 84e60000 00488b05  ....H........H..
+ 409160 dc617800 4883c010 488b0083 e0024885  .ax.H...H.....H.
+ 409170 c0742d48 8b05c661 78004883 c028488b  .t-H...ax.H..(H.
+ 409180 004889c2 488b05b5 61780048 8b00be00  .H..H...ax.H....
+ 409190 00000048 89c7e815 c2ffffe9 a3000000  ...H............
+ 4091a0 488b0599 61780048 83c01048 8b0083e0  H...ax.H...H....
+ 4091b0 044885c0 7414488b 05836178 00488b00  .H..t.H...ax.H..
+ 4091c0 4889c7e8 3eac4d00 eb12488b 056f6178  H...>.M...H..oax
+ 4091d0 00488b00 4889c7e8 84c7ffff 488b055d  .H..H.......H..]
+ 4091e0 61780048 83c01048 8b10488b 054f6178  ax.H...H..H..Oax
+ 4091f0 004883c0 104883f2 01488910 488b053d  .H...H...H..H..=
+ 409200 61780048 83c02048 c700ffff ff7f488b  ax.H.. H......H.
+ 409210 052b6178 004883c0 2848c700 00000000  .+ax.H..(H......
+ 409220 488b0519 61780048 83c03048 c7000000  H...ax.H..0H....
+ 409230 0000488b 15e74b67 00488b05 00617800  ..H...Kg.H...ax.
+ 409240 48891048 8b05fe60 78004883 c010488b  H..H...`x.H...H.
+ 409250 0083e001 4885c00f 84e60000 00488b05  ....H........H..
+ 409260 e4607800 4883c010 488b0083 e0024885  .`x.H...H.....H.
+ 409270 c0742d48 8b05ce60 78004883 c028488b  .t-H...`x.H..(H.
+ 409280 004889c2 488b05bd 60780048 8b00be00  .H..H...`x.H....
+ 409290 00000048 89c7e815 c1ffffe9 a3000000  ...H............
+ 4092a0 488b05a1 60780048 83c01048 8b0083e0  H...`x.H...H....
+ 4092b0 044885c0 7414488b 058b6078 00488b00  .H..t.H...`x.H..
+ 4092c0 4889c7e8 3eab4d00 eb12488b 05776078  H...>.M...H..w`x
+ 4092d0 00488b00 4889c7e8 84c6ffff 488b0565  .H..H.......H..e
+ 4092e0 60780048 83c01048 8b10488b 05576078  `x.H...H..H..W`x
+ 4092f0 004883c0 104883f2 01488910 488b0545  .H...H...H..H..E
+ 409300 60780048 83c02048 c700ffff ff7f488b  `x.H.. H......H.
+ 409310 05336078 004883c0 2848c700 00000000  .3`x.H..(H......
+ 409320 488b0521 60780048 83c03048 c7000000  H..!`x.H..0H....
+ 409330 0000488b 15e74a67 00488b05 08607800  ..H...Jg.H...`x.
+ 409340 48891048 8b050660 780066c7 00000048  H..H...`x.f....H
+ 409350 8b050260 7800c740 08000000 00488b05  ...`x..@.....H..
+ 409360 fc5f7800 660fefc0 f30f1100 488b05f5  ._x.f.......H...
+ 409370 5f7800c7 00000000 00488b05 f05f7800  _x.......H..._x.
+ 409380 c7000000 0000488b 05eb5f78 004883c0  ......H..._x.H..
+ 409390 10488b00 83e00148 85c00f84 ea000000  .H.....H........
+ 4093a0 488b05d1 5f780048 83c01048 8b0083e0  H..._x.H...H....
+ 4093b0 024885c0 7431488b 05bb5f78 004883c0  .H..t1H..._x.H..
+ 4093c0 28488b00 48c1e002 4889c248 8b05a65f  (H..H...H..H..._
+ 4093d0 7800488b 00be0000 00004889 c7e8cebf  x.H.......H.....
+ 4093e0 ffffe9a3 00000048 8b058a5f 78004883  .......H..._x.H.
+ 4093f0 c010488b 0083e004 4885c074 14488b05  ..H.....H..t.H..
+ 409400 745f7800 488b0048 89c7e8f7 a94d00eb  t_x.H..H.....M..
+ 409410 12488b05 605f7800 488b0048 89c7e83d  .H..`_x.H..H...=
+ 409420 c5ffff48 8b054e5f 78004883 c010488b  ...H..N_x.H...H.
+ 409430 10488b05 405f7800 4883c010 4883f201  .H..@_x.H...H...
+ 409440 48891048 8b052e5f 78004883 c02048c7  H..H..._x.H.. H.
+ 409450 00ffffff 7f488b05 1c5f7800 4883c028  .....H..._x.H..(
+ 409460 48c70000 00000048 8b050a5f 78004883  H......H..._x.H.
+ 409470 c03048c7 00000000 00488b15 a0496700  .0H......H...Ig.
+ 409480 488b05f1 5e780048 8910488b 05ef5e78  H...^x.H..H...^x
+ 409490 00c70000 00000048 8b05ea5e 7800c700  .......H...^x...
+ 4094a0 00000000 488b05e5 5e7800c7 40080000  ....H...^x..@...
+ 4094b0 0000488b 05df5e78 00c70000 00000048  ..H...^x.......H
+ 4094c0 8b05da5e 7800c700 00000000 488b05d5  ...^x.......H...
+ 4094d0 5e7800c7 00000000 00488b05 d05e7800  ^x.......H...^x.
+ 4094e0 c6000048 8b05ce5e 7800c600 00488b05  ...H...^x....H..
+ 4094f0 cc5e7800 c7400800 00000048 8b05c65e  .^x..@.....H...^
+ 409500 7800c600 00488b05 c45e7800 4883c010  x....H...^x.H...
+ 409510 488b0083 e0014885 c00f84f7 00000048  H.....H........H
+ 409520 8b05aa5e 78004883 c010488b 0083e002  ...^x.H...H.....
+ 409530 4885c074 3e488b05 945e7800 4883c028  H..t>H...^x.H..(
+ 409540 488b1048 89d048c1 e0034801 d048c1e0  H..H..H...H..H..
+ 409550 024801d0 4889c248 8b05725e 7800488b  .H..H..H..r^x.H.
+ 409560 00be0000 00004889 c7e842be ffffe9a3  ......H...B.....
+ 409570 00000048 8b05565e 78004883 c010488b  ...H..V^x.H...H.
+ 409580 0083e004 4885c074 14488b05 405e7800  ....H..t.H..@^x.
+ 409590 488b0048 89c7e86b a84d00eb 12488b05  H..H...k.M...H..
+ 4095a0 2c5e7800 488b0048 89c7e8b1 c3ffff48  ,^x.H..H.......H
+ 4095b0 8b051a5e 78004883 c010488b 10488b05  ...^x.H...H..H..
+ 4095c0 0c5e7800 4883c010 4883f201 48891048  .^x.H...H...H..H
+ 4095d0 8b05fa5d 78004883 c02048c7 00ffffff  ...]x.H.. H.....
+ 4095e0 7f488b05 e85d7800 4883c028 48c70000  .H...]x.H..(H...
+ 4095f0 00000048 8b05d65d 78004883 c03048c7  ...H...]x.H..0H.
+ 409600 00000000 00488b15 14486700 488b05bd  .....H...Hg.H...
+ 409610 5d780048 8910488b 05bb5d78 00c70000  ]x.H..H...]x....
+ 409620 00000048 8b05b65d 7800c600 00488b05  ...H...]x....H..
+ 409630 b45d7800 c7000000 0000488b 05af5d78  .]x.......H...]x
+ 409640 00c70000 00000048 8b05aa5d 7800c740  .......H...]x..@
+ 409650 08000000 00488b05 a45d7800 c6000048  .....H...]x....H
+ 409660 8b05a25d 7800c600 00488b05 a05d7800  ...]x....H...]x.
+ 409670 c6000048 8b059e5d 7800c700 00000000  ...H...]x.......
+ 409680 488b0599 5d7800c7 00000000 00488b05  H...]x.......H..
+ 409690 945d7800 c7400800 00000048 8b058e5d  .]x..@.....H...]
+ 4096a0 7800c700 00000000 488b0589 5d7800c6  x.......H...]x..
+ 4096b0 0000488b 05875d78 00c74008 00000000  ..H...]x..@.....
+ 4096c0 488b0581 5d7800c7 40080000 0000488b  H...]x..@.....H.
+ 4096d0 057b5d78 00c74008 00000000 488b0575  .{]x..@.....H..u
+ 4096e0 5d7800c7 40080000 0000488b 056f5d78  ]x..@.....H..o]x
+ 4096f0 00c74008 00000000 488b0569 5d7800c7  ..@.....H..i]x..
+ 409700 40080000 0000488b 05635d78 00c74008  @.....H..c]x..@.
+ 409710 00000000 488b055d 5d7800c7 40080000  ....H..]]x..@...
+ 409720 0000488b 05575d78 00c74008 00000000  ..H..W]x..@.....
+ 409730 488b0551 5d7800c7 40080000 0000488b  H..Q]x..@.....H.
+ 409740 054b5d78 00c74008 00000000 488b0545  .K]x..@.....H..E
+ 409750 5d7800c7 40080000 0000488b 053f5d78  ]x..@.....H..?]x
+ 409760 00c74008 00000000 488b0539 5d7800c7  ..@.....H..9]x..
+ 409770 00000000 00488b05 345d7800 c7000000  .....H..4]x.....
+ 409780 0000488b 052f5d78 00c70000 00000048  ..H../]x.......H
+ 409790 8b052a5d 7800c700 00000000 488b0525  ..*]x.......H..%
+ 4097a0 5d7800c7 00000000 00488b05 205d7800  ]x.......H.. ]x.
+ 4097b0 4883c010 488b0083 e0014885 c00f8432  H...H.....H....2
+ 4097c0 01000048 8b05065d 78004883 c010488b  ...H...]x.H...H.
+ 4097d0 0083e002 4885c074 43488b05 f05c7800  ....H..tCH...\x.
+ 4097e0 4883c028 488b1048 8b05e25c 78004883  H..(H..H...\x.H.
+ 4097f0 c048488b 00480faf c248c1e0 084889c2  .HH..H...H...H..
+ 409800 488b05c9 5c780048 8b00be00 00000048  H...\x.H.......H
+ 409810 89c7e899 bbffffe9 d9000000 488b05ad  ............H...
+ 409820 5c780048 83c01048 8b0083e0 044885c0  \x.H...H.....H..
+ 409830 7414488b 05975c78 00488b00 4889c7e8  t.H...\x.H..H...
+ 409840 c2a54d00 eb12488b 05835c78 00488b00  ..M...H...\x.H..
+ 409850 4889c7e8 08c1ffff 488b0571 5c780048  H.......H..q\x.H
+ 409860 83c01048 8b10488b 05635c78 004883c0  ...H..H..c\x.H..
+ 409870 104883f2 01488910 488b0551 5c780048  .H...H..H..Q\x.H
+ 409880 83c02048 c700ffff ff7f488b 053f5c78  .. H......H..?\x
+ 409890 004883c0 2848c700 00000000 488b052d  .H..(H......H..-
+ 4098a0 5c780048 83c03048 c7000000 0000488b  \x.H..0H......H.
+ 4098b0 051b5c78 004883c0 4048c700 ffffff7f  ..\x.H..@H......
+ 4098c0 488b0509 5c780048 83c04848 c7000000  H...\x.H..HH....
+ 4098d0 0000488b 05f75b78 004883c0 5048c700  ..H...[x.H..PH..
+ 4098e0 00000000 488b1535 45670048 8b05de5b  ....H..5Eg.H...[
+ 4098f0 78004889 10488b05 dc5b7800 4883c010  x.H..H...[x.H...
+ 409900 488b0083 e0014885 c00f8431 01000048  H.....H....1...H
+ 409910 8b05c25b 78004883 c010488b 0083e002  ...[x.H...H.....
+ 409920 4885c074 42488b05 ac5b7800 4883c028  H..tBH...[x.H..(
+ 409930 488b1048 8b059e5b 78004883 c048488b  H..H...[x.H..HH.
+ 409940 00480faf c24801c0 4889c248 8b05865b  .H...H..H..H...[
+ 409950 7800488b 00be0000 00004889 c7e84eba  x.H.......H...N.
+ 409960 ffffe9d9 00000048 8b056a5b 78004883  .......H..j[x.H.
+ 409970 c010488b 0083e004 4885c074 14488b05  ..H.....H..t.H..
+ 409980 545b7800 488b0048 89c7e877 a44d00eb  T[x.H..H...w.M..
+ 409990 12488b05 405b7800 488b0048 89c7e8bd  .H..@[x.H..H....
+ 4099a0 bfffff48 8b052e5b 78004883 c010488b  ...H...[x.H...H.
+ 4099b0 10488b05 205b7800 4883c010 4883f201  .H.. [x.H...H...
+ 4099c0 48891048 8b050e5b 78004883 c02048c7  H..H...[x.H.. H.
+ 4099d0 00ffffff 7f488b05 fc5a7800 4883c028  .....H...Zx.H..(
+ 4099e0 48c70000 00000048 8b05ea5a 78004883  H......H...Zx.H.
+ 4099f0 c03048c7 00000000 00488b05 d85a7800  .0H......H...Zx.
+ 409a00 4883c040 48c700ff ffff7f48 8b05c65a  H..@H......H...Z
+ 409a10 78004883 c04848c7 00000000 00488b05  x.H..HH......H..
+ 409a20 b45a7800 4883c050 48c70000 00000048  .Zx.H..PH......H
+ 409a30 8b15ea43 6700488b 059b5a78 00488910  ...Cg.H...Zx.H..
+ 409a40 488b0599 5a780048 83c01048 8b0083e0  H...Zx.H...H....
+ 409a50 014885c0 0f84e900 0000488b 057f5a78  .H........H...Zx
+ 409a60 004883c0 10488b00 83e00248 85c07430  .H...H.....H..t0
+ 409a70 488b0569 5a780048 83c02848 8b004801  H..iZx.H..(H..H.
+ 409a80 c04889c2 488b0555 5a780048 8b00be00  .H..H..UZx.H....
+ 409a90 00000048 89c7e815 b9ffffe9 a3000000  ...H............
+ 409aa0 488b0539 5a780048 83c01048 8b0083e0  H..9Zx.H...H....
+ 409ab0 044885c0 7414488b 05235a78 00488b00  .H..t.H..#Zx.H..
+ 409ac0 4889c7e8 3ea34d00 eb12488b 050f5a78  H...>.M...H...Zx
+ 409ad0 00488b00 4889c7e8 84beffff 488b05fd  .H..H.......H...
+ 409ae0 59780048 83c01048 8b10488b 05ef5978  Yx.H...H..H...Yx
+ 409af0 004883c0 104883f2 01488910 488b05dd  .H...H...H..H...
+ 409b00 59780048 83c02048 c700ffff ff7f488b  Yx.H.. H......H.
+ 409b10 05cb5978 004883c0 2848c700 00000000  ..Yx.H..(H......
+ 409b20 488b05b9 59780048 83c03048 c7000000  H...Yx.H..0H....
+ 409b30 0000488b 15e74267 00488b05 a0597800  ..H...Bg.H...Yx.
+ 409b40 48891048 8b059e59 78004883 c010488b  H..H...Yx.H...H.
+ 409b50 0083e001 4885c00f 84e90000 00488b05  ....H........H..
+ 409b60 84597800 4883c010 488b0083 e0024885  .Yx.H...H.....H.
+ 409b70 c0743048 8b056e59 78004883 c028488b  .t0H..nYx.H..(H.
+ 409b80 004801c0 4889c248 8b055a59 7800488b  .H..H..H..ZYx.H.
+ 409b90 00be0000 00004889 c7e812b8 ffffe9a3  ......H.........
+ 409ba0 00000048 8b053e59 78004883 c010488b  ...H..>Yx.H...H.
+ 409bb0 0083e004 4885c074 14488b05 28597800  ....H..t.H..(Yx.
+ 409bc0 488b0048 89c7e83b a24d00eb 12488b05  H..H...;.M...H..
+ 409bd0 14597800 488b0048 89c7e881 bdffff48  .Yx.H..H.......H
+ 409be0 8b050259 78004883 c010488b 10488b05  ...Yx.H...H..H..
+ 409bf0 f4587800 4883c010 4883f201 48891048  .Xx.H...H...H..H
+ 409c00 8b05e258 78004883 c02048c7 00ffffff  ...Xx.H.. H.....
+ 409c10 7f488b05 d0587800 4883c028 48c70000  .H...Xx.H..(H...
+ 409c20 00000048 8b05be58 78004883 c03048c7  ...H...Xx.H..0H.
+ 409c30 00000000 00488b15 e4416700 488b05a5  .....H...Ag.H...
+ 409c40 58780048 8910488b 05a35878 004883c0  Xx.H..H...Xx.H..
+ 409c50 10488b00 83e00148 85c00f84 e9000000  .H.....H........
+ 409c60 488b0589 58780048 83c01048 8b0083e0  H...Xx.H...H....
+ 409c70 024885c0 7430488b 05735878 004883c0  .H..t0H..sXx.H..
+ 409c80 28488b00 4801c048 89c2488b 055f5878  (H..H..H..H.._Xx
+ 409c90 00488b00 be000000 004889c7 e80fb7ff  .H.......H......
+ 409ca0 ffe9a300 0000488b 05435878 004883c0  ......H..CXx.H..
+ 409cb0 10488b00 83e00448 85c07414 488b052d  .H.....H..t.H..-
+ 409cc0 58780048 8b004889 c7e838a1 4d00eb12  Xx.H..H...8.M...
+ 409cd0 488b0519 58780048 8b004889 c7e87ebc  H...Xx.H..H...~.
+ 409ce0 ffff488b 05075878 004883c0 10488b10  ..H...Xx.H...H..
+ 409cf0 488b05f9 57780048 83c01048 83f20148  H...Wx.H...H...H
+ 409d00 8910488b 05e75778 004883c0 2048c700  ..H...Wx.H.. H..
+ 409d10 ffffff7f 488b05d5 57780048 83c02848  ....H...Wx.H..(H
+ 409d20 c7000000 0000488b 05c35778 004883c0  ......H...Wx.H..
+ 409d30 3048c700 00000000 488b15e1 40670048  0H......H...@g.H
+ 409d40 8b05aa57 78004889 10488b05 a8577800  ...Wx.H..H...Wx.
+ 409d50 4883c010 488b0083 e0014885 c00f84e9  H...H.....H.....
+ 409d60 00000048 8b058e57 78004883 c010488b  ...H...Wx.H...H.
+ 409d70 0083e002 4885c074 30488b05 78577800  ....H..t0H..xWx.
+ 409d80 4883c028 488b0048 01c04889 c2488b05  H..(H..H..H..H..
+ 409d90 64577800 488b00be 00000000 4889c7e8  dWx.H.......H...
+ 409da0 0cb6ffff e9a30000 00488b05 48577800  .........H..HWx.
+ 409db0 4883c010 488b0083 e0044885 c0741448  H...H.....H..t.H
+ 409dc0 8b053257 7800488b 004889c7 e835a04d  ..2Wx.H..H...5.M
+ 409dd0 00eb1248 8b051e57 7800488b 004889c7  ...H...Wx.H..H..
+ 409de0 e87bbbff ff488b05 0c577800 4883c010  .{...H...Wx.H...
+ 409df0 488b1048 8b05fe56 78004883 c0104883  H..H...Vx.H...H.
+ 409e00 f2014889 10488b05 ec567800 4883c020  ..H..H...Vx.H.. 
+ 409e10 48c700ff ffff7f48 8b05da56 78004883  H......H...Vx.H.
+ 409e20 c02848c7 00000000 00488b05 c8567800  .(H......H...Vx.
+ 409e30 4883c030 48c70000 00000048 8b15de3f  H..0H......H...?
+ 409e40 6700488b 05af5678 00488910 488b05ad  g.H...Vx.H..H...
+ 409e50 56780048 83c01048 8b0083e0 014885c0  Vx.H...H.....H..
+ 409e60 0f84e900 0000488b 05935678 004883c0  ......H...Vx.H..
+ 409e70 10488b00 83e00248 85c07430 488b057d  .H.....H..t0H..}
+ 409e80 56780048 83c02848 8b004801 c04889c2  Vx.H..(H..H..H..
+ 409e90 488b0569 56780048 8b00be00 00000048  H..iVx.H.......H
+ 409ea0 89c7e809 b5ffffe9 a3000000 488b054d  ............H..M
+ 409eb0 56780048 83c01048 8b0083e0 044885c0  Vx.H...H.....H..
+ 409ec0 7414488b 05375678 00488b00 4889c7e8  t.H..7Vx.H..H...
+ 409ed0 329f4d00 eb12488b 05235678 00488b00  2.M...H..#Vx.H..
+ 409ee0 4889c7e8 78baffff 488b0511 56780048  H...x...H...Vx.H
+ 409ef0 83c01048 8b10488b 05035678 004883c0  ...H..H...Vx.H..
+ 409f00 104883f2 01488910 488b05f1 55780048  .H...H..H...Ux.H
+ 409f10 83c02048 c700ffff ff7f488b 05df5578  .. H......H...Ux
+ 409f20 004883c0 2848c700 00000000 488b05cd  .H..(H......H...
+ 409f30 55780048 83c03048 c7000000 0000488b  Ux.H..0H......H.
+ 409f40 15db3e67 00488b05 b4557800 48891048  ..>g.H...Ux.H..H
+ 409f50 8b05b255 78004883 c010488b 0083e001  ...Ux.H...H.....
+ 409f60 4885c00f 84e90000 00488b05 98557800  H........H...Ux.
+ 409f70 4883c010 488b0083 e0024885 c0743048  H...H.....H..t0H
+ 409f80 8b058255 78004883 c028488b 004801c0  ...Ux.H..(H..H..
+ 409f90 4889c248 8b056e55 7800488b 00be0000  H..H..nUx.H.....
+ 409fa0 00004889 c7e806b4 ffffe9a3 00000048  ..H............H
+ 409fb0 8b055255 78004883 c010488b 0083e004  ..RUx.H...H.....
+ 409fc0 4885c074 14488b05 3c557800 488b0048  H..t.H..<Ux.H..H
+ 409fd0 89c7e82f 9e4d00eb 12488b05 28557800  .../.M...H..(Ux.
+ 409fe0 488b0048 89c7e875 b9ffff48 8b051655  H..H...u...H...U
+ 409ff0 78004883 c010488b 10488b05 08557800  x.H...H..H...Ux.
+ 40a000 4883c010 4883f201 48891048 8b05f654  H...H...H..H...T
+ 40a010 78004883 c02048c7 00ffffff 7f488b05  x.H.. H......H..
+ 40a020 e4547800 4883c028 48c70000 00000048  .Tx.H..(H......H
+ 40a030 8b05d254 78004883 c03048c7 00000000  ...Tx.H..0H.....
+ 40a040 00488b15 d83d6700 488b05b9 54780048  .H...=g.H...Tx.H
+ 40a050 8910488b 05b75478 004883c0 10488b00  ..H...Tx.H...H..
+ 40a060 83e00148 85c00f84 ea000000 488b059d  ...H........H...
+ 40a070 54780048 83c01048 8b0083e0 024885c0  Tx.H...H.....H..
+ 40a080 7431488b 05875478 004883c0 28488b00  t1H...Tx.H..(H..
+ 40a090 48c1e002 4889c248 8b057254 7800488b  H...H..H..rTx.H.
+ 40a0a0 00be0000 00004889 c7e802b3 ffffe9a3  ......H.........
+ 40a0b0 00000048 8b055654 78004883 c010488b  ...H..VTx.H...H.
+ 40a0c0 0083e004 4885c074 14488b05 40547800  ....H..t.H..@Tx.
+ 40a0d0 488b0048 89c7e82b 9d4d00eb 12488b05  H..H...+.M...H..
+ 40a0e0 2c547800 488b0048 89c7e871 b8ffff48  ,Tx.H..H...q...H
+ 40a0f0 8b051a54 78004883 c010488b 10488b05  ...Tx.H...H..H..
+ 40a100 0c547800 4883c010 4883f201 48891048  .Tx.H...H...H..H
+ 40a110 8b05fa53 78004883 c02048c7 00ffffff  ...Sx.H.. H.....
+ 40a120 7f488b05 e8537800 4883c028 48c70000  .H...Sx.H..(H...
+ 40a130 00000048 8b05d653 78004883 c03048c7  ...H...Sx.H..0H.
+ 40a140 00000000 00488b15 d43c6700 488b05bd  .....H...<g.H...
+ 40a150 53780048 8910488b 05bb5378 004883c0  Sx.H..H...Sx.H..
+ 40a160 10488b00 83e00148 85c00f84 ea000000  .H.....H........
+ 40a170 488b05a1 53780048 83c01048 8b0083e0  H...Sx.H...H....
+ 40a180 024885c0 7431488b 058b5378 004883c0  .H..t1H...Sx.H..
+ 40a190 28488b00 48c1e002 4889c248 8b057653  (H..H...H..H..vS
+ 40a1a0 7800488b 00be0000 00004889 c7e8feb1  x.H.......H.....
+ 40a1b0 ffffe9a3 00000048 8b055a53 78004883  .......H..ZSx.H.
+ 40a1c0 c010488b 0083e004 4885c074 14488b05  ..H.....H..t.H..
+ 40a1d0 44537800 488b0048 89c7e827 9c4d00eb  DSx.H..H...'.M..
+ 40a1e0 12488b05 30537800 488b0048 89c7e86d  .H..0Sx.H..H...m
+ 40a1f0 b7ffff48 8b051e53 78004883 c010488b  ...H...Sx.H...H.
+ 40a200 10488b05 10537800 4883c010 4883f201  .H...Sx.H...H...
+ 40a210 48891048 8b05fe52 78004883 c02048c7  H..H...Rx.H.. H.
+ 40a220 00ffffff 7f488b05 ec527800 4883c028  .....H...Rx.H..(
+ 40a230 48c70000 00000048 8b05da52 78004883  H......H...Rx.H.
+ 40a240 c03048c7 00000000 00488b15 d03b6700  .0H......H...;g.
+ 40a250 488b05c1 52780048 8910488b 05bf5278  H...Rx.H..H...Rx
+ 40a260 004883c0 10488b00 83e00148 85c00f84  .H...H.....H....
+ 40a270 41010000 488b05a5 52780048 83c01048  A...H...Rx.H...H
+ 40a280 8b0083e0 024885c0 745b488b 058f5278  .....H..t[H...Rx
+ 40a290 00488b40 28488905 0c697800 eb26488b  .H.@(H...ix..&H.
+ 40a2a0 05036978 00488d14 c5000000 00488b05  ..ix.H.......H..
+ 40a2b0 6c527800 488b0048 01d0488b 00c74008  lRx.H..H..H...@.
+ 40a2c0 00000000 488b05dd 68780048 8d50ff48  ....H...hx.H.P.H
+ 40a2d0 8915d268 78004885 c00f95c0 84c075be  ...hx.H.......u.
+ 40a2e0 e9d00000 00488b05 34527800 488b4028  .....H..4Rx.H.@(
+ 40a2f0 488905b1 687800eb 27488b05 a8687800  H...hx..'H...hx.
+ 40a300 488d14c5 00000000 488b0511 52780048  H.......H...Rx.H
+ 40a310 8b004801 d0488b00 4889c7e8 8c9e4d00  ..H..H..H.....M.
+ 40a320 488b0581 68780048 8d50ff48 89157668  H...hx.H.P.H..vh
+ 40a330 78004885 c00f95c0 84c075bd 488b05dd  x.H.......u.H...
+ 40a340 51780048 8b004889 c7e812b6 ffff488b  Qx.H..H.......H.
+ 40a350 05cb5178 004883c0 10488b10 488b05bd  ..Qx.H...H..H...
+ 40a360 51780048 83c01048 83f20148 8910488b  Qx.H...H...H..H.
+ 40a370 05ab5178 004883c0 2048c700 ffffff7f  ..Qx.H.. H......
+ 40a380 488b0599 51780048 83c02848 c7000000  H...Qx.H..(H....
+ 40a390 0000488b 05875178 004883c0 3048c700  ..H...Qx.H..0H..
+ 40a3a0 00000000 488b0575 51780048 8d158e3a  ....H..uQx.H...:
+ 40a3b0 67004889 10488b05 6c517800 4883c010  g.H..H..lQx.H...
+ 40a3c0 488b0083 e0014885 c00f8441 01000048  H.....H....A...H
+ 40a3d0 8b055251 78004883 c010488b 0083e002  ..RQx.H...H.....
+ 40a3e0 4885c074 5b488b05 3c517800 488b4028  H..t[H..<Qx.H.@(
+ 40a3f0 488905b1 677800eb 26488b05 a8677800  H...gx..&H...gx.
+ 40a400 488d14c5 00000000 488b0519 51780048  H.......H...Qx.H
+ 40a410 8b004801 d0488b00 c7400800 00000048  ..H..H...@.....H
+ 40a420 8b058267 7800488d 50ff4889 15776778  ...gx.H.P.H..wgx
+ 40a430 004885c0 0f95c084 c075bee9 d0000000  .H.......u......
+ 40a440 488b05e1 50780048 8b402848 89055667  H...Px.H.@(H..Vg
+ 40a450 7800eb27 488b054d 67780048 8d14c500  x..'H..Mgx.H....
+ 40a460 00000048 8b05be50 7800488b 004801d0  ...H...Px.H..H..
+ 40a470 488b0048 89c7e831 9d4d0048 8b052667  H..H...1.M.H..&g
+ 40a480 7800488d 50ff4889 151b6778 004885c0  x.H.P.H...gx.H..
+ 40a490 0f95c084 c075bd48 8b058a50 7800488b  .....u.H...Px.H.
+ 40a4a0 004889c7 e8b7b4ff ff488b05 78507800  .H.......H..xPx.
+ 40a4b0 4883c010 488b1048 8b056a50 78004883  H...H..H..jPx.H.
+ 40a4c0 c0104883 f2014889 10488b05 58507800  ..H...H..H..XPx.
+ 40a4d0 4883c020 48c700ff ffff7f48 8b054650  H.. H......H..FP
+ 40a4e0 78004883 c02848c7 00000000 00488b05  x.H..(H......H..
+ 40a4f0 34507800 4883c030 48c70000 00000048  4Px.H..0H......H
+ 40a500 8b052250 7800488d 15333967 00488910  .."Px.H..39g.H..
+ 40a510 488b0519 50780048 83c01048 8b0083e0  H...Px.H...H....
+ 40a520 014885c0 0f844101 0000488b 05ff4f78  .H....A...H...Ox
+ 40a530 004883c0 10488b00 83e00248 85c0745b  .H...H.....H..t[
+ 40a540 488b05e9 4f780048 8b402848 89055666  H...Ox.H.@(H..Vf
+ 40a550 7800eb26 488b054d 66780048 8d14c500  x..&H..Mfx.H....
+ 40a560 00000048 8b05c64f 7800488b 004801d0  ...H...Ox.H..H..
+ 40a570 488b00c7 40080000 0000488b 05276678  H...@.....H..'fx
+ 40a580 00488d50 ff488915 1c667800 4885c00f  .H.P.H...fx.H...
+ 40a590 95c084c0 75bee9d0 00000048 8b058e4f  ....u......H...O
+ 40a5a0 7800488b 40284889 05fb6578 00eb2748  x.H.@(H...ex..'H
+ 40a5b0 8b05f265 7800488d 14c50000 0000488b  ...ex.H.......H.
+ 40a5c0 056b4f78 00488b00 4801d048 8b004889  .kOx.H..H..H..H.
+ 40a5d0 c7e8d69b 4d00488b 05cb6578 00488d50  ....M.H...ex.H.P
+ 40a5e0 ff488915 c0657800 4885c00f 95c084c0  .H...ex.H.......
+ 40a5f0 75bd488b 05374f78 00488b00 4889c7e8  u.H..7Ox.H..H...
+ 40a600 5cb3ffff 488b0525 4f780048 83c01048  \...H..%Ox.H...H
+ 40a610 8b10488b 05174f78 004883c0 104883f2  ..H...Ox.H...H..
+ 40a620 01488910 488b0505 4f780048 83c02048  .H..H...Ox.H.. H
+ 40a630 c700ffff ff7f488b 05f34e78 004883c0  ......H...Nx.H..
+ 40a640 2848c700 00000000 488b05e1 4e780048  (H......H...Nx.H
+ 40a650 83c03048 c7000000 0000488b 05cf4e78  ..0H......H...Nx
+ 40a660 00488d15 d8376700 48891048 8b05c64e  .H...7g.H..H...N
+ 40a670 78004883 c010488b 0083e001 4885c00f  x.H...H.....H...
+ 40a680 84410100 00488b05 ac4e7800 4883c010  .A...H...Nx.H...
+ 40a690 488b0083 e0024885 c0745b48 8b05964e  H.....H..t[H...N
+ 40a6a0 7800488b 40284889 05fb6478 00eb2648  x.H.@(H...dx..&H
+ 40a6b0 8b05f264 7800488d 14c50000 0000488b  ...dx.H.......H.
+ 40a6c0 05734e78 00488b00 4801d048 8b00c740  .sNx.H..H..H...@
+ 40a6d0 08000000 00488b05 cc647800 488d50ff  .....H...dx.H.P.
+ 40a6e0 488915c1 64780048 85c00f95 c084c075  H...dx.H.......u
+ 40a6f0 bee9d000 0000488b 053b4e78 00488b40  ......H..;Nx.H.@
+ 40a700 28488905 a0647800 eb27488b 05976478  (H...dx..'H...dx
+ 40a710 00488d14 c5000000 00488b05 184e7800  .H.......H...Nx.
+ 40a720 488b0048 01d0488b 004889c7 e87b9a4d  H..H..H..H...{.M
+ 40a730 00488b05 70647800 488d50ff 48891565  .H..pdx.H.P.H..e
+ 40a740 64780048 85c00f95 c084c075 bd488b05  dx.H.......u.H..
+ 40a750 e44d7800 488b0048 89c7e801 b2ffff48  .Mx.H..H.......H
+ 40a760 8b05d24d 78004883 c010488b 10488b05  ...Mx.H...H..H..
+ 40a770 c44d7800 4883c010 4883f201 48891048  .Mx.H...H...H..H
+ 40a780 8b05b24d 78004883 c02048c7 00ffffff  ...Mx.H.. H.....
+ 40a790 7f488b05 a04d7800 4883c028 48c70000  .H...Mx.H..(H...
+ 40a7a0 00000048 8b058e4d 78004883 c03048c7  ...H...Mx.H..0H.
+ 40a7b0 00000000 00488b05 7c4d7800 488d157d  .....H..|Mx.H..}
+ 40a7c0 36670048 8910488b 05734d78 00c70000  6g.H..H..sMx....
+ 40a7d0 00000048 8b056e4d 7800c700 00000000  ...H..nMx.......
+ 40a7e0 488b0569 4d780048 83c01048 8b0083e0  H..iMx.H...H....
+ 40a7f0 014885c0 0f844101 0000488b 054f4d78  .H....A...H..OMx
+ 40a800 004883c0 10488b00 83e00248 85c0745b  .H...H.....H..t[
+ 40a810 488b0539 4d780048 8b402848 89058663  H..9Mx.H.@(H...c
+ 40a820 7800eb26 488b057d 63780048 8d14c500  x..&H..}cx.H....
+ 40a830 00000048 8b05164d 7800488b 004801d0  ...H...Mx.H..H..
+ 40a840 488b00c7 40080000 0000488b 05576378  H...@.....H..Wcx
